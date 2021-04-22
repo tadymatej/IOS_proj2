@@ -19,6 +19,7 @@
 
 typedef struct {
 	pid_t PID;
+	sem_t *SantaWakeUp;
 } SantaT;
 
 typedef struct {
@@ -35,12 +36,13 @@ typedef struct {
 }SkritciT;
 
 typedef struct {
-	int totalCount;
-	int onHolidayCount;
-	int hitchedCount;
-	IntArr PIDs;
-	int *queueIndexes;
-	sem_t *sem;
+	int totalCount;	/**< Počet sobů */
+	int onHolidayCount;	/**< Počet sobů na dovolené */
+	int hitchedCount;	/**< Počet zapřažených sobů */
+	IntArr PIDs;	/**< Pole s PID procesů sobů */
+	sem_t *countingEnabled;	/**< semafor určující, zda sob smí používat počítadla */
+	sem_t *queue;	/**< semafor simulující frontu sobů, kteří se vrátili z dovolené */
+	sem_t *hitchEnabled; /**< Semafor určující, zda santa už začal soby zapřahovat */
 } SobiT;
 
 typedef struct {
@@ -74,7 +76,7 @@ int shareVar(int *id, void **var, unsigned int size) {
 	return 0;
 }
 
-int semInit(sem_t **semaphore, int pshared, int value) {
+int semInit(sem_t **semaphore, int pshared, unsigned int value) {
 	if((*semaphore = mmap(NULL, sizeof(sem_t), PROT_READ | PROT_WRITE, MAP_ANONYMOUS | MAP_SHARED, 0, 0)) == MAP_FAILED) {
 		fprintf(stderr, "Nepodarilo se vytvorit semafor\n");
 		return -1;
@@ -105,20 +107,40 @@ void deleteIntArr(IntArr *intArr) {
 	intArr->len = 0;
 }
 
-int workshop_init(Workshop *workshop, SantaT santa, SkritciT skritci, SobiT sobi) {
+int workshop_init(Workshop *workshop, int NE, int NR) {
 	if(semInit(&workshop->skritci.sem, 1, 1) == -1) return -1;
-	if(semInit(&workshop->sobi.sem, 1, 1) == -1) {
+	if(semInit(&workshop->sobi.queue, 1, 0) == -1) {
 		semDelete(&workshop->skritci.sem);
 		return -1;
 	}
-	workshop->santa = santa;
-	workshop->skritci = skritci;
-	workshop->sobi = sobi;
+	if(semInit(&workshop->santa.SantaWakeUp, 1, 0) == -1) {
+		semDelete(&workshop->sobi.queue);
+		semDelete(&workshop->skritci.sem);
+		return -1;
+	}
+	if(semInit(&workshop->sobi.hitchEnabled, 1, 0) == -1) {
+		semDelete(&workshop->santa.SantaWakeUp);
+		semDelete(&workshop->sobi.queue);
+		semDelete(&workshop->skritci.sem);
+		return -1;
+	}
+	if(semInit(&workshop->sobi.countingEnabled, 1, 10) == -1) {
+		semDelete(&workshop->sobi.hitchEnabled);
+		semDelete(&workshop->santa.SantaWakeUp);
+		semDelete(&workshop->sobi.queue);
+		semDelete(&workshop->skritci.sem);
+		return -1;
+	}
+	workshop->santa.PID = -1; 
+	workshop->skritci.totalCount = NE;
+	workshop->skritci.onHolidayCount = 0;
+	workshop->skritci.waitingForHelpCount = 0;
+	workshop->sobi.totalCount = NR;
+	workshop->sobi.onHolidayCount = NR;
+	workshop->sobi.hitchedCount = 0;
 	workshop->christmas = false;
 	workshop->sobi.PIDs = createIntArr(workshop->sobi.totalCount);
 	if(workshop->sobi.PIDs.arr == NULL) return -1;
-	workshop->sobi.queueIndexes = malloc(workshop->sobi.totalCount * sizeof(int));
-	workshop->sobi.onHolidayCount = workshop->sobi.totalCount;
 
 	workshop->skritci.PIDs = createIntArr(workshop->skritci.totalCount);
 	if(workshop->skritci.PIDs.arr == NULL) {
@@ -132,7 +154,6 @@ int workshop_init(Workshop *workshop, SantaT santa, SkritciT skritci, SobiT sobi
  * @todo Dealokovani semaforů
  */ 
 void workshop_free(Workshop *workshop) {
-	if(workshop->sobi.queueIndexes != NULL) free(workshop->sobi.queueIndexes);
 	deleteIntArr(&workshop->sobi.PIDs);
 	deleteIntArr(&workshop->skritci.PIDs);
 }
@@ -153,8 +174,8 @@ void sleepRandom() {
 
 //Usage: writeToFile(outputFile, "ahoj %d,%d\n", (int []){5,4}, 2);
 void writeToFile(FILE *outputFile, char *msg, int arr[], int arrLen) {
-	if(arrLen == 1) fprintf(stdout, msg, arr[0]);
-	else if(arrLen == 2) fprintf(stdout, msg, arr[0], arr[1]);
+	if(arrLen == 1) fprintf(outputFile, msg, arr[0]);
+	else if(arrLen == 2) fprintf(outputFile, msg, arr[0], arr[1]);
 	++(*actionNum);
 }
 
@@ -163,25 +184,24 @@ void Santa(FILE *outputFile) {
 		sem_wait(writing);
 		writeToFile(outputFile, "%d: Santa: going to sleep\n", (int []){*actionNum}, 1);
 		sem_post(writing);
-		kill(getpid(), SIGSTOP);
+		sem_wait(workshop->santa.SantaWakeUp);
 		if(workshop->sobi.onHolidayCount == 0) {
 			//Jde zaprahnout soby
 			sem_wait(writing);
-			writeToFile(outputFile, "%d: Santa: closing_workshop\n", (int []){*actionNum}, 1);
+			writeToFile(outputFile, "%d: Santa: closing workshop\n", (int []){*actionNum}, 1);
 			sem_post(writing);
-			//while(workshop->sobi.hitchedCount != workshop->sobi.totalCount) { //Je to pasivní čekání??
-				//Zapřahuje soby
-				//kill(getpid(), SIGSTOP);
-				for(int i=0; i < workshop->sobi.totalCount; ++i) {
-					kill(workshop->sobi.queueIndexes[i], SIGCONT);
-				}
-			//}
+			
+			//Zapřahuju soby
+			sem_post(workshop->sobi.queue);
+			sem_wait(workshop->santa.SantaWakeUp);
+
 			sem_wait(writing);
 			writeToFile(outputFile, "%d: Santa: Christmas started\n", (int []){*actionNum}, 1);
 			sem_post(writing);
 			workshop->christmas = true;
 			exit(0);
-		} else {
+			
+		}/* else {
 			//Jde pomáhat skřítkům
 			sem_wait(writing);
 			writeToFile(outputFile, "%d: Santa: helping elves\n", (int []){*actionNum}, 1);
@@ -192,12 +212,12 @@ void Santa(FILE *outputFile) {
 				//Pomáhá skřítkům
 				//kill(getpid(), SIGSTOP);
 			}
-		}
+		}*/
 	}
 }
 
 void Skritek(FILE *outputFile, int id, int minSleep, int maxSleep) {
-	sem_wait(writing);
+	/*sem_wait(writing);
 	writeToFile(outputFile, "%d: Elf %d: started\n", (int []){*actionNum, id}, 2);
 	sem_post(writing);
 	while(true) {
@@ -227,7 +247,7 @@ void Skritek(FILE *outputFile, int id, int minSleep, int maxSleep) {
 		}
 	}
 	sleepRandom();
-
+	*/
 }
 
 void Sob(FILE *outputFile, int id, int minSleep, int maxSleep) {
@@ -235,26 +255,27 @@ void Sob(FILE *outputFile, int id, int minSleep, int maxSleep) {
 	writeToFile(outputFile, "%d: RD %d: rstarted\n", (int []) {*actionNum, id}, 2);
 	sem_post(writing);
 	usleep(randomInt(minSleep, maxSleep));//Nyní je na dovolené
+	
 	sem_wait(writing);
 	writeToFile(outputFile, "%d: RD %d: return home\n", (int []) {*actionNum, id}, 2);
 	sem_post(writing);
-	
+
+	sem_wait(workshop->sobi.countingEnabled);
+	workshop->sobi.onHolidayCount--;
+	sem_post(workshop->sobi.countingEnabled);
 	//Obsluha fronty, v které se vrací sobi z dovolené
-	arrayPush(workshop->sobi.queueIndexes, getpid(), workshop->sobi.hitchedCount);
-	if(workshop->sobi.onHolidayCount == 0) kill(workshop->santa.PID, SIGCONT);
-	
-	kill(getpid(), SIGSTOP);
+	if(workshop->sobi.onHolidayCount == 0) sem_post(workshop->santa.SantaWakeUp);
+	sem_wait(workshop->sobi.queue);
 	workshop->sobi.hitchedCount++;
 	sem_wait(writing);
 	writeToFile(outputFile, "%d: RD %d: get hitched\n", (int []) {*actionNum, id}, 2);
 	sem_post(writing);
+	//Santo, můžeš startovat Vánoce!
+	if(workshop->sobi.hitchedCount == workshop->sobi.totalCount) sem_post(workshop->santa.SantaWakeUp);
+	//Už jsem byl hitchnut, můžete další, pánové
+	sem_post(workshop->sobi.queue);
 	exit(0);
 
-	/*while(workshop->sobi.hitchedCount != workshop->sobi.totalCount) {
-		writeToFile(outputFile, "%d: RD %d: get hitched\n", (int []) {actionNum, id}, 2);
-		workshop->sobi.hitchedCount++;
-		exit(0);
-	}*/
 }
 
 void createProcesses(void (*funcPointer)(), int count, int minSleep, int maxSleep, FILE *outputFile, int type) {
@@ -331,15 +352,12 @@ int main(int argc, char **argv)
 	if(shareVar(&idWorkshop, (void **)&workshop, sizeof(Workshop)) == -1) return EXIT_FAILURE;
 	shareVar(&idActionNum, (void **)&actionNum, sizeof(int));
 	*actionNum = 1;
-	if(workshop_init(workshop,
-				 (SantaT) {false},
-				 (SkritciT) {NE, 0, 0, {0, NULL}, NULL},
-				 (SobiT) {NR, 0, 0, {0, NULL}, NULL, NULL}  ) == -1) return EXIT_FAILURE;
+	if(workshop_init(workshop, NE, NR) == -1) return EXIT_FAILURE;
 	
 
 	//Hlavni proces
 	createProcesses(santaF, 1, -1, -1, outputFile, SANTA);
-	createProcesses(skritekF, NE, 0, TE+1, outputFile, SKRITEK);
+	//createProcesses(skritekF, NE, 0, TE+1, outputFile, SKRITEK);
 	createProcesses(sobF, NR, TR/2, TR+1, outputFile, SOB);
 
 	
