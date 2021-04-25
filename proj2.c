@@ -172,8 +172,8 @@ void sleepRandom() {
 
 //Usage: writeToFile(outputFile, "ahoj %d,%d\n", (int []){5,4}, 2);
 void writeToFile(FILE *outputFile, char *msg, int arr[], int arrLen) {
-	if(arrLen == 1) fprintf(stderr, msg, arr[0]);
-	else if(arrLen == 2) fprintf(stderr, msg, arr[0], arr[1]);
+	if(arrLen == 1) fprintf(stdout, msg, arr[0]);
+	else if(arrLen == 2) fprintf(stdout, msg, arr[0], arr[1]);
 	++(*actionNum);
 }
 
@@ -275,7 +275,7 @@ void Skritek(FILE *outputFile, int id, int minSleep, int maxSleep) {
 			sem_wait(writing);
 			skritekTakeHolidays(outputFile, id);
 		}
-		else if(workshop->skritci.waitingForHelpCount >= 3) {
+		else if(workshop->skritci.waitingForHelpCount == 3) {
 			LOG("Skřítek", id, "čekám na semafor santaAwake, jsem třetí skřítek v dílně (chci říct, že santa je vzhůru)");
 			sem_wait(workshop->santa.santaAwake);	//Říkám ostatní, že nyní je santa vzhůru
 			LOG("Skřítek", id, "Jsem třetí skřítek před dílnou, budím santu");
