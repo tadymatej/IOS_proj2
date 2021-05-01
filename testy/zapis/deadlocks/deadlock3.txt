@@ -1,0 +1,2682 @@
+266: Santa| ID:0 |Začínám
+270: Santa| ID:0 |Čekám na writing
+276: Santa| ID:0 |Uvolnil jsem writing
+399: Skřítek| ID:1 |Začínám
+284: Santa| ID:0 |Jdu spát
+399: Skřítek| ID:2 |Začínám
+407: Skřítek| ID:1 |Pracuji
+399: Skřítek| ID:3 |Začínám
+407: Skřítek| ID:2 |Pracuji
+415: Skřítek| ID:1 |Potřebuji pomoc
+407: Skřítek| ID:3 |Pracuji
+399: Skřítek| ID:4 |Začínám
+423: Skřítek| ID:1 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:2 |Potřebuji pomoc
+407: Skřítek| ID:4 |Pracuji
+487: Skřítek| ID:1 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:5 |Začínám
+423: Skřítek| ID:2 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:3 |Potřebuji pomoc
+407: Skřítek| ID:5 |Pracuji
+487: Skřítek| ID:2 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:6 |Začínám
+423: Skřítek| ID:3 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:12 |Začínám
+407: Skřítek| ID:6 |Pracuji
+474: Skřítek| ID:3 |čekám na semafor santaAwake, jsem třetí skřítek v dílně (chci říct, že santa je vzhůru)
+478: Skřítek| ID:3 |Jsem třetí skřítek před dílnou, budím santu
+399: Skřítek| ID:8 |Začínám
+407: Skřítek| ID:12 |Pracuji
+288: Santa| ID:0 |Byl jsem probuzen
+487: Skřítek| ID:3 |Čekám ve skřítkovské frontě
+342: Santa| ID:0 |Čekám na writing
+415: Skřítek| ID:4 |Potřebuji pomoc
+407: Skřítek| ID:8 |Pracuji
+399: Skřítek| ID:9 |Začínám
+423: Skřítek| ID:4 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:10 |Začínám
+407: Skřítek| ID:9 |Pracuji
+415: Skřítek| ID:5 |Potřebuji pomoc
+407: Skřítek| ID:10 |Pracuji
+399: Skřítek| ID:11 |Začínám
+423: Skřítek| ID:5 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:7 |Začínám
+407: Skřítek| ID:11 |Pracuji
+415: Skřítek| ID:6 |Potřebuji pomoc
+407: Skřítek| ID:7 |Pracuji
+399: Skřítek| ID:13 |Začínám
+423: Skřítek| ID:6 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:14 |Začínám
+407: Skřítek| ID:13 |Pracuji
+415: Skřítek| ID:13 |Potřebuji pomoc
+407: Skřítek| ID:14 |Pracuji
+415: Skřítek| ID:12 |Potřebuji pomoc
+423: Skřítek| ID:13 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:15 |Začínám
+423: Skřítek| ID:12 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:8 |Potřebuji pomoc
+407: Skřítek| ID:15 |Pracuji
+399: Skřítek| ID:16 |Začínám
+399: Skřítek| ID:17 |Začínám
+407: Skřítek| ID:16 |Pracuji
+423: Skřítek| ID:8 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:9 |Potřebuji pomoc
+407: Skřítek| ID:17 |Pracuji
+399: Skřítek| ID:18 |Začínám
+423: Skřítek| ID:9 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:10 |Potřebuji pomoc
+407: Skřítek| ID:18 |Pracuji
+399: Skřítek| ID:19 |Začínám
+423: Skřítek| ID:10 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:20 |Začínám
+407: Skřítek| ID:19 |Pracuji
+415: Skřítek| ID:19 |Potřebuji pomoc
+407: Skřítek| ID:20 |Pracuji
+415: Skřítek| ID:11 |Potřebuji pomoc
+423: Skřítek| ID:19 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:22 |Začínám
+423: Skřítek| ID:11 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:7 |Potřebuji pomoc
+407: Skřítek| ID:22 |Pracuji
+399: Skřítek| ID:23 |Začínám
+423: Skřítek| ID:7 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:24 |Začínám
+407: Skřítek| ID:23 |Pracuji
+407: Skřítek| ID:24 |Pracuji
+348: Santa| ID:0 |Uvolnil jsem writing a pomáhám skřítkům
+399: Skřítek| ID:25 |Začínám
+491: Skřítek| ID:1 |Nyní jsem vstoupil do dílny
+491: Skřítek| ID:2 |Nyní jsem vstoupil do dílny
+509: Skřítek| ID:1 |Čekám na zápis
+415: Skřítek| ID:14 |Potřebuji pomoc
+491: Skřítek| ID:3 |Nyní jsem vstoupil do dílny
+509: Skřítek| ID:2 |Čekám na zápis
+407: Skřítek| ID:25 |Pracuji
+360: Santa| ID:0 |Čekám než pomůžu všem skřítkům
+509: Skřítek| ID:3 |Čekám na zápis
+423: Skřítek| ID:14 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:26 |Začínám
+399: Skřítek| ID:27 |Začínám
+407: Skřítek| ID:26 |Pracuji
+399: Skřítek| ID:28 |Začínám
+407: Skřítek| ID:27 |Pracuji
+415: Skřítek| ID:15 |Potřebuji pomoc
+407: Skřítek| ID:28 |Pracuji
+399: Skřítek| ID:29 |Začínám
+423: Skřítek| ID:15 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:30 |Začínám
+407: Skřítek| ID:29 |Pracuji
+415: Skřítek| ID:16 |Potřebuji pomoc
+407: Skřítek| ID:30 |Pracuji
+399: Skřítek| ID:31 |Začínám
+423: Skřítek| ID:16 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:32 |Začínám
+407: Skřítek| ID:31 |Pracuji
+415: Skřítek| ID:17 |Potřebuji pomoc
+407: Skřítek| ID:32 |Pracuji
+415: Skřítek| ID:32 |Potřebuji pomoc
+423: Skřítek| ID:17 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:34 |Začínám
+423: Skřítek| ID:32 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:18 |Potřebuji pomoc
+407: Skřítek| ID:34 |Pracuji
+399: Skřítek| ID:35 |Začínám
+423: Skřítek| ID:18 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:36 |Začínám
+407: Skřítek| ID:35 |Pracuji
+399: Skřítek| ID:21 |Začínám
+407: Skřítek| ID:36 |Pracuji
+399: Skřítek| ID:37 |Začínám
+407: Skřítek| ID:21 |Pracuji
+415: Skřítek| ID:20 |Potřebuji pomoc
+407: Skřítek| ID:37 |Pracuji
+399: Skřítek| ID:38 |Začínám
+423: Skřítek| ID:20 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:39 |Začínám
+407: Skřítek| ID:38 |Pracuji
+399: Skřítek| ID:40 |Začínám
+407: Skřítek| ID:39 |Pracuji
+415: Skřítek| ID:22 |Potřebuji pomoc
+407: Skřítek| ID:40 |Pracuji
+399: Skřítek| ID:41 |Začínám
+423: Skřítek| ID:22 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:42 |Začínám
+407: Skřítek| ID:41 |Pracuji
+415: Skřítek| ID:23 |Potřebuji pomoc
+407: Skřítek| ID:42 |Pracuji
+399: Skřítek| ID:43 |Začínám
+423: Skřítek| ID:23 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:24 |Potřebuji pomoc
+407: Skřítek| ID:43 |Pracuji
+399: Skřítek| ID:44 |Začínám
+423: Skřítek| ID:24 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:45 |Začínám
+407: Skřítek| ID:44 |Pracuji
+407: Skřítek| ID:45 |Pracuji
+523: Skřítek| ID:2 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::1
+399: Skřítek| ID:46 |Začínám
+523: Skřítek| ID:1 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::2
+523: Skřítek| ID:3 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::2
+407: Skřítek| ID:2 |Pracuji
+529: Skřítek| ID:1 |Jsem poslední skřítek, kterému santa pomohl, díky santo
+415: Skřítek| ID:25 |Potřebuji pomoc
+529: Skřítek| ID:3 |Jsem poslední skřítek, kterému santa pomohl, díky santo
+407: Skřítek| ID:46 |Pracuji
+366: Santa| ID:0 |Poslední skřítek odešel z dílny
+407: Skřítek| ID:1 |Pracuji
+407: Skřítek| ID:3 |Pracuji
+270: Santa| ID:0 |Čekám na writing
+399: Skřítek| ID:47 |Začínám
+423: Skřítek| ID:25 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:48 |Začínám
+407: Skřítek| ID:47 |Pracuji
+415: Skřítek| ID:26 |Potřebuji pomoc
+407: Skřítek| ID:48 |Pracuji
+399: Skřítek| ID:49 |Začínám
+423: Skřítek| ID:26 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:27 |Potřebuji pomoc
+407: Skřítek| ID:49 |Pracuji
+399: Skřítek| ID:50 |Začínám
+423: Skřítek| ID:27 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:28 |Potřebuji pomoc
+407: Skřítek| ID:50 |Pracuji
+399: Skřítek| ID:51 |Začínám
+423: Skřítek| ID:28 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:52 |Začínám
+407: Skřítek| ID:51 |Pracuji
+415: Skřítek| ID:29 |Potřebuji pomoc
+407: Skřítek| ID:52 |Pracuji
+399: Skřítek| ID:53 |Začínám
+423: Skřítek| ID:29 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:30 |Potřebuji pomoc
+407: Skřítek| ID:53 |Pracuji
+399: Skřítek| ID:54 |Začínám
+423: Skřítek| ID:30 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:55 |Začínám
+407: Skřítek| ID:54 |Pracuji
+399: Skřítek| ID:56 |Začínám
+407: Skřítek| ID:55 |Pracuji
+415: Skřítek| ID:31 |Potřebuji pomoc
+407: Skřítek| ID:56 |Pracuji
+399: Skřítek| ID:57 |Začínám
+423: Skřítek| ID:31 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:33 |Začínám
+407: Skřítek| ID:57 |Pracuji
+399: Skřítek| ID:58 |Začínám
+407: Skřítek| ID:33 |Pracuji
+399: Skřítek| ID:59 |Začínám
+407: Skřítek| ID:58 |Pracuji
+399: Skřítek| ID:60 |Začínám
+407: Skřítek| ID:59 |Pracuji
+415: Skřítek| ID:34 |Potřebuji pomoc
+407: Skřítek| ID:60 |Pracuji
+415: Skřítek| ID:60 |Potřebuji pomoc
+423: Skřítek| ID:34 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:62 |Začínám
+423: Skřítek| ID:60 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:63 |Začínám
+407: Skřítek| ID:62 |Pracuji
+415: Skřítek| ID:35 |Potřebuji pomoc
+407: Skřítek| ID:63 |Pracuji
+399: Skřítek| ID:64 |Začínám
+423: Skřítek| ID:35 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:36 |Potřebuji pomoc
+407: Skřítek| ID:64 |Pracuji
+399: Skřítek| ID:65 |Začínám
+423: Skřítek| ID:36 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:21 |Potřebuji pomoc
+407: Skřítek| ID:65 |Pracuji
+399: Skřítek| ID:66 |Začínám
+423: Skřítek| ID:21 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:37 |Potřebuji pomoc
+407: Skřítek| ID:66 |Pracuji
+399: Skřítek| ID:67 |Začínám
+423: Skřítek| ID:37 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:68 |Začínám
+407: Skřítek| ID:67 |Pracuji
+415: Skřítek| ID:38 |Potřebuji pomoc
+407: Skřítek| ID:68 |Pracuji
+399: Skřítek| ID:69 |Začínám
+423: Skřítek| ID:38 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:39 |Potřebuji pomoc
+407: Skřítek| ID:69 |Pracuji
+399: Skřítek| ID:70 |Začínám
+423: Skřítek| ID:39 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:40 |Potřebuji pomoc
+407: Skřítek| ID:70 |Pracuji
+399: Skřítek| ID:71 |Začínám
+423: Skřítek| ID:40 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:72 |Začínám
+407: Skřítek| ID:71 |Pracuji
+399: Skřítek| ID:73 |Začínám
+407: Skřítek| ID:72 |Pracuji
+415: Skřítek| ID:41 |Potřebuji pomoc
+407: Skřítek| ID:73 |Pracuji
+399: Skřítek| ID:74 |Začínám
+423: Skřítek| ID:41 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:42 |Potřebuji pomoc
+407: Skřítek| ID:74 |Pracuji
+399: Skřítek| ID:75 |Začínám
+423: Skřítek| ID:42 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:76 |Začínám
+407: Skřítek| ID:75 |Pracuji
+415: Skřítek| ID:75 |Potřebuji pomoc
+407: Skřítek| ID:76 |Pracuji
+399: Skřítek| ID:77 |Začínám
+423: Skřítek| ID:75 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:78 |Začínám
+407: Skřítek| ID:77 |Pracuji
+415: Skřítek| ID:44 |Potřebuji pomoc
+407: Skřítek| ID:78 |Pracuji
+399: Skřítek| ID:79 |Začínám
+423: Skřítek| ID:44 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:45 |Potřebuji pomoc
+407: Skřítek| ID:79 |Pracuji
+399: Skřítek| ID:80 |Začínám
+423: Skřítek| ID:45 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:81 |Začínám
+407: Skřítek| ID:80 |Pracuji
+399: Skřítek| ID:82 |Začínám
+407: Skřítek| ID:81 |Pracuji
+415: Skřítek| ID:81 |Potřebuji pomoc
+407: Skřítek| ID:82 |Pracuji
+399: Skřítek| ID:83 |Začínám
+423: Skřítek| ID:81 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:46 |Potřebuji pomoc
+407: Skřítek| ID:83 |Pracuji
+423: Skřítek| ID:46 |Čekám dokud je Santa vzhůru
+276: Santa| ID:0 |Uvolnil jsem writing
+415: Skřítek| ID:3 |Potřebuji pomoc
+284: Santa| ID:0 |Jdu spát
+288: Santa| ID:0 |Byl jsem probuzen
+415: Skřítek| ID:1 |Potřebuji pomoc
+342: Santa| ID:0 |Čekám na writing
+423: Skřítek| ID:3 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:4 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:5 |Čekám ve skřítkovské frontě
+474: Skřítek| ID:6 |čekám na semafor santaAwake, jsem třetí skřítek v dílně (chci říct, že santa je vzhůru)
+487: Skřítek| ID:13 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:84 |Začínám
+423: Skřítek| ID:1 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:12 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:8 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:9 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:85 |Začínám
+487: Skřítek| ID:19 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:10 |Čekám ve skřítkovské frontě
+407: Skřítek| ID:84 |Pracuji
+487: Skřítek| ID:11 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:7 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:47 |Potřebuji pomoc
+487: Skřítek| ID:15 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:14 |Čekám ve skřítkovské frontě
+407: Skřítek| ID:85 |Pracuji
+487: Skřítek| ID:17 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:28 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:32 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:18 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:86 |Začínám
+487: Skřítek| ID:22 |Čekám ve skřítkovské frontě
+423: Skřítek| ID:47 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:31 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:37 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:24 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:25 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:16 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:48 |Potřebuji pomoc
+407: Skřítek| ID:86 |Pracuji
+487: Skřítek| ID:26 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:27 |Čekám ve skřítkovské frontě
+478: Skřítek| ID:6 |Jsem třetí skřítek před dílnou, budím santu
+487: Skřítek| ID:29 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:30 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:6 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:20 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:87 |Začínám
+487: Skřítek| ID:81 |Čekám ve skřítkovské frontě
+423: Skřítek| ID:48 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:23 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:60 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:35 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:36 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:21 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:38 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:88 |Začínám
+407: Skřítek| ID:87 |Pracuji
+487: Skřítek| ID:39 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:40 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:41 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:75 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:42 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:44 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:49 |Potřebuji pomoc
+487: Skřítek| ID:45 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:34 |Čekám ve skřítkovské frontě
+407: Skřítek| ID:88 |Pracuji
+487: Skřítek| ID:3 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:46 |Čekám ve skřítkovské frontě
+399: Skřítek| ID:89 |Začínám
+423: Skřítek| ID:49 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:90 |Začínám
+407: Skřítek| ID:89 |Pracuji
+415: Skřítek| ID:50 |Potřebuji pomoc
+407: Skřítek| ID:90 |Pracuji
+399: Skřítek| ID:91 |Začínám
+423: Skřítek| ID:50 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:92 |Začínám
+407: Skřítek| ID:91 |Pracuji
+399: Skřítek| ID:93 |Začínám
+407: Skřítek| ID:92 |Pracuji
+415: Skřítek| ID:51 |Potřebuji pomoc
+407: Skřítek| ID:93 |Pracuji
+399: Skřítek| ID:94 |Začínám
+423: Skřítek| ID:51 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:52 |Potřebuji pomoc
+407: Skřítek| ID:94 |Pracuji
+399: Skřítek| ID:95 |Začínám
+423: Skřítek| ID:52 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:96 |Začínám
+407: Skřítek| ID:95 |Pracuji
+415: Skřítek| ID:53 |Potřebuji pomoc
+407: Skřítek| ID:96 |Pracuji
+399: Skřítek| ID:97 |Začínám
+423: Skřítek| ID:53 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:175 |Začínám
+407: Skřítek| ID:97 |Pracuji
+415: Skřítek| ID:54 |Potřebuji pomoc
+407: Skřítek| ID:175 |Pracuji
+399: Skřítek| ID:99 |Začínám
+423: Skřítek| ID:54 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:55 |Potřebuji pomoc
+407: Skřítek| ID:99 |Pracuji
+399: Skřítek| ID:100 |Začínám
+423: Skřítek| ID:55 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:101 |Začínám
+407: Skřítek| ID:100 |Pracuji
+415: Skřítek| ID:100 |Potřebuji pomoc
+407: Skřítek| ID:101 |Pracuji
+399: Skřítek| ID:102 |Začínám
+423: Skřítek| ID:100 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:103 |Začínám
+407: Skřítek| ID:102 |Pracuji
+399: Skřítek| ID:185 |Začínám
+407: Skřítek| ID:103 |Pracuji
+399: Skřítek| ID:104 |Začínám
+407: Skřítek| ID:185 |Pracuji
+415: Skřítek| ID:33 |Potřebuji pomoc
+407: Skřítek| ID:104 |Pracuji
+399: Skřítek| ID:105 |Začínám
+423: Skřítek| ID:33 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:58 |Potřebuji pomoc
+407: Skřítek| ID:105 |Pracuji
+415: Skřítek| ID:105 |Potřebuji pomoc
+423: Skřítek| ID:58 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:59 |Potřebuji pomoc
+423: Skřítek| ID:105 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:107 |Začínám
+423: Skřítek| ID:59 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:61 |Začínám
+407: Skřítek| ID:107 |Pracuji
+399: Skřítek| ID:108 |Začínám
+407: Skřítek| ID:61 |Pracuji
+399: Skřítek| ID:109 |Začínám
+407: Skřítek| ID:108 |Pracuji
+399: Skřítek| ID:110 |Začínám
+407: Skřítek| ID:109 |Pracuji
+399: Skřítek| ID:111 |Začínám
+407: Skřítek| ID:110 |Pracuji
+415: Skřítek| ID:62 |Potřebuji pomoc
+407: Skřítek| ID:111 |Pracuji
+415: Skřítek| ID:111 |Potřebuji pomoc
+423: Skřítek| ID:62 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:63 |Potřebuji pomoc
+423: Skřítek| ID:111 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:113 |Začínám
+423: Skřítek| ID:63 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:114 |Začínám
+407: Skřítek| ID:113 |Pracuji
+415: Skřítek| ID:64 |Potřebuji pomoc
+407: Skřítek| ID:114 |Pracuji
+415: Skřítek| ID:114 |Potřebuji pomoc
+423: Skřítek| ID:64 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:116 |Začínám
+423: Skřítek| ID:114 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:65 |Potřebuji pomoc
+407: Skřítek| ID:116 |Pracuji
+399: Skřítek| ID:117 |Začínám
+423: Skřítek| ID:65 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:118 |Začínám
+407: Skřítek| ID:117 |Pracuji
+415: Skřítek| ID:66 |Potřebuji pomoc
+407: Skřítek| ID:118 |Pracuji
+415: Skřítek| ID:118 |Potřebuji pomoc
+423: Skřítek| ID:66 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:120 |Začínám
+423: Skřítek| ID:118 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:67 |Potřebuji pomoc
+407: Skřítek| ID:120 |Pracuji
+415: Skřítek| ID:120 |Potřebuji pomoc
+423: Skřítek| ID:67 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:122 |Začínám
+423: Skřítek| ID:120 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:68 |Potřebuji pomoc
+407: Skřítek| ID:122 |Pracuji
+399: Skřítek| ID:123 |Začínám
+423: Skřítek| ID:68 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:124 |Začínám
+407: Skřítek| ID:123 |Pracuji
+415: Skřítek| ID:69 |Potřebuji pomoc
+407: Skřítek| ID:124 |Pracuji
+399: Skřítek| ID:125 |Začínám
+423: Skřítek| ID:69 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:126 |Začínám
+407: Skřítek| ID:125 |Pracuji
+415: Skřítek| ID:70 |Potřebuji pomoc
+407: Skřítek| ID:126 |Pracuji
+399: Skřítek| ID:127 |Začínám
+423: Skřítek| ID:70 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:128 |Začínám
+407: Skřítek| ID:127 |Pracuji
+415: Skřítek| ID:71 |Potřebuji pomoc
+407: Skřítek| ID:128 |Pracuji
+399: Skřítek| ID:129 |Začínám
+423: Skřítek| ID:71 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:72 |Potřebuji pomoc
+407: Skřítek| ID:129 |Pracuji
+415: Skřítek| ID:129 |Potřebuji pomoc
+423: Skřítek| ID:72 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:73 |Potřebuji pomoc
+423: Skřítek| ID:129 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:131 |Začínám
+423: Skřítek| ID:73 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:132 |Začínám
+407: Skřítek| ID:131 |Pracuji
+415: Skřítek| ID:74 |Potřebuji pomoc
+407: Skřítek| ID:132 |Pracuji
+415: Skřítek| ID:132 |Potřebuji pomoc
+423: Skřítek| ID:74 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:134 |Začínám
+423: Skřítek| ID:132 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:239 |Začínám
+407: Skřítek| ID:134 |Pracuji
+415: Skřítek| ID:43 |Potřebuji pomoc
+407: Skřítek| ID:239 |Pracuji
+399: Skřítek| ID:136 |Začínám
+423: Skřítek| ID:43 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:76 |Potřebuji pomoc
+407: Skřítek| ID:136 |Pracuji
+399: Skřítek| ID:137 |Začínám
+423: Skřítek| ID:76 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:138 |Začínám
+407: Skřítek| ID:137 |Pracuji
+415: Skřítek| ID:77 |Potřebuji pomoc
+407: Skřítek| ID:138 |Pracuji
+399: Skřítek| ID:139 |Začínám
+423: Skřítek| ID:77 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:78 |Potřebuji pomoc
+407: Skřítek| ID:139 |Pracuji
+399: Skřítek| ID:140 |Začínám
+423: Skřítek| ID:78 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:141 |Začínám
+407: Skřítek| ID:140 |Pracuji
+415: Skřítek| ID:79 |Potřebuji pomoc
+407: Skřítek| ID:141 |Pracuji
+399: Skřítek| ID:142 |Začínám
+423: Skřítek| ID:79 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:143 |Začínám
+407: Skřítek| ID:142 |Pracuji
+415: Skřítek| ID:80 |Potřebuji pomoc
+407: Skřítek| ID:143 |Pracuji
+415: Skřítek| ID:143 |Potřebuji pomoc
+423: Skřítek| ID:80 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:2 |Potřebuji pomoc
+423: Skřítek| ID:143 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:145 |Začínám
+423: Skřítek| ID:2 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:146 |Začínám
+407: Skřítek| ID:145 |Pracuji
+415: Skřítek| ID:82 |Potřebuji pomoc
+407: Skřítek| ID:146 |Pracuji
+415: Skřítek| ID:146 |Potřebuji pomoc
+423: Skřítek| ID:82 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:148 |Začínám
+423: Skřítek| ID:146 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:83 |Potřebuji pomoc
+407: Skřítek| ID:148 |Pracuji
+415: Skřítek| ID:148 |Potřebuji pomoc
+423: Skřítek| ID:83 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:150 |Začínám
+423: Skřítek| ID:148 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:150 |Pracuji
+348: Santa| ID:0 |Uvolnil jsem writing a pomáhám skřítkům
+399: Skřítek| ID:151 |Začínám
+491: Skřítek| ID:4 |Nyní jsem vstoupil do dílny
+491: Skřítek| ID:5 |Nyní jsem vstoupil do dílny
+509: Skřítek| ID:4 |Čekám na zápis
+491: Skřítek| ID:13 |Nyní jsem vstoupil do dílny
+509: Skřítek| ID:5 |Čekám na zápis
+399: Skřítek| ID:152 |Začínám
+407: Skřítek| ID:151 |Pracuji
+360: Santa| ID:0 |Čekám než pomůžu všem skřítkům
+509: Skřítek| ID:13 |Čekám na zápis
+366: Santa| ID:0 |Poslední skřítek odešel z dílny
+270: Santa| ID:0 |Čekám na writing
+399: Skřítek| ID:153 |Začínám
+407: Skřítek| ID:152 |Pracuji
+415: Skřítek| ID:84 |Potřebuji pomoc
+407: Skřítek| ID:153 |Pracuji
+399: Skřítek| ID:271 |Začínám
+423: Skřítek| ID:84 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:85 |Potřebuji pomoc
+407: Skřítek| ID:271 |Pracuji
+415: Skřítek| ID:271 |Potřebuji pomoc
+423: Skřítek| ID:85 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:156 |Začínám
+423: Skřítek| ID:271 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:86 |Potřebuji pomoc
+407: Skřítek| ID:156 |Pracuji
+399: Skřítek| ID:157 |Začínám
+423: Skřítek| ID:86 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:158 |Začínám
+407: Skřítek| ID:157 |Pracuji
+407: Skřítek| ID:158 |Pracuji
+399: Skřítek| ID:159 |Začínám
+415: Skřítek| ID:87 |Potřebuji pomoc
+407: Skřítek| ID:159 |Pracuji
+399: Skřítek| ID:160 |Začínám
+423: Skřítek| ID:87 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:282 |Začínám
+407: Skřítek| ID:160 |Pracuji
+399: Skřítek| ID:161 |Začínám
+407: Skřítek| ID:282 |Pracuji
+407: Skřítek| ID:161 |Pracuji
+399: Skřítek| ID:162 |Začínám
+415: Skřítek| ID:89 |Potřebuji pomoc
+407: Skřítek| ID:162 |Pracuji
+399: Skřítek| ID:163 |Začínám
+423: Skřítek| ID:89 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:90 |Potřebuji pomoc
+407: Skřítek| ID:163 |Pracuji
+423: Skřítek| ID:90 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:164 |Začínám
+399: Skřítek| ID:165 |Začínám
+407: Skřítek| ID:164 |Pracuji
+415: Skřítek| ID:91 |Potřebuji pomoc
+407: Skřítek| ID:165 |Pracuji
+399: Skřítek| ID:166 |Začínám
+423: Skřítek| ID:91 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:92 |Potřebuji pomoc
+407: Skřítek| ID:166 |Pracuji
+423: Skřítek| ID:92 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:167 |Začínám
+407: Skřítek| ID:167 |Pracuji
+399: Skřítek| ID:168 |Začínám
+415: Skřítek| ID:93 |Potřebuji pomoc
+407: Skřítek| ID:168 |Pracuji
+415: Skřítek| ID:168 |Potřebuji pomoc
+423: Skřítek| ID:93 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:168 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:170 |Začínám
+415: Skřítek| ID:94 |Potřebuji pomoc
+407: Skřítek| ID:170 |Pracuji
+399: Skřítek| ID:171 |Začínám
+423: Skřítek| ID:94 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:171 |Pracuji
+399: Skřítek| ID:172 |Začínám
+415: Skřítek| ID:95 |Potřebuji pomoc
+407: Skřítek| ID:172 |Pracuji
+423: Skřítek| ID:95 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:173 |Začínám
+415: Skřítek| ID:96 |Potřebuji pomoc
+407: Skřítek| ID:173 |Pracuji
+415: Skřítek| ID:173 |Potřebuji pomoc
+423: Skřítek| ID:96 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:173 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:98 |Začínám
+415: Skřítek| ID:97 |Potřebuji pomoc
+407: Skřítek| ID:98 |Pracuji
+399: Skřítek| ID:176 |Začínám
+423: Skřítek| ID:97 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:176 |Pracuji
+399: Skřítek| ID:177 |Začínám
+415: Skřítek| ID:175 |Potřebuji pomoc
+407: Skřítek| ID:177 |Pracuji
+423: Skřítek| ID:175 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:178 |Začínám
+399: Skřítek| ID:179 |Začínám
+407: Skřítek| ID:178 |Pracuji
+415: Skřítek| ID:99 |Potřebuji pomoc
+407: Skřítek| ID:179 |Pracuji
+423: Skřítek| ID:99 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:180 |Začínám
+407: Skřítek| ID:180 |Pracuji
+399: Skřítek| ID:181 |Začínám
+415: Skřítek| ID:56 |Potřebuji pomoc
+407: Skřítek| ID:181 |Pracuji
+423: Skřítek| ID:56 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:182 |Začínám
+415: Skřítek| ID:101 |Potřebuji pomoc
+407: Skřítek| ID:182 |Pracuji
+399: Skřítek| ID:183 |Začínám
+423: Skřítek| ID:101 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:184 |Začínám
+407: Skřítek| ID:183 |Pracuji
+415: Skřítek| ID:102 |Potřebuji pomoc
+407: Skřítek| ID:184 |Pracuji
+415: Skřítek| ID:184 |Potřebuji pomoc
+423: Skřítek| ID:102 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:184 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:186 |Začínám
+415: Skřítek| ID:103 |Potřebuji pomoc
+407: Skřítek| ID:186 |Pracuji
+399: Skřítek| ID:187 |Začínám
+423: Skřítek| ID:103 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:325 |Začínám
+407: Skřítek| ID:187 |Pracuji
+407: Skřítek| ID:325 |Pracuji
+399: Skřítek| ID:188 |Začínám
+415: Skřítek| ID:104 |Potřebuji pomoc
+407: Skřítek| ID:188 |Pracuji
+399: Skřítek| ID:189 |Začínám
+423: Skřítek| ID:104 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:189 |Pracuji
+399: Skřítek| ID:190 |Začínám
+407: Skřítek| ID:190 |Pracuji
+399: Skřítek| ID:106 |Začínám
+407: Skřítek| ID:106 |Pracuji
+399: Skřítek| ID:191 |Začínám
+399: Skřítek| ID:192 |Začínám
+407: Skřítek| ID:191 |Pracuji
+415: Skřítek| ID:191 |Potřebuji pomoc
+407: Skřítek| ID:192 |Pracuji
+399: Skřítek| ID:194 |Začínám
+423: Skřítek| ID:191 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:107 |Potřebuji pomoc
+407: Skřítek| ID:194 |Pracuji
+415: Skřítek| ID:194 |Potřebuji pomoc
+423: Skřítek| ID:107 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:194 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:196 |Začínám
+415: Skřítek| ID:61 |Potřebuji pomoc
+407: Skřítek| ID:196 |Pracuji
+415: Skřítek| ID:196 |Potřebuji pomoc
+423: Skřítek| ID:61 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:108 |Potřebuji pomoc
+423: Skřítek| ID:196 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:198 |Začínám
+423: Skřítek| ID:108 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:109 |Potřebuji pomoc
+407: Skřítek| ID:198 |Pracuji
+399: Skřítek| ID:199 |Začínám
+423: Skřítek| ID:109 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:199 |Pracuji
+399: Skřítek| ID:200 |Začínám
+415: Skřítek| ID:110 |Potřebuji pomoc
+407: Skřítek| ID:200 |Pracuji
+423: Skřítek| ID:110 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:201 |Začínám
+407: Skřítek| ID:201 |Pracuji
+399: Skřítek| ID:112 |Začínám
+407: Skřítek| ID:112 |Pracuji
+399: Skřítek| ID:348 |Začínám
+407: Skřítek| ID:348 |Pracuji
+399: Skřítek| ID:203 |Začínám
+407: Skřítek| ID:203 |Pracuji
+399: Skřítek| ID:204 |Začínám
+407: Skřítek| ID:204 |Pracuji
+399: Skřítek| ID:205 |Začínám
+415: Skřítek| ID:113 |Potřebuji pomoc
+407: Skřítek| ID:205 |Pracuji
+399: Skřítek| ID:353 |Začínám
+423: Skřítek| ID:113 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:353 |Pracuji
+399: Skřítek| ID:115 |Začínám
+407: Skřítek| ID:115 |Pracuji
+399: Skřítek| ID:207 |Začínám
+399: Skřítek| ID:208 |Začínám
+407: Skřítek| ID:207 |Pracuji
+407: Skřítek| ID:208 |Pracuji
+399: Skřítek| ID:209 |Začínám
+415: Skřítek| ID:116 |Potřebuji pomoc
+407: Skřítek| ID:209 |Pracuji
+423: Skřítek| ID:116 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:210 |Začínám
+407: Skřítek| ID:210 |Pracuji
+399: Skřítek| ID:211 |Začínám
+415: Skřítek| ID:117 |Potřebuji pomoc
+407: Skřítek| ID:211 |Pracuji
+399: Skřítek| ID:362 |Začínám
+423: Skřítek| ID:117 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:362 |Pracuji
+399: Skřítek| ID:119 |Začínám
+407: Skřítek| ID:119 |Pracuji
+399: Skřítek| ID:213 |Začínám
+407: Skřítek| ID:213 |Pracuji
+399: Skřítek| ID:214 |Začínám
+407: Skřítek| ID:214 |Pracuji
+399: Skřítek| ID:215 |Začínám
+407: Skřítek| ID:215 |Pracuji
+399: Skřítek| ID:216 |Začínám
+407: Skřítek| ID:216 |Pracuji
+399: Skřítek| ID:121 |Začínám
+407: Skřítek| ID:121 |Pracuji
+399: Skřítek| ID:217 |Začínám
+399: Skřítek| ID:218 |Začínám
+407: Skřítek| ID:217 |Pracuji
+407: Skřítek| ID:218 |Pracuji
+399: Skřítek| ID:219 |Začínám
+415: Skřítek| ID:122 |Potřebuji pomoc
+407: Skřítek| ID:219 |Pracuji
+399: Skřítek| ID:220 |Začínám
+423: Skřítek| ID:122 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:221 |Začínám
+407: Skřítek| ID:220 |Pracuji
+415: Skřítek| ID:123 |Potřebuji pomoc
+407: Skřítek| ID:221 |Pracuji
+399: Skřítek| ID:222 |Začínám
+423: Skřítek| ID:123 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:124 |Potřebuji pomoc
+407: Skřítek| ID:222 |Pracuji
+415: Skřítek| ID:222 |Potřebuji pomoc
+423: Skřítek| ID:124 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:222 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:224 |Začínám
+399: Skřítek| ID:225 |Začínám
+407: Skřítek| ID:224 |Pracuji
+415: Skřítek| ID:125 |Potřebuji pomoc
+407: Skřítek| ID:225 |Pracuji
+423: Skřítek| ID:125 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:226 |Začínám
+415: Skřítek| ID:126 |Potřebuji pomoc
+407: Skřítek| ID:226 |Pracuji
+415: Skřítek| ID:226 |Potřebuji pomoc
+423: Skřítek| ID:126 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:226 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:228 |Začínám
+415: Skřítek| ID:127 |Potřebuji pomoc
+407: Skřítek| ID:228 |Pracuji
+399: Skřítek| ID:229 |Začínám
+423: Skřítek| ID:127 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:128 |Potřebuji pomoc
+407: Skřítek| ID:229 |Pracuji
+423: Skřítek| ID:128 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:230 |Začínám
+407: Skřítek| ID:230 |Pracuji
+399: Skřítek| ID:231 |Začínám
+407: Skřítek| ID:231 |Pracuji
+399: Skřítek| ID:130 |Začínám
+399: Skřítek| ID:232 |Začínám
+407: Skřítek| ID:130 |Pracuji
+399: Skřítek| ID:233 |Začínám
+407: Skřítek| ID:232 |Pracuji
+407: Skřítek| ID:233 |Pracuji
+399: Skřítek| ID:234 |Začínám
+407: Skřítek| ID:234 |Pracuji
+399: Skřítek| ID:235 |Začínám
+407: Skřítek| ID:235 |Pracuji
+399: Skřítek| ID:396 |Začínám
+407: Skřítek| ID:396 |Pracuji
+399: Skřítek| ID:236 |Začínám
+407: Skřítek| ID:236 |Pracuji
+399: Skřítek| ID:237 |Začínám
+399: Skřítek| ID:133 |Začínám
+407: Skřítek| ID:237 |Pracuji
+407: Skřítek| ID:133 |Pracuji
+399: Skřítek| ID:238 |Začínám
+407: Skřítek| ID:238 |Pracuji
+399: Skřítek| ID:135 |Začínám
+399: Skřítek| ID:240 |Začínám
+407: Skřítek| ID:135 |Pracuji
+415: Skřítek| ID:134 |Potřebuji pomoc
+407: Skřítek| ID:240 |Pracuji
+415: Skřítek| ID:240 |Potřebuji pomoc
+423: Skřítek| ID:134 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:239 |Potřebuji pomoc
+423: Skřítek| ID:240 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:239 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:242 |Začínám
+407: Skřítek| ID:242 |Pracuji
+399: Skřítek| ID:243 |Začínám
+399: Skřítek| ID:408 |Začínám
+407: Skřítek| ID:243 |Pracuji
+407: Skřítek| ID:408 |Pracuji
+399: Skřítek| ID:244 |Začínám
+407: Skřítek| ID:244 |Pracuji
+399: Skřítek| ID:245 |Začínám
+415: Skřítek| ID:137 |Potřebuji pomoc
+407: Skřítek| ID:245 |Pracuji
+423: Skřítek| ID:137 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:246 |Začínám
+415: Skřítek| ID:138 |Potřebuji pomoc
+407: Skřítek| ID:246 |Pracuji
+423: Skřítek| ID:138 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:247 |Začínám
+407: Skřítek| ID:247 |Pracuji
+399: Skřítek| ID:248 |Začínám
+415: Skřítek| ID:139 |Potřebuji pomoc
+407: Skřítek| ID:248 |Pracuji
+415: Skřítek| ID:248 |Potřebuji pomoc
+423: Skřítek| ID:139 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:250 |Začínám
+423: Skřítek| ID:248 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:140 |Potřebuji pomoc
+407: Skřítek| ID:250 |Pracuji
+415: Skřítek| ID:250 |Potřebuji pomoc
+423: Skřítek| ID:140 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:250 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:252 |Začínám
+415: Skřítek| ID:141 |Potřebuji pomoc
+407: Skřítek| ID:252 |Pracuji
+399: Skřítek| ID:253 |Začínám
+423: Skřítek| ID:141 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:253 |Pracuji
+399: Skřítek| ID:254 |Začínám
+415: Skřítek| ID:142 |Potřebuji pomoc
+407: Skřítek| ID:254 |Pracuji
+423: Skřítek| ID:142 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:255 |Začínám
+407: Skřítek| ID:255 |Pracuji
+399: Skřítek| ID:144 |Začínám
+407: Skřítek| ID:144 |Pracuji
+399: Skřítek| ID:256 |Začínám
+407: Skřítek| ID:256 |Pracuji
+399: Skřítek| ID:257 |Začínám
+407: Skřítek| ID:257 |Pracuji
+399: Skřítek| ID:258 |Začínám
+407: Skřítek| ID:258 |Pracuji
+399: Skřítek| ID:259 |Začínám
+415: Skřítek| ID:145 |Potřebuji pomoc
+407: Skřítek| ID:259 |Pracuji
+399: Skřítek| ID:260 |Začínám
+423: Skřítek| ID:145 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:260 |Pracuji
+399: Skřítek| ID:147 |Začínám
+407: Skřítek| ID:147 |Pracuji
+399: Skřítek| ID:261 |Začínám
+407: Skřítek| ID:261 |Pracuji
+399: Skřítek| ID:262 |Začínám
+407: Skřítek| ID:262 |Pracuji
+399: Skřítek| ID:263 |Začínám
+407: Skřítek| ID:263 |Pracuji
+399: Skřítek| ID:149 |Začínám
+407: Skřítek| ID:149 |Pracuji
+399: Skřítek| ID:264 |Začínám
+407: Skřítek| ID:264 |Pracuji
+399: Skřítek| ID:265 |Začínám
+407: Skřítek| ID:265 |Pracuji
+399: Skřítek| ID:266 |Začínám
+415: Skřítek| ID:150 |Potřebuji pomoc
+407: Skřítek| ID:266 |Pracuji
+423: Skřítek| ID:150 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:267 |Začínám
+407: Skřítek| ID:267 |Pracuji
+399: Skřítek| ID:268 |Začínám
+523: Skřítek| ID:4 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::1
+407: Skřítek| ID:4 |Pracuji
+407: Skřítek| ID:268 |Pracuji
+523: Skřítek| ID:5 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::2
+415: Skřítek| ID:151 |Potřebuji pomoc
+407: Skřítek| ID:5 |Pracuji
+523: Skřítek| ID:13 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::3
+529: Skřítek| ID:13 |Jsem poslední skřítek, kterému santa pomohl, díky santo
+423: Skřítek| ID:151 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:269 |Začínám
+407: Skřítek| ID:13 |Pracuji
+407: Skřítek| ID:269 |Pracuji
+276: Santa| ID:0 |Uvolnil jsem writing
+415: Skřítek| ID:269 |Potřebuji pomoc
+284: Santa| ID:0 |Jdu spát
+288: Santa| ID:0 |Byl jsem probuzen
+342: Santa| ID:0 |Čekám na writing
+423: Skřítek| ID:269 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:270 |Začínám
+399: Skřítek| ID:154 |Začínám
+407: Skřítek| ID:270 |Pracuji
+415: Skřítek| ID:153 |Potřebuji pomoc
+407: Skřítek| ID:154 |Pracuji
+423: Skřítek| ID:153 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:272 |Začínám
+407: Skřítek| ID:272 |Pracuji
+399: Skřítek| ID:273 |Začínám
+407: Skřítek| ID:273 |Pracuji
+399: Skřítek| ID:155 |Začínám
+407: Skřítek| ID:155 |Pracuji
+399: Skřítek| ID:274 |Začínám
+407: Skřítek| ID:274 |Pracuji
+399: Skřítek| ID:275 |Začínám
+399: Skřítek| ID:276 |Začínám
+407: Skřítek| ID:275 |Pracuji
+407: Skřítek| ID:276 |Pracuji
+399: Skřítek| ID:462 |Začínám
+399: Skřítek| ID:277 |Začínám
+407: Skřítek| ID:462 |Pracuji
+407: Skřítek| ID:277 |Pracuji
+399: Skřítek| ID:278 |Začínám
+415: Skřítek| ID:157 |Potřebuji pomoc
+407: Skřítek| ID:278 |Pracuji
+399: Skřítek| ID:279 |Začínám
+423: Skřítek| ID:157 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:158 |Potřebuji pomoc
+407: Skřítek| ID:279 |Pracuji
+423: Skřítek| ID:158 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:280 |Začínám
+415: Skřítek| ID:159 |Potřebuji pomoc
+407: Skřítek| ID:280 |Pracuji
+423: Skřítek| ID:159 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:470 |Začínám
+415: Skřítek| ID:88 |Potřebuji pomoc
+407: Skřítek| ID:470 |Pracuji
+415: Skřítek| ID:160 |Potřebuji pomoc
+423: Skřítek| ID:88 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:283 |Začínám
+423: Skřítek| ID:160 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:283 |Pracuji
+399: Skřítek| ID:284 |Začínám
+415: Skřítek| ID:282 |Potřebuji pomoc
+407: Skřítek| ID:284 |Pracuji
+423: Skřítek| ID:282 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:285 |Začínám
+415: Skřítek| ID:161 |Potřebuji pomoc
+407: Skřítek| ID:285 |Pracuji
+415: Skřítek| ID:285 |Potřebuji pomoc
+423: Skřítek| ID:161 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:162 |Potřebuji pomoc
+423: Skřítek| ID:285 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:162 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:287 |Začínám
+407: Skřítek| ID:287 |Pracuji
+399: Skřítek| ID:288 |Začínám
+415: Skřítek| ID:163 |Potřebuji pomoc
+407: Skřítek| ID:288 |Pracuji
+399: Skřítek| ID:289 |Začínám
+423: Skřítek| ID:163 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:290 |Začínám
+407: Skřítek| ID:289 |Pracuji
+415: Skřítek| ID:164 |Potřebuji pomoc
+407: Skřítek| ID:290 |Pracuji
+399: Skřítek| ID:291 |Začínám
+423: Skřítek| ID:164 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:165 |Potřebuji pomoc
+407: Skřítek| ID:291 |Pracuji
+399: Skřítek| ID:292 |Začínám
+423: Skřítek| ID:165 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:293 |Začínám
+407: Skřítek| ID:292 |Pracuji
+415: Skřítek| ID:166 |Potřebuji pomoc
+407: Skřítek| ID:293 |Pracuji
+399: Skřítek| ID:294 |Začínám
+423: Skřítek| ID:166 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:295 |Začínám
+407: Skřítek| ID:294 |Pracuji
+415: Skřítek| ID:167 |Potřebuji pomoc
+407: Skřítek| ID:295 |Pracuji
+399: Skřítek| ID:296 |Začínám
+423: Skřítek| ID:167 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:296 |Pracuji
+399: Skřítek| ID:169 |Začínám
+399: Skřítek| ID:297 |Začínám
+407: Skřítek| ID:169 |Pracuji
+399: Skřítek| ID:298 |Začínám
+407: Skřítek| ID:297 |Pracuji
+399: Skřítek| ID:299 |Začínám
+407: Skřítek| ID:298 |Pracuji
+415: Skřítek| ID:170 |Potřebuji pomoc
+407: Skřítek| ID:299 |Pracuji
+399: Skřítek| ID:300 |Začínám
+423: Skřítek| ID:170 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:301 |Začínám
+407: Skřítek| ID:300 |Pracuji
+415: Skřítek| ID:171 |Potřebuji pomoc
+407: Skřítek| ID:301 |Pracuji
+399: Skřítek| ID:302 |Začínám
+423: Skřítek| ID:171 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:172 |Potřebuji pomoc
+407: Skřítek| ID:302 |Pracuji
+399: Skřítek| ID:303 |Začínám
+423: Skřítek| ID:172 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:304 |Začínám
+407: Skřítek| ID:303 |Pracuji
+399: Skřítek| ID:174 |Začínám
+407: Skřítek| ID:304 |Pracuji
+399: Skřítek| ID:305 |Začínám
+407: Skřítek| ID:174 |Pracuji
+399: Skřítek| ID:306 |Začínám
+407: Skřítek| ID:305 |Pracuji
+399: Skřítek| ID:307 |Začínám
+407: Skřítek| ID:306 |Pracuji
+415: Skřítek| ID:98 |Potřebuji pomoc
+407: Skřítek| ID:307 |Pracuji
+399: Skřítek| ID:308 |Začínám
+423: Skřítek| ID:98 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:309 |Začínám
+407: Skřítek| ID:308 |Pracuji
+415: Skřítek| ID:176 |Potřebuji pomoc
+407: Skřítek| ID:309 |Pracuji
+552: Sob| ID:1 |Začal jsem nyní, jsem na dovolené
+423: Skřítek| ID:176 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:177 |Potřebuji pomoc
+399: Skřítek| ID:311 |Začínám
+423: Skřítek| ID:177 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:312 |Začínám
+407: Skřítek| ID:311 |Pracuji
+415: Skřítek| ID:178 |Potřebuji pomoc
+407: Skřítek| ID:312 |Pracuji
+399: Skřítek| ID:313 |Začínám
+423: Skřítek| ID:178 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:179 |Potřebuji pomoc
+407: Skřítek| ID:313 |Pracuji
+399: Skřítek| ID:314 |Začínám
+423: Skřítek| ID:179 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:315 |Začínám
+407: Skřítek| ID:314 |Pracuji
+415: Skřítek| ID:180 |Potřebuji pomoc
+407: Skřítek| ID:315 |Pracuji
+399: Skřítek| ID:316 |Začínám
+423: Skřítek| ID:180 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:181 |Potřebuji pomoc
+407: Skřítek| ID:316 |Pracuji
+399: Skřítek| ID:317 |Začínám
+423: Skřítek| ID:181 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:318 |Začínám
+407: Skřítek| ID:317 |Pracuji
+415: Skřítek| ID:182 |Potřebuji pomoc
+407: Skřítek| ID:318 |Pracuji
+399: Skřítek| ID:319 |Začínám
+423: Skřítek| ID:182 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:320 |Začínám
+407: Skřítek| ID:319 |Pracuji
+415: Skřítek| ID:183 |Potřebuji pomoc
+407: Skřítek| ID:320 |Pracuji
+399: Skřítek| ID:321 |Začínám
+423: Skřítek| ID:183 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:57 |Potřebuji pomoc
+407: Skřítek| ID:321 |Pracuji
+399: Skřítek| ID:322 |Začínám
+423: Skřítek| ID:57 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:323 |Začínám
+407: Skřítek| ID:322 |Pracuji
+399: Skřítek| ID:324 |Začínám
+407: Skřítek| ID:323 |Pracuji
+415: Skřítek| ID:186 |Potřebuji pomoc
+407: Skřítek| ID:324 |Pracuji
+415: Skřítek| ID:185 |Potřebuji pomoc
+423: Skřítek| ID:186 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:326 |Začínám
+423: Skřítek| ID:185 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:187 |Potřebuji pomoc
+407: Skřítek| ID:326 |Pracuji
+399: Skřítek| ID:327 |Začínám
+423: Skřítek| ID:187 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:325 |Potřebuji pomoc
+407: Skřítek| ID:327 |Pracuji
+399: Skřítek| ID:328 |Začínám
+423: Skřítek| ID:325 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:188 |Potřebuji pomoc
+407: Skřítek| ID:328 |Pracuji
+415: Skřítek| ID:328 |Potřebuji pomoc
+423: Skřítek| ID:188 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:330 |Začínám
+423: Skřítek| ID:328 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:189 |Potřebuji pomoc
+407: Skřítek| ID:330 |Pracuji
+399: Skřítek| ID:331 |Začínám
+423: Skřítek| ID:189 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:190 |Potřebuji pomoc
+407: Skřítek| ID:331 |Pracuji
+399: Skřítek| ID:332 |Začínám
+423: Skřítek| ID:190 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:106 |Potřebuji pomoc
+407: Skřítek| ID:332 |Pracuji
+399: Skřítek| ID:333 |Začínám
+423: Skřítek| ID:106 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:193 |Začínám
+407: Skřítek| ID:333 |Pracuji
+399: Skřítek| ID:334 |Začínám
+407: Skřítek| ID:193 |Pracuji
+415: Skřítek| ID:192 |Potřebuji pomoc
+407: Skřítek| ID:334 |Pracuji
+399: Skřítek| ID:335 |Začínám
+423: Skřítek| ID:192 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:336 |Začínám
+407: Skřítek| ID:335 |Pracuji
+399: Skřítek| ID:195 |Začínám
+407: Skřítek| ID:336 |Pracuji
+399: Skřítek| ID:337 |Začínám
+407: Skřítek| ID:195 |Pracuji
+399: Skřítek| ID:338 |Začínám
+407: Skřítek| ID:337 |Pracuji
+399: Skřítek| ID:339 |Začínám
+407: Skřítek| ID:338 |Pracuji
+399: Skřítek| ID:197 |Začínám
+407: Skřítek| ID:339 |Pracuji
+399: Skřítek| ID:340 |Začínám
+407: Skřítek| ID:197 |Pracuji
+399: Skřítek| ID:341 |Začínám
+407: Skřítek| ID:340 |Pracuji
+399: Skřítek| ID:342 |Začínám
+407: Skřítek| ID:341 |Pracuji
+415: Skřítek| ID:198 |Potřebuji pomoc
+407: Skřítek| ID:342 |Pracuji
+415: Skřítek| ID:342 |Potřebuji pomoc
+423: Skřítek| ID:198 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:344 |Začínám
+423: Skřítek| ID:342 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:199 |Potřebuji pomoc
+407: Skřítek| ID:344 |Pracuji
+415: Skřítek| ID:344 |Potřebuji pomoc
+423: Skřítek| ID:199 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:200 |Potřebuji pomoc
+423: Skřítek| ID:344 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:346 |Začínám
+423: Skřítek| ID:200 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:347 |Začínám
+407: Skřítek| ID:346 |Pracuji
+415: Skřítek| ID:201 |Potřebuji pomoc
+407: Skřítek| ID:347 |Pracuji
+415: Skřítek| ID:347 |Potřebuji pomoc
+423: Skřítek| ID:201 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:112 |Potřebuji pomoc
+423: Skřítek| ID:347 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:349 |Začínám
+423: Skřítek| ID:112 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:348 |Potřebuji pomoc
+407: Skřítek| ID:349 |Pracuji
+399: Skřítek| ID:350 |Začínám
+423: Skřítek| ID:348 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:351 |Začínám
+407: Skřítek| ID:350 |Pracuji
+415: Skřítek| ID:203 |Potřebuji pomoc
+407: Skřítek| ID:351 |Pracuji
+399: Skřítek| ID:352 |Začínám
+423: Skřítek| ID:203 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:204 |Potřebuji pomoc
+407: Skřítek| ID:352 |Pracuji
+399: Skřítek| ID:206 |Začínám
+423: Skřítek| ID:204 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:205 |Potřebuji pomoc
+407: Skřítek| ID:206 |Pracuji
+399: Skřítek| ID:354 |Začínám
+423: Skřítek| ID:205 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:353 |Potřebuji pomoc
+407: Skřítek| ID:354 |Pracuji
+415: Skřítek| ID:354 |Potřebuji pomoc
+423: Skřítek| ID:353 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:356 |Začínám
+423: Skřítek| ID:354 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:115 |Potřebuji pomoc
+407: Skřítek| ID:356 |Pracuji
+399: Skřítek| ID:357 |Začínám
+423: Skřítek| ID:115 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:207 |Potřebuji pomoc
+407: Skřítek| ID:357 |Pracuji
+415: Skřítek| ID:208 |Potřebuji pomoc
+423: Skřítek| ID:207 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:358 |Začínám
+423: Skřítek| ID:208 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:209 |Potřebuji pomoc
+407: Skřítek| ID:358 |Pracuji
+399: Skřítek| ID:359 |Začínám
+423: Skřítek| ID:209 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:360 |Začínám
+407: Skřítek| ID:359 |Pracuji
+415: Skřítek| ID:210 |Potřebuji pomoc
+407: Skřítek| ID:360 |Pracuji
+399: Skřítek| ID:361 |Začínám
+423: Skřítek| ID:210 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:211 |Potřebuji pomoc
+407: Skřítek| ID:361 |Pracuji
+399: Skřítek| ID:212 |Začínám
+423: Skřítek| ID:211 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:363 |Začínám
+407: Skřítek| ID:212 |Pracuji
+399: Skřítek| ID:364 |Začínám
+407: Skřítek| ID:363 |Pracuji
+415: Skřítek| ID:362 |Potřebuji pomoc
+407: Skřítek| ID:364 |Pracuji
+415: Skřítek| ID:364 |Potřebuji pomoc
+423: Skřítek| ID:362 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:119 |Potřebuji pomoc
+423: Skřítek| ID:364 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:366 |Začínám
+423: Skřítek| ID:119 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:213 |Potřebuji pomoc
+407: Skřítek| ID:366 |Pracuji
+399: Skřítek| ID:367 |Začínám
+423: Skřítek| ID:213 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:214 |Potřebuji pomoc
+407: Skřítek| ID:367 |Pracuji
+399: Skřítek| ID:368 |Začínám
+423: Skřítek| ID:214 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:215 |Potřebuji pomoc
+407: Skřítek| ID:368 |Pracuji
+399: Skřítek| ID:369 |Začínám
+423: Skřítek| ID:215 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:216 |Potřebuji pomoc
+407: Skřítek| ID:369 |Pracuji
+399: Skřítek| ID:370 |Začínám
+423: Skřítek| ID:216 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:121 |Potřebuji pomoc
+407: Skřítek| ID:370 |Pracuji
+399: Skřítek| ID:371 |Začínám
+423: Skřítek| ID:121 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:217 |Potřebuji pomoc
+407: Skřítek| ID:371 |Pracuji
+399: Skřítek| ID:372 |Začínám
+423: Skřítek| ID:217 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:218 |Potřebuji pomoc
+407: Skřítek| ID:372 |Pracuji
+399: Skřítek| ID:373 |Začínám
+423: Skřítek| ID:218 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:219 |Potřebuji pomoc
+407: Skřítek| ID:373 |Pracuji
+399: Skřítek| ID:374 |Začínám
+423: Skřítek| ID:219 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:375 |Začínám
+407: Skřítek| ID:374 |Pracuji
+415: Skřítek| ID:220 |Potřebuji pomoc
+407: Skřítek| ID:375 |Pracuji
+399: Skřítek| ID:376 |Začínám
+423: Skřítek| ID:220 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:221 |Potřebuji pomoc
+407: Skřítek| ID:376 |Pracuji
+399: Skřítek| ID:377 |Začínám
+423: Skřítek| ID:221 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:378 |Začínám
+407: Skřítek| ID:377 |Pracuji
+399: Skřítek| ID:223 |Začínám
+407: Skřítek| ID:378 |Pracuji
+399: Skřítek| ID:379 |Začínám
+407: Skřítek| ID:223 |Pracuji
+399: Skřítek| ID:380 |Začínám
+407: Skřítek| ID:379 |Pracuji
+415: Skřítek| ID:224 |Potřebuji pomoc
+407: Skřítek| ID:380 |Pracuji
+399: Skřítek| ID:381 |Začínám
+423: Skřítek| ID:224 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:225 |Potřebuji pomoc
+407: Skřítek| ID:381 |Pracuji
+423: Skřítek| ID:225 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:382 |Začínám
+399: Skřítek| ID:383 |Začínám
+407: Skřítek| ID:382 |Pracuji
+415: Skřítek| ID:382 |Potřebuji pomoc
+407: Skřítek| ID:383 |Pracuji
+399: Skřítek| ID:384 |Začínám
+423: Skřítek| ID:382 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:385 |Začínám
+407: Skřítek| ID:384 |Pracuji
+399: Skřítek| ID:386 |Začínám
+407: Skřítek| ID:385 |Pracuji
+415: Skřítek| ID:228 |Potřebuji pomoc
+407: Skřítek| ID:386 |Pracuji
+415: Skřítek| ID:386 |Potřebuji pomoc
+423: Skřítek| ID:228 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:388 |Začínám
+423: Skřítek| ID:386 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:229 |Potřebuji pomoc
+407: Skřítek| ID:388 |Pracuji
+399: Skřítek| ID:389 |Začínám
+423: Skřítek| ID:229 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:390 |Začínám
+407: Skřítek| ID:389 |Pracuji
+415: Skřítek| ID:230 |Potřebuji pomoc
+407: Skřítek| ID:390 |Pracuji
+399: Skřítek| ID:391 |Začínám
+423: Skřítek| ID:230 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:231 |Potřebuji pomoc
+407: Skřítek| ID:391 |Pracuji
+399: Skřítek| ID:392 |Začínám
+423: Skřítek| ID:231 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:130 |Potřebuji pomoc
+407: Skřítek| ID:392 |Pracuji
+415: Skřítek| ID:392 |Potřebuji pomoc
+423: Skřítek| ID:130 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:232 |Potřebuji pomoc
+423: Skřítek| ID:392 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:394 |Začínám
+423: Skřítek| ID:232 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:233 |Potřebuji pomoc
+407: Skřítek| ID:394 |Pracuji
+399: Skřítek| ID:395 |Začínám
+423: Skřítek| ID:233 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:234 |Potřebuji pomoc
+407: Skřítek| ID:395 |Pracuji
+415: Skřítek| ID:131 |Potřebuji pomoc
+423: Skřítek| ID:234 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:235 |Potřebuji pomoc
+423: Skřítek| ID:131 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:397 |Začínám
+423: Skřítek| ID:235 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:396 |Potřebuji pomoc
+407: Skřítek| ID:397 |Pracuji
+399: Skřítek| ID:398 |Začínám
+423: Skřítek| ID:396 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:399 |Začínám
+407: Skřítek| ID:398 |Pracuji
+415: Skřítek| ID:236 |Potřebuji pomoc
+407: Skřítek| ID:399 |Pracuji
+399: Skřítek| ID:400 |Začínám
+423: Skřítek| ID:236 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:237 |Potřebuji pomoc
+407: Skřítek| ID:400 |Pracuji
+415: Skřítek| ID:400 |Potřebuji pomoc
+423: Skřítek| ID:237 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:401 |Začínám
+423: Skřítek| ID:400 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:402 |Začínám
+407: Skřítek| ID:401 |Pracuji
+415: Skřítek| ID:401 |Potřebuji pomoc
+407: Skřítek| ID:402 |Pracuji
+399: Skřítek| ID:403 |Začínám
+423: Skřítek| ID:401 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:135 |Potřebuji pomoc
+407: Skřítek| ID:403 |Pracuji
+399: Skřítek| ID:404 |Začínám
+423: Skřítek| ID:135 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:241 |Začínám
+407: Skřítek| ID:404 |Pracuji
+399: Skřítek| ID:405 |Začínám
+407: Skřítek| ID:241 |Pracuji
+399: Skřítek| ID:406 |Začínám
+407: Skřítek| ID:405 |Pracuji
+399: Skřítek| ID:407 |Začínám
+407: Skřítek| ID:406 |Pracuji
+415: Skřítek| ID:242 |Potřebuji pomoc
+407: Skřítek| ID:407 |Pracuji
+415: Skřítek| ID:136 |Potřebuji pomoc
+423: Skřítek| ID:242 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:409 |Začínám
+423: Skřítek| ID:136 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:243 |Potřebuji pomoc
+407: Skřítek| ID:409 |Pracuji
+399: Skřítek| ID:410 |Začínám
+423: Skřítek| ID:243 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:408 |Potřebuji pomoc
+407: Skřítek| ID:410 |Pracuji
+399: Skřítek| ID:411 |Začínám
+423: Skřítek| ID:408 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:244 |Potřebuji pomoc
+407: Skřítek| ID:411 |Pracuji
+399: Skřítek| ID:412 |Začínám
+423: Skřítek| ID:244 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:245 |Potřebuji pomoc
+407: Skřítek| ID:412 |Pracuji
+399: Skřítek| ID:413 |Začínám
+423: Skřítek| ID:245 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:414 |Začínám
+407: Skřítek| ID:413 |Pracuji
+415: Skřítek| ID:246 |Potřebuji pomoc
+407: Skřítek| ID:414 |Pracuji
+415: Skřítek| ID:414 |Potřebuji pomoc
+423: Skřítek| ID:246 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:416 |Začínám
+423: Skřítek| ID:414 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:247 |Potřebuji pomoc
+407: Skřítek| ID:416 |Pracuji
+399: Skřítek| ID:417 |Začínám
+423: Skřítek| ID:247 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:249 |Začínám
+407: Skřítek| ID:417 |Pracuji
+399: Skřítek| ID:418 |Začínám
+407: Skřítek| ID:249 |Pracuji
+415: Skřítek| ID:249 |Potřebuji pomoc
+407: Skřítek| ID:418 |Pracuji
+415: Skřítek| ID:418 |Potřebuji pomoc
+423: Skřítek| ID:249 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:251 |Začínám
+423: Skřítek| ID:418 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:421 |Začínám
+407: Skřítek| ID:251 |Pracuji
+399: Skřítek| ID:422 |Začínám
+407: Skřítek| ID:421 |Pracuji
+399: Skřítek| ID:423 |Začínám
+407: Skřítek| ID:422 |Pracuji
+415: Skřítek| ID:252 |Potřebuji pomoc
+407: Skřítek| ID:423 |Pracuji
+399: Skřítek| ID:424 |Začínám
+423: Skřítek| ID:252 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:425 |Začínám
+407: Skřítek| ID:424 |Pracuji
+415: Skřítek| ID:253 |Potřebuji pomoc
+407: Skřítek| ID:425 |Pracuji
+399: Skřítek| ID:426 |Začínám
+423: Skřítek| ID:253 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:254 |Potřebuji pomoc
+407: Skřítek| ID:426 |Pracuji
+415: Skřítek| ID:426 |Potřebuji pomoc
+423: Skřítek| ID:254 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:428 |Začínám
+423: Skřítek| ID:426 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:255 |Potřebuji pomoc
+407: Skřítek| ID:428 |Pracuji
+399: Skřítek| ID:429 |Začínám
+423: Skřítek| ID:255 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:144 |Potřebuji pomoc
+407: Skřítek| ID:429 |Pracuji
+399: Skřítek| ID:430 |Začínám
+423: Skřítek| ID:144 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:256 |Potřebuji pomoc
+407: Skřítek| ID:430 |Pracuji
+399: Skřítek| ID:431 |Začínám
+423: Skřítek| ID:256 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:257 |Potřebuji pomoc
+407: Skřítek| ID:431 |Pracuji
+399: Skřítek| ID:432 |Začínám
+423: Skřítek| ID:257 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:258 |Potřebuji pomoc
+407: Skřítek| ID:432 |Pracuji
+399: Skřítek| ID:433 |Začínám
+423: Skřítek| ID:258 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:259 |Potřebuji pomoc
+407: Skřítek| ID:433 |Pracuji
+399: Skřítek| ID:434 |Začínám
+423: Skřítek| ID:259 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:435 |Začínám
+407: Skřítek| ID:434 |Pracuji
+415: Skřítek| ID:260 |Potřebuji pomoc
+407: Skřítek| ID:435 |Pracuji
+399: Skřítek| ID:436 |Začínám
+423: Skřítek| ID:260 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:147 |Potřebuji pomoc
+407: Skřítek| ID:436 |Pracuji
+399: Skřítek| ID:437 |Začínám
+423: Skřítek| ID:147 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:438 |Začínám
+407: Skřítek| ID:437 |Pracuji
+415: Skřítek| ID:261 |Potřebuji pomoc
+407: Skřítek| ID:438 |Pracuji
+399: Skřítek| ID:439 |Začínám
+423: Skřítek| ID:261 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:262 |Potřebuji pomoc
+407: Skřítek| ID:439 |Pracuji
+399: Skřítek| ID:440 |Začínám
+423: Skřítek| ID:262 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:263 |Potřebuji pomoc
+407: Skřítek| ID:440 |Pracuji
+399: Skřítek| ID:441 |Začínám
+423: Skřítek| ID:263 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:149 |Potřebuji pomoc
+407: Skřítek| ID:441 |Pracuji
+399: Skřítek| ID:442 |Začínám
+423: Skřítek| ID:149 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:264 |Potřebuji pomoc
+407: Skřítek| ID:442 |Pracuji
+399: Skřítek| ID:443 |Začínám
+423: Skřítek| ID:264 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:265 |Potřebuji pomoc
+407: Skřítek| ID:443 |Pracuji
+399: Skřítek| ID:444 |Začínám
+423: Skřítek| ID:265 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:266 |Potřebuji pomoc
+407: Skřítek| ID:444 |Pracuji
+399: Skřítek| ID:445 |Začínám
+423: Skřítek| ID:266 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:446 |Začínám
+407: Skřítek| ID:445 |Pracuji
+415: Skřítek| ID:267 |Potřebuji pomoc
+407: Skřítek| ID:446 |Pracuji
+399: Skřítek| ID:447 |Začínám
+423: Skřítek| ID:267 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:448 |Začínám
+407: Skřítek| ID:447 |Pracuji
+415: Skřítek| ID:4 |Potřebuji pomoc
+407: Skřítek| ID:448 |Pracuji
+415: Skřítek| ID:268 |Potřebuji pomoc
+423: Skřítek| ID:4 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:449 |Začínám
+423: Skřítek| ID:268 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:450 |Začínám
+407: Skřítek| ID:449 |Pracuji
+415: Skřítek| ID:5 |Potřebuji pomoc
+407: Skřítek| ID:450 |Pracuji
+399: Skřítek| ID:451 |Začínám
+423: Skřítek| ID:5 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:13 |Potřebuji pomoc
+407: Skřítek| ID:451 |Pracuji
+399: Skřítek| ID:452 |Začínám
+423: Skřítek| ID:13 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:152 |Potřebuji pomoc
+407: Skřítek| ID:452 |Pracuji
+399: Skřítek| ID:453 |Začínám
+423: Skřítek| ID:152 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:453 |Pracuji
+348: Santa| ID:0 |Uvolnil jsem writing a pomáhám skřítkům
+399: Skřítek| ID:454 |Začínám
+491: Skřítek| ID:12 |Nyní jsem vstoupil do dílny
+509: Skřítek| ID:12 |Čekám na zápis
+491: Skřítek| ID:8 |Nyní jsem vstoupil do dílny
+415: Skřítek| ID:270 |Potřebuji pomoc
+407: Skřítek| ID:454 |Pracuji
+509: Skřítek| ID:8 |Čekám na zápis
+491: Skřítek| ID:9 |Nyní jsem vstoupil do dílny
+360: Santa| ID:0 |Čekám než pomůžu všem skřítkům
+509: Skřítek| ID:9 |Čekám na zápis
+399: Skřítek| ID:455 |Začínám
+423: Skřítek| ID:270 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:154 |Potřebuji pomoc
+407: Skřítek| ID:455 |Pracuji
+399: Skřítek| ID:456 |Začínám
+423: Skřítek| ID:154 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:457 |Začínám
+407: Skřítek| ID:456 |Pracuji
+399: Skřítek| ID:458 |Začínám
+407: Skřítek| ID:457 |Pracuji
+415: Skřítek| ID:272 |Potřebuji pomoc
+407: Skřítek| ID:458 |Pracuji
+399: Skřítek| ID:459 |Začínám
+423: Skřítek| ID:272 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:273 |Potřebuji pomoc
+407: Skřítek| ID:459 |Pracuji
+415: Skřítek| ID:155 |Potřebuji pomoc
+423: Skřítek| ID:273 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:460 |Začínám
+423: Skřítek| ID:155 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:274 |Potřebuji pomoc
+407: Skřítek| ID:460 |Pracuji
+399: Skřítek| ID:461 |Začínám
+423: Skřítek| ID:274 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:156 |Potřebuji pomoc
+407: Skřítek| ID:461 |Pracuji
+415: Skřítek| ID:275 |Potřebuji pomoc
+423: Skřítek| ID:156 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:276 |Potřebuji pomoc
+423: Skřítek| ID:275 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:463 |Začínám
+423: Skřítek| ID:276 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:462 |Potřebuji pomoc
+407: Skřítek| ID:463 |Pracuji
+399: Skřítek| ID:464 |Začínám
+423: Skřítek| ID:462 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:277 |Potřebuji pomoc
+407: Skřítek| ID:464 |Pracuji
+399: Skřítek| ID:465 |Začínám
+423: Skřítek| ID:277 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:278 |Potřebuji pomoc
+407: Skřítek| ID:465 |Pracuji
+399: Skřítek| ID:466 |Začínám
+423: Skřítek| ID:278 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:467 |Začínám
+407: Skřítek| ID:466 |Pracuji
+415: Skřítek| ID:279 |Potřebuji pomoc
+407: Skřítek| ID:467 |Pracuji
+399: Skřítek| ID:468 |Začínám
+423: Skřítek| ID:279 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:469 |Začínám
+407: Skřítek| ID:468 |Pracuji
+415: Skřítek| ID:280 |Potřebuji pomoc
+407: Skřítek| ID:469 |Pracuji
+415: Skřítek| ID:469 |Potřebuji pomoc
+423: Skřítek| ID:280 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:471 |Začínám
+423: Skřítek| ID:469 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:472 |Začínám
+407: Skřítek| ID:471 |Pracuji
+415: Skřítek| ID:470 |Potřebuji pomoc
+407: Skřítek| ID:472 |Pracuji
+399: Skřítek| ID:473 |Začínám
+423: Skřítek| ID:470 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:474 |Začínám
+407: Skřítek| ID:473 |Pracuji
+415: Skřítek| ID:283 |Potřebuji pomoc
+407: Skřítek| ID:474 |Pracuji
+399: Skřítek| ID:475 |Začínám
+423: Skřítek| ID:283 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:284 |Potřebuji pomoc
+407: Skřítek| ID:475 |Pracuji
+415: Skřítek| ID:475 |Potřebuji pomoc
+423: Skřítek| ID:284 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:477 |Začínám
+423: Skřítek| ID:475 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:286 |Začínám
+407: Skřítek| ID:477 |Pracuji
+399: Skřítek| ID:478 |Začínám
+407: Skřítek| ID:286 |Pracuji
+399: Skřítek| ID:479 |Začínám
+407: Skřítek| ID:478 |Pracuji
+399: Skřítek| ID:480 |Začínám
+407: Skřítek| ID:479 |Pracuji
+399: Skřítek| ID:481 |Začínám
+407: Skřítek| ID:480 |Pracuji
+415: Skřítek| ID:287 |Potřebuji pomoc
+407: Skřítek| ID:481 |Pracuji
+415: Skřítek| ID:481 |Potřebuji pomoc
+423: Skřítek| ID:287 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:288 |Potřebuji pomoc
+423: Skřítek| ID:481 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:483 |Začínám
+423: Skřítek| ID:288 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:484 |Začínám
+407: Skřítek| ID:483 |Pracuji
+415: Skřítek| ID:289 |Potřebuji pomoc
+407: Skřítek| ID:484 |Pracuji
+399: Skřítek| ID:485 |Začínám
+423: Skřítek| ID:289 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:290 |Potřebuji pomoc
+407: Skřítek| ID:485 |Pracuji
+399: Skřítek| ID:486 |Začínám
+423: Skřítek| ID:290 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:487 |Začínám
+407: Skřítek| ID:486 |Pracuji
+415: Skřítek| ID:291 |Potřebuji pomoc
+407: Skřítek| ID:487 |Pracuji
+399: Skřítek| ID:488 |Začínám
+423: Skřítek| ID:291 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:489 |Začínám
+407: Skřítek| ID:488 |Pracuji
+415: Skřítek| ID:488 |Potřebuji pomoc
+407: Skřítek| ID:489 |Pracuji
+399: Skřítek| ID:490 |Začínám
+423: Skřítek| ID:488 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:293 |Potřebuji pomoc
+407: Skřítek| ID:490 |Pracuji
+399: Skřítek| ID:491 |Začínám
+423: Skřítek| ID:293 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:492 |Začínám
+407: Skřítek| ID:491 |Pracuji
+415: Skřítek| ID:294 |Potřebuji pomoc
+407: Skřítek| ID:492 |Pracuji
+399: Skřítek| ID:493 |Začínám
+423: Skřítek| ID:294 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:295 |Potřebuji pomoc
+407: Skřítek| ID:493 |Pracuji
+399: Skřítek| ID:494 |Začínám
+423: Skřítek| ID:295 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:495 |Začínám
+407: Skřítek| ID:494 |Pracuji
+415: Skřítek| ID:296 |Potřebuji pomoc
+407: Skřítek| ID:495 |Pracuji
+399: Skřítek| ID:496 |Začínám
+423: Skřítek| ID:296 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:169 |Potřebuji pomoc
+407: Skřítek| ID:496 |Pracuji
+399: Skřítek| ID:497 |Začínám
+423: Skřítek| ID:169 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:297 |Potřebuji pomoc
+407: Skřítek| ID:497 |Pracuji
+399: Skřítek| ID:498 |Začínám
+423: Skřítek| ID:297 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:499 |Začínám
+407: Skřítek| ID:498 |Pracuji
+415: Skřítek| ID:298 |Potřebuji pomoc
+407: Skřítek| ID:499 |Pracuji
+415: Skřítek| ID:299 |Potřebuji pomoc
+423: Skřítek| ID:298 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:500 |Začínám
+423: Skřítek| ID:299 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:501 |Začínám
+407: Skřítek| ID:500 |Pracuji
+399: Skřítek| ID:502 |Začínám
+407: Skřítek| ID:501 |Pracuji
+415: Skřítek| ID:300 |Potřebuji pomoc
+407: Skřítek| ID:502 |Pracuji
+399: Skřítek| ID:503 |Začínám
+423: Skřítek| ID:300 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:301 |Potřebuji pomoc
+407: Skřítek| ID:503 |Pracuji
+399: Skřítek| ID:504 |Začínám
+423: Skřítek| ID:301 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:505 |Začínám
+407: Skřítek| ID:504 |Pracuji
+415: Skřítek| ID:302 |Potřebuji pomoc
+407: Skřítek| ID:505 |Pracuji
+399: Skřítek| ID:506 |Začínám
+423: Skřítek| ID:302 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:303 |Potřebuji pomoc
+407: Skřítek| ID:506 |Pracuji
+399: Skřítek| ID:507 |Začínám
+423: Skřítek| ID:303 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:304 |Potřebuji pomoc
+407: Skřítek| ID:507 |Pracuji
+399: Skřítek| ID:508 |Začínám
+423: Skřítek| ID:304 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:509 |Začínám
+407: Skřítek| ID:508 |Pracuji
+415: Skřítek| ID:508 |Potřebuji pomoc
+407: Skřítek| ID:509 |Pracuji
+415: Skřítek| ID:509 |Potřebuji pomoc
+423: Skřítek| ID:508 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:510 |Začínám
+423: Skřítek| ID:509 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:306 |Potřebuji pomoc
+407: Skřítek| ID:510 |Pracuji
+399: Skřítek| ID:511 |Začínám
+423: Skřítek| ID:306 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:512 |Začínám
+407: Skřítek| ID:511 |Pracuji
+415: Skřítek| ID:307 |Potřebuji pomoc
+407: Skřítek| ID:512 |Pracuji
+399: Skřítek| ID:513 |Začínám
+423: Skřítek| ID:307 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:514 |Začínám
+407: Skřítek| ID:513 |Pracuji
+415: Skřítek| ID:308 |Potřebuji pomoc
+407: Skřítek| ID:514 |Pracuji
+399: Skřítek| ID:310 |Začínám
+423: Skřítek| ID:308 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:309 |Potřebuji pomoc
+407: Skřítek| ID:310 |Pracuji
+552: Sob| ID:2 |Začal jsem nyní, jsem na dovolené
+423: Skřítek| ID:309 |Čekám dokud je Santa vzhůru
+552: Sob| ID:3 |Začal jsem nyní, jsem na dovolené
+562: Sob| ID:1 |Vrátil jsem se z dovolené
+415: Skřítek| ID:311 |Potřebuji pomoc
+574: Sob| ID:1 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::2
+415: Skřítek| ID:312 |Potřebuji pomoc
+597: Sob| ID:1 |Čekám v sobí frontě
+423: Skřítek| ID:311 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:313 |Potřebuji pomoc
+423: Skřítek| ID:312 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:314 |Potřebuji pomoc
+423: Skřítek| ID:313 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:315 |Potřebuji pomoc
+423: Skřítek| ID:314 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:316 |Potřebuji pomoc
+423: Skřítek| ID:315 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:317 |Potřebuji pomoc
+423: Skřítek| ID:316 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:318 |Potřebuji pomoc
+423: Skřítek| ID:317 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:319 |Potřebuji pomoc
+423: Skřítek| ID:318 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:320 |Potřebuji pomoc
+423: Skřítek| ID:319 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:321 |Potřebuji pomoc
+423: Skřítek| ID:320 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:322 |Potřebuji pomoc
+423: Skřítek| ID:321 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:323 |Potřebuji pomoc
+423: Skřítek| ID:322 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:324 |Potřebuji pomoc
+423: Skřítek| ID:323 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:326 |Potřebuji pomoc
+423: Skřítek| ID:324 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:327 |Potřebuji pomoc
+423: Skřítek| ID:326 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:329 |Začínám
+423: Skřítek| ID:327 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:330 |Potřebuji pomoc
+407: Skřítek| ID:329 |Pracuji
+415: Skřítek| ID:331 |Potřebuji pomoc
+423: Skřítek| ID:330 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:332 |Potřebuji pomoc
+423: Skřítek| ID:331 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:333 |Potřebuji pomoc
+423: Skřítek| ID:332 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:193 |Potřebuji pomoc
+423: Skřítek| ID:333 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:334 |Potřebuji pomoc
+423: Skřítek| ID:193 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:335 |Potřebuji pomoc
+423: Skřítek| ID:334 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:336 |Potřebuji pomoc
+423: Skřítek| ID:335 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:195 |Potřebuji pomoc
+423: Skřítek| ID:336 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:337 |Potřebuji pomoc
+423: Skřítek| ID:195 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:338 |Potřebuji pomoc
+423: Skřítek| ID:337 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:339 |Potřebuji pomoc
+423: Skřítek| ID:338 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:197 |Potřebuji pomoc
+423: Skřítek| ID:339 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:340 |Potřebuji pomoc
+423: Skřítek| ID:197 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:341 |Potřebuji pomoc
+423: Skřítek| ID:340 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:343 |Začínám
+423: Skřítek| ID:341 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:345 |Začínám
+407: Skřítek| ID:343 |Pracuji
+415: Skřítek| ID:346 |Potřebuji pomoc
+407: Skřítek| ID:345 |Pracuji
+399: Skřítek| ID:202 |Začínám
+423: Skřítek| ID:346 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:349 |Potřebuji pomoc
+407: Skřítek| ID:202 |Pracuji
+415: Skřítek| ID:350 |Potřebuji pomoc
+423: Skřítek| ID:349 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:351 |Potřebuji pomoc
+423: Skřítek| ID:350 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:352 |Potřebuji pomoc
+423: Skřítek| ID:351 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:206 |Potřebuji pomoc
+423: Skřítek| ID:352 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:355 |Začínám
+423: Skřítek| ID:206 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:356 |Potřebuji pomoc
+407: Skřítek| ID:355 |Pracuji
+415: Skřítek| ID:357 |Potřebuji pomoc
+423: Skřítek| ID:356 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:358 |Potřebuji pomoc
+423: Skřítek| ID:357 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:359 |Potřebuji pomoc
+423: Skřítek| ID:358 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:360 |Potřebuji pomoc
+423: Skřítek| ID:359 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:361 |Potřebuji pomoc
+423: Skřítek| ID:360 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:212 |Potřebuji pomoc
+423: Skřítek| ID:361 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:363 |Potřebuji pomoc
+423: Skřítek| ID:212 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:365 |Začínám
+423: Skřítek| ID:363 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:366 |Potřebuji pomoc
+407: Skřítek| ID:365 |Pracuji
+415: Skřítek| ID:367 |Potřebuji pomoc
+423: Skřítek| ID:366 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:368 |Potřebuji pomoc
+423: Skřítek| ID:367 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:369 |Potřebuji pomoc
+423: Skřítek| ID:368 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:370 |Potřebuji pomoc
+423: Skřítek| ID:369 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:371 |Potřebuji pomoc
+423: Skřítek| ID:370 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:372 |Potřebuji pomoc
+423: Skřítek| ID:371 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:373 |Potřebuji pomoc
+423: Skřítek| ID:372 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:374 |Potřebuji pomoc
+423: Skřítek| ID:373 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:375 |Potřebuji pomoc
+423: Skřítek| ID:374 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:376 |Potřebuji pomoc
+423: Skřítek| ID:375 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:377 |Potřebuji pomoc
+423: Skřítek| ID:376 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:378 |Potřebuji pomoc
+423: Skřítek| ID:377 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:223 |Potřebuji pomoc
+423: Skřítek| ID:378 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:379 |Potřebuji pomoc
+423: Skřítek| ID:223 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:380 |Potřebuji pomoc
+423: Skřítek| ID:379 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:381 |Potřebuji pomoc
+423: Skřítek| ID:380 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:227 |Začínám
+423: Skřítek| ID:381 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:383 |Potřebuji pomoc
+407: Skřítek| ID:227 |Pracuji
+415: Skřítek| ID:384 |Potřebuji pomoc
+423: Skřítek| ID:383 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:385 |Potřebuji pomoc
+423: Skřítek| ID:384 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:387 |Začínám
+423: Skřítek| ID:385 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:388 |Potřebuji pomoc
+407: Skřítek| ID:387 |Pracuji
+415: Skřítek| ID:389 |Potřebuji pomoc
+423: Skřítek| ID:388 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:390 |Potřebuji pomoc
+423: Skřítek| ID:389 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:391 |Potřebuji pomoc
+423: Skřítek| ID:390 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:393 |Začínám
+423: Skřítek| ID:391 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:394 |Potřebuji pomoc
+407: Skřítek| ID:393 |Pracuji
+415: Skřítek| ID:395 |Potřebuji pomoc
+423: Skřítek| ID:394 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:397 |Potřebuji pomoc
+423: Skřítek| ID:395 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:398 |Potřebuji pomoc
+423: Skřítek| ID:397 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:399 |Potřebuji pomoc
+423: Skřítek| ID:398 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:133 |Potřebuji pomoc
+423: Skřítek| ID:399 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:238 |Potřebuji pomoc
+423: Skřítek| ID:133 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:402 |Potřebuji pomoc
+423: Skřítek| ID:238 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:403 |Potřebuji pomoc
+423: Skřítek| ID:402 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:404 |Potřebuji pomoc
+423: Skřítek| ID:403 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:241 |Potřebuji pomoc
+423: Skřítek| ID:404 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:405 |Potřebuji pomoc
+423: Skřítek| ID:241 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:406 |Potřebuji pomoc
+423: Skřítek| ID:405 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:407 |Potřebuji pomoc
+423: Skřítek| ID:406 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:409 |Potřebuji pomoc
+423: Skřítek| ID:407 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:410 |Potřebuji pomoc
+423: Skřítek| ID:409 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:411 |Potřebuji pomoc
+423: Skřítek| ID:410 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:412 |Potřebuji pomoc
+423: Skřítek| ID:411 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:413 |Potřebuji pomoc
+423: Skřítek| ID:412 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:415 |Začínám
+423: Skřítek| ID:413 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:416 |Potřebuji pomoc
+407: Skřítek| ID:415 |Pracuji
+415: Skřítek| ID:417 |Potřebuji pomoc
+423: Skřítek| ID:416 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:419 |Začínám
+423: Skřítek| ID:417 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:420 |Začínám
+407: Skřítek| ID:419 |Pracuji
+415: Skřítek| ID:251 |Potřebuji pomoc
+407: Skřítek| ID:420 |Pracuji
+415: Skřítek| ID:421 |Potřebuji pomoc
+423: Skřítek| ID:251 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:422 |Potřebuji pomoc
+423: Skřítek| ID:421 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:423 |Potřebuji pomoc
+423: Skřítek| ID:422 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:424 |Potřebuji pomoc
+423: Skřítek| ID:423 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:425 |Potřebuji pomoc
+423: Skřítek| ID:424 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:427 |Začínám
+423: Skřítek| ID:425 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:428 |Potřebuji pomoc
+407: Skřítek| ID:427 |Pracuji
+415: Skřítek| ID:429 |Potřebuji pomoc
+423: Skřítek| ID:428 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:430 |Potřebuji pomoc
+423: Skřítek| ID:429 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:431 |Potřebuji pomoc
+423: Skřítek| ID:430 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:432 |Potřebuji pomoc
+423: Skřítek| ID:431 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:433 |Potřebuji pomoc
+423: Skřítek| ID:432 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:434 |Potřebuji pomoc
+423: Skřítek| ID:433 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:435 |Potřebuji pomoc
+423: Skřítek| ID:434 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:436 |Potřebuji pomoc
+423: Skřítek| ID:435 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:437 |Potřebuji pomoc
+423: Skřítek| ID:436 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:438 |Potřebuji pomoc
+423: Skřítek| ID:437 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:439 |Potřebuji pomoc
+423: Skřítek| ID:438 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:440 |Potřebuji pomoc
+423: Skřítek| ID:439 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:441 |Potřebuji pomoc
+423: Skřítek| ID:440 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:442 |Potřebuji pomoc
+423: Skřítek| ID:441 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:443 |Potřebuji pomoc
+423: Skřítek| ID:442 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:444 |Potřebuji pomoc
+423: Skřítek| ID:443 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:445 |Potřebuji pomoc
+423: Skřítek| ID:444 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:446 |Potřebuji pomoc
+423: Skřítek| ID:445 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:447 |Potřebuji pomoc
+423: Skřítek| ID:446 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:448 |Potřebuji pomoc
+423: Skřítek| ID:447 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:449 |Potřebuji pomoc
+423: Skřítek| ID:448 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:450 |Potřebuji pomoc
+423: Skřítek| ID:449 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:451 |Potřebuji pomoc
+423: Skřítek| ID:450 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:452 |Potřebuji pomoc
+423: Skřítek| ID:451 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:453 |Potřebuji pomoc
+423: Skřítek| ID:452 |Čekám dokud je Santa vzhůru
+423: Skřítek| ID:453 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:454 |Potřebuji pomoc
+523: Skřítek| ID:9 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::4
+415: Skřítek| ID:455 |Potřebuji pomoc
+423: Skřítek| ID:454 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:9 |Pracuji
+415: Skřítek| ID:456 |Potřebuji pomoc
+423: Skřítek| ID:455 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:457 |Potřebuji pomoc
+423: Skřítek| ID:456 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:458 |Potřebuji pomoc
+423: Skřítek| ID:457 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:459 |Potřebuji pomoc
+423: Skřítek| ID:458 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:460 |Potřebuji pomoc
+423: Skřítek| ID:459 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:461 |Potřebuji pomoc
+423: Skřítek| ID:460 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:463 |Potřebuji pomoc
+423: Skřítek| ID:461 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:464 |Potřebuji pomoc
+423: Skřítek| ID:463 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:465 |Potřebuji pomoc
+423: Skřítek| ID:464 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:466 |Potřebuji pomoc
+423: Skřítek| ID:465 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:467 |Potřebuji pomoc
+423: Skřítek| ID:466 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:468 |Potřebuji pomoc
+423: Skřítek| ID:467 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:281 |Začínám
+423: Skřítek| ID:468 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:471 |Potřebuji pomoc
+407: Skřítek| ID:281 |Pracuji
+415: Skřítek| ID:472 |Potřebuji pomoc
+423: Skřítek| ID:471 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:473 |Potřebuji pomoc
+423: Skřítek| ID:472 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:474 |Potřebuji pomoc
+423: Skřítek| ID:473 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:476 |Začínám
+423: Skřítek| ID:474 |Čekám dokud je Santa vzhůru
+523: Skřítek| ID:8 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::5
+415: Skřítek| ID:477 |Potřebuji pomoc
+407: Skřítek| ID:476 |Pracuji
+407: Skřítek| ID:8 |Pracuji
+415: Skřítek| ID:286 |Potřebuji pomoc
+423: Skřítek| ID:477 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:478 |Potřebuji pomoc
+423: Skřítek| ID:286 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:479 |Potřebuji pomoc
+423: Skřítek| ID:478 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:480 |Potřebuji pomoc
+423: Skřítek| ID:479 |Čekám dokud je Santa vzhůru
+399: Skřítek| ID:482 |Začínám
+423: Skřítek| ID:480 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:483 |Potřebuji pomoc
+407: Skřítek| ID:482 |Pracuji
+415: Skřítek| ID:484 |Potřebuji pomoc
+423: Skřítek| ID:483 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:485 |Potřebuji pomoc
+423: Skřítek| ID:484 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:486 |Potřebuji pomoc
+423: Skřítek| ID:485 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:487 |Potřebuji pomoc
+423: Skřítek| ID:486 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:292 |Potřebuji pomoc
+423: Skřítek| ID:487 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:489 |Potřebuji pomoc
+423: Skřítek| ID:292 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:490 |Potřebuji pomoc
+423: Skřítek| ID:489 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:491 |Potřebuji pomoc
+423: Skřítek| ID:490 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:492 |Potřebuji pomoc
+423: Skřítek| ID:491 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:493 |Potřebuji pomoc
+423: Skřítek| ID:492 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:494 |Potřebuji pomoc
+423: Skřítek| ID:493 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:495 |Potřebuji pomoc
+423: Skřítek| ID:494 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:496 |Potřebuji pomoc
+423: Skřítek| ID:495 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:497 |Potřebuji pomoc
+423: Skřítek| ID:496 |Čekám dokud je Santa vzhůru
+523: Skřítek| ID:12 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::6
+415: Skřítek| ID:498 |Potřebuji pomoc
+423: Skřítek| ID:497 |Čekám dokud je Santa vzhůru
+407: Skřítek| ID:12 |Pracuji
+415: Skřítek| ID:499 |Potřebuji pomoc
+423: Skřítek| ID:498 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:500 |Potřebuji pomoc
+423: Skřítek| ID:499 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:501 |Potřebuji pomoc
+423: Skřítek| ID:500 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:502 |Potřebuji pomoc
+423: Skřítek| ID:501 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:503 |Potřebuji pomoc
+423: Skřítek| ID:502 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:504 |Potřebuji pomoc
+423: Skřítek| ID:503 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:505 |Potřebuji pomoc
+423: Skřítek| ID:504 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:506 |Potřebuji pomoc
+423: Skřítek| ID:505 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:507 |Potřebuji pomoc
+423: Skřítek| ID:506 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:174 |Potřebuji pomoc
+423: Skřítek| ID:507 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:305 |Potřebuji pomoc
+423: Skřítek| ID:174 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:510 |Potřebuji pomoc
+423: Skřítek| ID:305 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:511 |Potřebuji pomoc
+423: Skřítek| ID:510 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:512 |Potřebuji pomoc
+423: Skřítek| ID:511 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:513 |Potřebuji pomoc
+423: Skřítek| ID:512 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:514 |Potřebuji pomoc
+423: Skřítek| ID:513 |Čekám dokud je Santa vzhůru
+415: Skřítek| ID:310 |Potřebuji pomoc
+423: Skřítek| ID:514 |Čekám dokud je Santa vzhůru
+562: Sob| ID:2 |Vrátil jsem se z dovolené
+423: Skřítek| ID:310 |Čekám dokud je Santa vzhůru
+562: Sob| ID:3 |Vrátil jsem se z dovolené
+574: Sob| ID:2 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::1
+597: Sob| ID:2 |Čekám v sobí frontě
+415: Skřítek| ID:329 |Potřebuji pomoc
+574: Sob| ID:3 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::0
+415: Skřítek| ID:343 |Potřebuji pomoc
+580: Sob| ID:3 |Jsem poslední sob, který se vrátil z dovolené, čekám na santu dokud je vzhůru
+423: Skřítek| ID:329 |Čekám dokud je Santa vzhůru
+588: Sob| ID:3 |Jdu vzbudit santu
+415: Skřítek| ID:345 |Potřebuji pomoc
+366: Santa| ID:0 |Poslední skřítek odešel z dílny
+423: Skřítek| ID:343 |Čekám dokud je Santa vzhůru
+597: Sob| ID:3 |Čekám v sobí frontě
+270: Santa| ID:0 |Čekám na writing
+415: Skřítek| ID:202 |Potřebuji pomoc
+487: Skřítek| ID:364 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:261 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:496 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:355 |Potřebuji pomoc
+423: Skřítek| ID:345 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:13 |Čekám ve skřítkovské frontě
+423: Skřítek| ID:202 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:77 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:341 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:377 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:365 |Potřebuji pomoc
+423: Skřítek| ID:355 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:113 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:58 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:462 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:435 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:227 |Potřebuji pomoc
+423: Skřítek| ID:365 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:417 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:353 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:387 |Potřebuji pomoc
+487: Skřítek| ID:301 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:82 |Čekám ve skřítkovské frontě
+423: Skřítek| ID:227 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:330 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:327 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:393 |Potřebuji pomoc
+423: Skřítek| ID:387 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:194 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:224 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:140 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:415 |Potřebuji pomoc
+423: Skřítek| ID:393 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:118 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:277 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:419 |Potřebuji pomoc
+487: Skřítek| ID:70 |Čekám ve skřítkovské frontě
+423: Skřítek| ID:415 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:126 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:59 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:438 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:348 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:420 |Potřebuji pomoc
+423: Skřítek| ID:419 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:478 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:455 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:139 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:427 |Potřebuji pomoc
+423: Skřítek| ID:420 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:380 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:238 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:297 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:9 |Potřebuji pomoc
+423: Skřítek| ID:427 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:2 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:331 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:281 |Potřebuji pomoc
+423: Skřítek| ID:9 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:252 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:119 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:231 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:440 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:476 |Potřebuji pomoc
+423: Skřítek| ID:281 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:47 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:115 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:8 |Potřebuji pomoc
+423: Skřítek| ID:476 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:346 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:458 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:482 |Potřebuji pomoc
+423: Skřítek| ID:8 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:483 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:235 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:505 |Čekám ve skřítkovské frontě
+415: Skřítek| ID:12 |Potřebuji pomoc
+423: Skřítek| ID:482 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:342 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:461 |Čekám ve skřítkovské frontě
+423: Skřítek| ID:12 |Čekám dokud je Santa vzhůru
+487: Skřítek| ID:289 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:203 |Čekám ve skřítkovské frontě
+276: Santa| ID:0 |Uvolnil jsem writing
+284: Santa| ID:0 |Jdu spát
+487: Skřítek| ID:334 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:384 |Čekám ve skřítkovské frontě
+431: Skřítek| ID:329 |Dávám přednost sobům, je jich onHoliday 0
+487: Skřítek| ID:143 |Čekám ve skřítkovské frontě
+431: Skřítek| ID:343 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:345 |Dávám přednost sobům, je jich onHoliday 0
+487: Skřítek| ID:307 |Čekám ve skřítkovské frontě
+431: Skřítek| ID:202 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:355 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:227 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:365 |Dávám přednost sobům, je jich onHoliday 0
+487: Skřítek| ID:484 |Čekám ve skřítkovské frontě
+431: Skřítek| ID:387 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:393 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:420 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:415 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:419 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:427 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:9 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:281 |Dávám přednost sobům, je jich onHoliday 0
+487: Skřítek| ID:335 |Čekám ve skřítkovské frontě
+431: Skřítek| ID:476 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:8 |Dávám přednost sobům, je jich onHoliday 0
+431: Skřítek| ID:482 |Dávám přednost sobům, je jich onHoliday 0
+487: Skřítek| ID:444 |Čekám ve skřítkovské frontě
+431: Skřítek| ID:12 |Dávám přednost sobům, je jich onHoliday 0
+487: Skřítek| ID:89 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:487 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:445 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:110 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:276 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:52 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:510 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:111 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:285 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:117 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:1 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:122 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:53 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:87 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:109 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:512 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:50 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:490 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:5 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:269 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:467 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:475 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:171 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:161 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:426 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:159 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:239 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:390 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:471 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:192 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:430 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:129 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:99 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:61 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:324 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:229 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:71 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:413 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:357 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:495 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:494 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:127 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:85 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:197 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:282 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:128 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:296 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:452 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:191 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:291 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:190 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:474 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:258 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:306 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:65 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:48 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:263 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:497 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:79 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:232 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:148 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:397 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:219 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:226 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:80 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:54 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:144 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:300 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:378 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:382 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:312 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:434 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:399 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:57 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:267 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:311 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:398 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:236 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:477 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:499 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:437 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:498 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:133 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:360 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:508 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:286 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:170 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:243 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:201 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:408 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:137 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:287 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:456 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:325 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:237 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:169 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:67 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:379 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:501 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:470 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:273 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:212 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:51 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:205 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:76 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:500 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:363 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:288 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:251 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:182 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:165 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:439 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:175 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:200 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:98 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:403 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:152 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:502 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:332 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:274 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:104 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:114 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:479 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:503 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:216 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:163 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:314 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:181 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:293 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:480 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:66 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:88 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:442 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:354 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:73 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:402 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:333 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:504 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:459 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:84 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:248 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:146 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:422 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:234 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:316 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:83 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:4 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:78 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:141 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:256 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:158 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:302 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:69 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:249 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:349 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:142 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:193 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:421 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:55 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:120 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:149 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:241 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:385 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:157 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:315 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:108 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:317 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:423 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:383 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:131 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:381 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:62 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:103 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:443 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:228 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:166 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:369 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:396 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:367 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:318 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:485 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:507 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:74 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:257 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:214 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:260 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:506 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:404 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:425 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:116 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:486 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:366 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:91 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:156 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:268 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:294 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:102 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:154 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:344 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:174 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:275 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:464 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:407 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:303 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:222 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:336 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:308 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:406 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:244 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:305 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:185 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:446 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:221 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:130 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:351 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:145 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:49 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:371 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:465 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:187 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:304 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:112 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:168 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:350 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:147 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:254 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:246 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:245 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:466 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:150 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:132 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:511 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:447 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:153 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:172 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:177 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:418 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:106 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:220 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:63 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:409 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:100 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:299 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:206 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:429 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:391 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:250 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:414 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:290 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:337 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:401 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:513 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:489 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:372 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:151 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:265 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:410 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:309 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:389 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:448 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:491 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:225 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:195 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:262 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:295 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:514 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:121 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:322 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:179 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:213 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:217 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:450 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:509 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:72 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:376 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:209 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:412 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:338 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:339 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:90 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:328 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:394 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:347 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:266 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:164 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:451 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:411 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:375 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:218 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:493 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:272 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:97 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:33 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:207 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:362 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:186 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:204 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:416 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:326 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:340 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:136 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:373 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:432 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:472 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:453 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:392 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:473 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:155 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:359 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:210 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:233 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:135 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:259 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:173 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:160 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:278 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:436 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:395 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:123 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:255 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:43 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:223 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:313 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:361 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:138 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:208 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:247 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:283 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:183 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:457 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:198 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:107 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:240 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:211 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:124 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:481 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:488 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:68 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:125 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:178 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:441 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:94 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:460 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:400 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:368 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:196 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:424 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:215 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:279 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:405 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:180 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:320 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:463 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:95 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:292 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:242 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:162 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:388 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:298 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:199 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:264 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:428 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:370 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:92 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:189 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:284 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:321 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:96 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:352 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:386 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:468 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:105 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:449 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:356 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:492 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:374 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:176 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:319 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:188 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:310 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:323 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:280 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:167 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:86 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:134 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:358 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:271 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:253 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:56 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:469 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:431 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:101 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:64 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:433 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:230 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:454 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:270 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:93 |Čekám ve skřítkovské frontě
+487: Skřítek| ID:184 |Čekám ve skřítkovské frontě

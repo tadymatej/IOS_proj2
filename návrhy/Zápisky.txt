@@ -1,0 +1,7 @@
+Semafor santaAwake - skřítci i sobi musí čekat, než Santa půjde spát
+	- Pokud santa je vzhůru => a) pomáhá skřítkům, ostatní skřítci čekají
+		a sobi také čekají, v momentě, kdy santa usne, skřítci si prvně zkontrolují, zda sobi nejsou všichni doma, pokud ne, mohou pokračovat do workshop.skritci.queue. Pokud skřítci zjistí, že jsou všichni sobi doma, dávají ve frontě přednost sobům, pakliže je na dílně napsáno christmas = true, přestanou dávat přednost sobům a budou si brát dovolenou.
+				b) Santa je vzhůru a zapřahuje soby, skřítci si budou brát dovolenou
+Semafor SantaWakeUp - santa musí čekat, než ho někdo vzbudí
+	-pakliže ho vzbudí sob, jde je zapřahovat a dá nápis christmas started = 		true
+	- pakliže ho vzbudí skřítek, de pomoci skřítkům 3 vzbudí, bude čekat na semafor (lock) SantaWakeUp, v momentě, kdy se ke slovu dostane 3. skřítek, tak santu vzbudí. Santa poté přijde před postel, dá unlock(SantaAwake) a lock(SantaSleeping)

@@ -55,7 +55,7 @@ do
 done
 
 if [ ! X$ELF_hv = "X1" ]; then 
-	echo "WARNING: no elf taking holydays"
+	echo "WARNING: no elf taking holidays"
 fi
 if [ ! X$ELF_sv = "X1" ]; then 
 	echo "WARNING: no elf started"
@@ -76,7 +76,7 @@ if [ ! X$RD_hv = "X1" ]; then
 	echo "WARNING: no RD hitched"
 fi
 if [ ! X$S_sv = "X1" ]; then 
-	echo "WARNING: no SANTA going to sleap"
+	echo "WARNING: no SANTA going to sleep"
 fi
 if [ ! X$S_cv = "X1" ]; then 
 	echo "WARNING: no SANTA closing workshop"

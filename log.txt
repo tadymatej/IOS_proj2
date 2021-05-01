@@ -1,0 +1,240 @@
+269: Santa| ID:0 |Začínám
+271: Santa| ID:0 |Čekám na writing
+343: Skřítek| ID:1 |Začínám
+347: Skřítek| ID:1 |Pracuji
+274: Santa| ID:0 |Uvolnil jsem writing
+278: Santa| ID:0 |Jdu spát
+343: Skřítek| ID:2 |Začínám
+347: Skřítek| ID:2 |Pracuji
+343: Skřítek| ID:3 |Začínám
+347: Skřítek| ID:3 |Pracuji
+351: Skřítek| ID:1 |Potřebuji pomoc
+355: Skřítek| ID:1 |Čekám dokud je Santa vzhůru
+351: Skřítek| ID:3 |Potřebuji pomoc
+389: Skřítek| ID:1 |Čekám ve skřítkovské frontě
+355: Skřítek| ID:3 |Čekám dokud je Santa vzhůru
+389: Skřítek| ID:3 |Čekám ve skřítkovské frontě
+343: Skřítek| ID:7 |Začínám
+347: Skřítek| ID:7 |Pracuji
+343: Skřítek| ID:6 |Začínám
+347: Skřítek| ID:6 |Pracuji
+351: Skřítek| ID:2 |Potřebuji pomoc
+355: Skřítek| ID:2 |Čekám dokud je Santa vzhůru
+381: Skřítek| ID:2 |čekám na semafor santaAwake, jsem třetí skřítek v dílně (chci říct, že santa je vzhůru)
+383: Skřítek| ID:2 |Jsem třetí skřítek před dílnou, budím santu
+389: Skřítek| ID:2 |Čekám ve skřítkovské frontě
+280: Santa| ID:0 |Byl jsem probuzen
+343: Skřítek| ID:5 |Začínám
+307: Santa| ID:0 |Čekám na writing
+347: Skřítek| ID:5 |Pracuji
+343: Skřítek| ID:4 |Začínám
+347: Skřítek| ID:4 |Pracuji
+426: Sob| ID:2 |Začal jsem nyní, jsem na dovolené
+351: Skřítek| ID:7 |Potřebuji pomoc
+355: Skřítek| ID:7 |Čekám dokud je Santa vzhůru
+343: Skřítek| ID:9 |Začínám
+347: Skřítek| ID:9 |Pracuji
+351: Skřítek| ID:6 |Potřebuji pomoc
+355: Skřítek| ID:6 |Čekám dokud je Santa vzhůru
+426: Sob| ID:5 |Začal jsem nyní, jsem na dovolené
+426: Sob| ID:6 |Začal jsem nyní, jsem na dovolené
+426: Sob| ID:1 |Začal jsem nyní, jsem na dovolené
+426: Sob| ID:8 |Začal jsem nyní, jsem na dovolené
+343: Skřítek| ID:8 |Začínám
+347: Skřítek| ID:8 |Pracuji
+426: Sob| ID:10 |Začal jsem nyní, jsem na dovolené
+426: Sob| ID:3 |Začal jsem nyní, jsem na dovolené
+431: Sob| ID:2 |Vrátil jsem se z dovolené
+431: Sob| ID:10 |Vrátil jsem se z dovolené
+437: Sob| ID:2 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::9
+450: Sob| ID:2 |Čekám v sobí frontě
+437: Sob| ID:10 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::8
+450: Sob| ID:10 |Čekám v sobí frontě
+343: Skřítek| ID:10 |Začínám
+347: Skřítek| ID:10 |Pracuji
+351: Skřítek| ID:9 |Potřebuji pomoc
+355: Skřítek| ID:9 |Čekám dokud je Santa vzhůru
+310: Santa| ID:0 |Uvolnil jsem writing a pomáhám skřítkům
+431: Sob| ID:5 |Vrátil jsem se z dovolené
+391: Skřítek| ID:1 |Nyní jsem vstoupil do dílny
+316: Santa| ID:0 |Čekám než pomůžu všem skřítkům
+391: Skřítek| ID:3 |Nyní jsem vstoupil do dílny
+391: Skřítek| ID:2 |Nyní jsem vstoupil do dílny
+400: Skřítek| ID:1 |Čekám na zápis
+437: Sob| ID:5 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::7
+400: Skřítek| ID:3 |Čekám na zápis
+400: Skřítek| ID:2 |Čekám na zápis
+450: Sob| ID:5 |Čekám v sobí frontě
+426: Sob| ID:7 |Začal jsem nyní, jsem na dovolené
+431: Sob| ID:6 |Vrátil jsem se z dovolené
+351: Skřítek| ID:5 |Potřebuji pomoc
+437: Sob| ID:6 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::6
+450: Sob| ID:6 |Čekám v sobí frontě
+355: Skřítek| ID:5 |Čekám dokud je Santa vzhůru
+426: Sob| ID:9 |Začal jsem nyní, jsem na dovolené
+431: Sob| ID:1 |Vrátil jsem se z dovolené
+351: Skřítek| ID:4 |Potřebuji pomoc
+437: Sob| ID:1 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::5
+450: Sob| ID:1 |Čekám v sobí frontě
+355: Skřítek| ID:4 |Čekám dokud je Santa vzhůru
+431: Sob| ID:8 |Vrátil jsem se z dovolené
+437: Sob| ID:8 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::4
+351: Skřítek| ID:8 |Potřebuji pomoc
+450: Sob| ID:8 |Čekám v sobí frontě
+431: Sob| ID:9 |Vrátil jsem se z dovolené
+355: Skřítek| ID:8 |Čekám dokud je Santa vzhůru
+431: Sob| ID:3 |Vrátil jsem se z dovolené
+437: Sob| ID:9 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::3
+450: Sob| ID:9 |Čekám v sobí frontě
+437: Sob| ID:3 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::2
+450: Sob| ID:3 |Čekám v sobí frontě
+408: Skřítek| ID:1 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::1
+347: Skřítek| ID:1 |Pracuji
+408: Skřítek| ID:3 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::2
+347: Skřítek| ID:3 |Pracuji
+408: Skřítek| ID:2 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::3
+351: Skřítek| ID:10 |Potřebuji pomoc
+410: Skřítek| ID:2 |Jsem poslední skřítek, kterému santa pomohl, díky santo
+347: Skřítek| ID:2 |Pracuji
+355: Skřítek| ID:10 |Čekám dokud je Santa vzhůru
+319: Santa| ID:0 |Poslední skřítek odešel z dílny
+431: Sob| ID:7 |Vrátil jsem se z dovolené
+271: Santa| ID:0 |Čekám na writing
+437: Sob| ID:7 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::1
+450: Sob| ID:7 |Čekám v sobí frontě
+426: Sob| ID:4 |Začal jsem nyní, jsem na dovolené
+274: Santa| ID:0 |Uvolnil jsem writing
+278: Santa| ID:0 |Jdu spát
+351: Skřítek| ID:1 |Potřebuji pomoc
+389: Skřítek| ID:7 |Čekám ve skřítkovské frontě
+389: Skřítek| ID:6 |Čekám ve skřítkovské frontě
+355: Skřítek| ID:1 |Čekám dokud je Santa vzhůru
+381: Skřítek| ID:9 |čekám na semafor santaAwake, jsem třetí skřítek v dílně (chci říct, že santa je vzhůru)
+351: Skřítek| ID:3 |Potřebuji pomoc
+389: Skřítek| ID:5 |Čekám ve skřítkovské frontě
+389: Skřítek| ID:1 |Čekám ve skřítkovské frontě
+383: Skřítek| ID:9 |Jsem třetí skřítek před dílnou, budím santu
+389: Skřítek| ID:4 |Čekám ve skřítkovské frontě
+355: Skřítek| ID:3 |Čekám dokud je Santa vzhůru
+351: Skřítek| ID:2 |Potřebuji pomoc
+389: Skřítek| ID:9 |Čekám ve skřítkovské frontě
+280: Santa| ID:0 |Byl jsem probuzen
+307: Santa| ID:0 |Čekám na writing
+355: Skřítek| ID:2 |Čekám dokud je Santa vzhůru
+310: Santa| ID:0 |Uvolnil jsem writing a pomáhám skřítkům
+431: Sob| ID:4 |Vrátil jsem se z dovolené
+391: Skřítek| ID:7 |Nyní jsem vstoupil do dílny
+316: Santa| ID:0 |Čekám než pomůžu všem skřítkům
+391: Skřítek| ID:6 |Nyní jsem vstoupil do dílny
+391: Skřítek| ID:5 |Nyní jsem vstoupil do dílny
+400: Skřítek| ID:7 |Čekám na zápis
+437: Sob| ID:4 | Snížil jsem naše počitadlo onHolidayCount | a to na hodnotu::0
+400: Skřítek| ID:6 |Čekám na zápis
+400: Skřítek| ID:5 |Čekám na zápis
+440: Sob| ID:4 |Jsem poslední sob, který se vrátil z dovolené, čekám na santu dokud je vzhůru
+408: Skřítek| ID:7 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::1
+347: Skřítek| ID:7 |Pracuji
+408: Skřítek| ID:6 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::2
+347: Skřítek| ID:6 |Pracuji
+408: Skřítek| ID:5 | Dostává se mi pomoc | Kolikátý jsem dostal pomoc::3
+410: Skřítek| ID:5 |Jsem poslední skřítek, kterému santa pomohl, díky santo
+347: Skřítek| ID:5 |Pracuji
+319: Santa| ID:0 |Poslední skřítek odešel z dílny
+271: Santa| ID:0 |Čekám na writing
+274: Santa| ID:0 |Uvolnil jsem writing
+278: Santa| ID:0 |Jdu spát
+359: Skřítek| ID:8 |Dávám přednost sobům, je jich onHoliday 0
+359: Skřítek| ID:3 |Dávám přednost sobům, je jich onHoliday 0
+359: Skřítek| ID:10 |Dávám přednost sobům, je jich onHoliday 0
+359: Skřítek| ID:2 |Dávám přednost sobům, je jich onHoliday 0
+444: Sob| ID:4 |Jdu vzbudit santu
+359: Skřítek| ID:2 |Dávám přednost sobům, je jich onHoliday 0
+351: Skřítek| ID:7 |Potřebuji pomoc
+450: Sob| ID:4 |Čekám v sobí frontě
+280: Santa| ID:0 |Byl jsem probuzen
+282: Santa| ID:0 |Sobů je 0 na dovolené
+355: Skřítek| ID:7 |Čekám dokud je Santa vzhůru
+283: Santa| ID:0 |Čekám na writing
+351: Skřítek| ID:6 |Potřebuji pomoc
+355: Skřítek| ID:6 |Čekám dokud je Santa vzhůru
+286: Santa| ID:0 |Uvolnil jsem writing
+351: Skřítek| ID:5 |Potřebuji pomoc
+391: Skřítek| ID:1 |Nyní jsem vstoupil do dílny
+372: Skřítek| ID:7 |Dílna je zavřená
+372: Skřítek| ID:6 |Dílna je zavřená
+393: Skřítek| ID:1 |Ale dílna je zavřená
+294: Santa| ID:0 |Čekám na posledního hitched soba
+355: Skřítek| ID:5 |Čekám dokud je Santa vzhůru
+375: Skřítek| ID:7 |Čekám na zápis
+454: Sob| ID:2 |Byl jsem hitchnut
+375: Skřítek| ID:6 |Čekám na zápis
+396: Skřítek| ID:1 |Čekám na zápis
+372: Skřítek| ID:10 |Dílna je zavřená
+372: Skřítek| ID:5 |Dílna je zavřená
+391: Skřítek| ID:9 |Nyní jsem vstoupil do dílny
+327: Skřítek| ID:1 |Beru si dovolenou
+458: Sob| ID:2 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::9
+375: Skřítek| ID:10 |Čekám na zápis
+375: Skřítek| ID:5 |Čekám na zápis
+393: Skřítek| ID:9 |Ale dílna je zavřená
+464: Sob| ID:2 |KONEC
+327: Skřítek| ID:10 |Beru si dovolenou
+330: Skřítek| ID:1 |KONEC
+396: Skřítek| ID:9 |Čekám na zápis
+327: Skřítek| ID:9 |Beru si dovolenou
+330: Skřítek| ID:10 |KONEC
+330: Skřítek| ID:9 |KONEC
+327: Skřítek| ID:5 |Beru si dovolenou
+330: Skřítek| ID:5 |KONEC
+454: Sob| ID:10 |Byl jsem hitchnut
+458: Sob| ID:10 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::8
+464: Sob| ID:10 |KONEC
+327: Skřítek| ID:6 |Beru si dovolenou
+330: Skřítek| ID:6 |KONEC
+327: Skřítek| ID:7 |Beru si dovolenou
+391: Skřítek| ID:4 |Nyní jsem vstoupil do dílny
+330: Skřítek| ID:7 |KONEC
+454: Sob| ID:5 |Byl jsem hitchnut
+393: Skřítek| ID:4 |Ale dílna je zavřená
+396: Skřítek| ID:4 |Čekám na zápis
+458: Sob| ID:5 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::7
+327: Skřítek| ID:4 |Beru si dovolenou
+464: Sob| ID:5 |KONEC
+330: Skřítek| ID:4 |KONEC
+454: Sob| ID:6 |Byl jsem hitchnut
+458: Sob| ID:6 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::6
+464: Sob| ID:6 |KONEC
+454: Sob| ID:1 |Byl jsem hitchnut
+458: Sob| ID:1 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::5
+464: Sob| ID:1 |KONEC
+372: Skřítek| ID:8 |Dílna je zavřená
+372: Skřítek| ID:3 |Dílna je zavřená
+375: Skřítek| ID:8 |Čekám na zápis
+372: Skřítek| ID:2 |Dílna je zavřená
+375: Skřítek| ID:3 |Čekám na zápis
+327: Skřítek| ID:8 |Beru si dovolenou
+375: Skřítek| ID:2 |Čekám na zápis
+327: Skřítek| ID:2 |Beru si dovolenou
+330: Skřítek| ID:8 |KONEC
+330: Skřítek| ID:2 |KONEC
+327: Skřítek| ID:3 |Beru si dovolenou
+330: Skřítek| ID:3 |KONEC
+454: Sob| ID:8 |Byl jsem hitchnut
+458: Sob| ID:8 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::4
+464: Sob| ID:8 |KONEC
+454: Sob| ID:9 |Byl jsem hitchnut
+458: Sob| ID:9 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::3
+464: Sob| ID:9 |KONEC
+454: Sob| ID:3 |Byl jsem hitchnut
+458: Sob| ID:3 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::2
+464: Sob| ID:3 |KONEC
+454: Sob| ID:7 |Byl jsem hitchnut
+458: Sob| ID:7 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::1
+464: Sob| ID:7 |KONEC
+454: Sob| ID:4 |Byl jsem hitchnut
+458: Sob| ID:4 | Snížil jsem naše počitadlo totalCount | a to na hodnotu::0
+461: Sob| ID:4 |Jsem poslední hitchnutý sob
+464: Sob| ID:4 |KONEC
+298: Santa| ID:0 |Poslední sob byl hitchnud, čekám na writing
+301: Santa| ID:0 |Christmas started
+303: Santa| ID:0 |KONEC

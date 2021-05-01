@@ -1,4 +1,4 @@
-COMPILE_OPTIONS=-std=gnu99 -Wall -Wextra -pedantic -pthread #-Werror
+COMPILE_OPTIONS=-std=gnu99 -Wall -Wextra -Werror -pedantic -pthread
 PROJECT_NAME=proj2
 CC=gcc
 
@@ -12,8 +12,9 @@ main:	$(PROJECT_NAME).c
 clear: clean
 
 clean: 
-	rm $(PROJECT_NAME)
-	#rm -r $(BUILD_FOLDER)
+	-rm proj2.zip 
+	-rm -f proj2
+	-rm -f proj2.out
 
-zip_project:
-	zip -r proj2.zip *.c *.h Makefile
+pack: clean
+	zip -r proj2.zip proj2.c Makefile
