@@ -1,31 +1,23 @@
+/************************************************************
+* Název projektu: IOS - projekt 2 - synchronizace procesů
+* Datum: 1.5. 2021
+* Podlední změna: 16.4. 2021
+* **********************************************************/
+/**
+* @file proj2.c
+* 
+* @author Matěj Žalmánek (xzalma00) 
+************************************************************/ 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <sys/types.h>
 #include <unistd.h>
-#include <sys/wait.h>
-#include <fcntl.h>         
-#include <sys/stat.h>
+#include <sys/wait.h>       
 #include <semaphore.h>
 #include <stdbool.h>
-#include <errno.h>
-#include <pthread.h>
 #include <sys/mman.h>
-#include <signal.h>
-#include <sched.h>
-#include <sys/ipc.h>
 #include <sys/shm.h>
-
-
-#define LOGGING 1
-FILE *logFile;
-#ifdef LOGGING
-	#define LOG(Person, ID, message) (fprintf(logFile, "%d: %s| ID:%d |%s\n", (__LINE__), (Person), (ID), (message)))
-	#define LOGINFO(Person, ID, message, info, infoNUM) (fprintf(logFile, "%d: %s| ID:%d | %s | %s:%d\n", (__LINE__), (Person), (ID), (message), (info), (infoNUM)))
-#else
-	#define LOG(Person, ID, message) 
-	#define LOGINFO(Person, ID, message, info, infoNUM) 
-#endif
 
 /**
  * Struktura obsahující informace o santovi a jeho semafory, které slouží pro komunikaci s ním
@@ -224,15 +216,13 @@ void workshop_destroy(Workshop *workshop) {
 /**
  * Vygeneruje nahodne cislo z intervalu: <min, max)
  * 
+ * @param min Začátek intervalu, číslo se do intervalu zahrnuje
+ * @param max Konec intervalu, číslo se do intervalu NEzahrnuje
  * @return Vraci nahodne cislo ze zadaneho intervalu
  */ 
 int randomInt(int min, int max) {
 	srand(time(NULL));
 	return rand() % max + min;
-}
-
-void sleepRandom() {
-	sleep(randomInt(1,1000)/1000);
 }
 
 /**
@@ -261,24 +251,22 @@ void writeToFile(FILE *outputFile, char *msg, int arr[], int arrLen) {
  * @param outputFile soubor, do kterého má santa zapisovat zprávy
  */ 
 void Santa(FILE *outputFile) {
-	LOG("Santa", 0, "Začínám");
+
 	while(true) {
-		LOG("Santa", 0, "Čekám na writing");
+
 		sem_wait(writing);
 		writeToFile(outputFile, "%d: Santa: going to sleep\n", (int []){*actionNum}, 1);
-		LOG("Santa", 0, "Uvolnil jsem writing");
 		sem_post(writing);
 		//sleep(0);	//Abych si zajistil, že nedojde ke context swapu, když budu nad sem_wait()
 		sem_post(workshop->santa.santaAwake);	//Nyní nejsem vzhůru
-		LOG("Santa", 0, "Jdu spát");
+		//workshop->skritci.waitingForHelpCount--;
+
 		sem_wait(workshop->santa.santaWakeUp);	//Nyní mě můžete zkusit vzbudit
-		LOG("Santa", 0, "Byl jsem probuzen");
+
 		if(workshop->sobi.onHolidayCount == 0) {
-			LOG("Santa", 0, "Sobů je 0 na dovolené");
-			LOG("Santa", 0, "Čekám na writing");
+
 			sem_wait(writing);
 			writeToFile(outputFile, "%d: Santa: closing workshop\n", (int []){*actionNum}, 1);
-			LOG("Santa", 0, "Uvolnil jsem writing");
 			sem_post(writing);
 			workshop->workshopClosed = true;
 			//Sob mi to zablokoval, já to uvolním skřítkům
@@ -286,43 +274,49 @@ void Santa(FILE *outputFile) {
 			sem_post(workshop->skritci.queue);		//Skřítci už si můžete brát dovolenou
 			sem_post(workshop->sobi.allReturned);	//Sob to zablokoval, já to uvolním skřítkům co čekají na soby
 			sem_post(workshop->sobi.queue);
-			LOG("Santa", 0, "Čekám na posledního hitched soba");
+
 			while(workshop->sobi.totalCount != 0) {
 				sem_wait(workshop->santa.santaWakeUp); //Počkám si, než mi poslední sob řekne, že jsem ho hitchul
 			}
-			LOG("Santa", 0, "Poslední sob byl hitchnud, čekám na writing");
+
 			sem_wait(writing);
 			writeToFile(outputFile, "%d: Santa: Christmas started\n", (int []){*actionNum}, 1);
-			LOG("Santa", 0, "Christmas started");
+
 			sem_post(writing);
-			LOG("Santa", 0, "KONEC");
+
 			exit(0);
 		}
 		//Jde pomáhat skřítkům
-		LOG("Santa", 0, "Čekám na writing");
+
 		sem_wait(writing);
 		writeToFile(outputFile, "%d: Santa: helping elves\n", (int []){*actionNum}, 1);
-		LOG("Santa", 0, "Uvolnil jsem writing a pomáhám skřítkům");
+
 		sem_post(writing);
 
 		for(int i = 0; i < 3; ++i) {	//Řeknu 3 skřítkům, že mohou jít do dílny
 			sem_post(workshop->skritci.queue);
 		}
-		LOG("Santa", 0, "Čekám než pomůžu všem skřítkům");
+
 		sem_wait(workshop->santa.santaWakeUp);	//Počkám, než mi skřítek řekne, že 3 skřítci děkují za pomoc
 		//Santa pomohl všem elfům
-		LOG("Santa", 0, "Poslední skřítek odešel z dílny");
-		//sem_wait(workshop->skritci.countingEnabled);
+
+		sem_wait(workshop->skritci.countingEnabled);
 		workshop->skritci.getHelpCount = 0;	//Vynuluju počet, kolika jsem pomohl
-		//sem_post(workshop->skritci.countingEnabled);
+		sem_post(workshop->skritci.countingEnabled);
+		for(int i = 0; i < 3; ++i)  {
+			workshop->skritci.waitingForHelpCount--;
+		}
 	}
 }
 
+/**
+ * Funkce obsluhující zprávu skřítka, že si bere dovolenou - končí proces
+ * @param outputFile Soubor, do kterého se má zpráva zapsat
+ * @param id Id skřítka, který tuto zprávu vypisuje
+ */ 
 void skritekTakeHolidays(FILE *outputFile, int id) {
-	LOG("Skřítek", id, "Beru si dovolenou");
 	writeToFile(outputFile, "%d: Elf %d: taking holidays\n", (int []){*actionNum, id}, 2);
 	sem_post(writing);
-	LOG("Skřítek", id, "KONEC");
 	exit(0);
 }
 
@@ -335,74 +329,57 @@ void skritekTakeHolidays(FILE *outputFile, int id) {
  */ 
 void Skritek(FILE *outputFile, int id, int minSleep, int maxSleep) {
 	sem_wait(writing);
-	LOG("Skřítek", id, "Začínám");
 	writeToFile(outputFile, "%d: Elf %d: started\n", (int []){*actionNum, id}, 2);
 	sem_post(writing);
 	while(true) {
-		LOG("Skřítek", id, "Pracuji");
+
 		usleep(randomInt(minSleep, maxSleep));//Nyní pracuje
 		//Need help
 		sem_wait(writing);
-		LOG("Skřítek", id, "Potřebuji pomoc");
 		writeToFile(outputFile, "%d: Elf %d: need help\n", (int []){*actionNum, id}, 2);
 		sem_post(writing);
 		
-		LOG("Skřítek", id, "Čekám dokud je Santa vzhůru");
+
 		sem_wait(workshop->santa.santaAwake);	//Čekám, dokud je santa vzhůru
 		sem_post(workshop->santa.santaAwake);	//Dám vědět ostatním, že santa je vzhůru
 		while(workshop->sobi.onHolidayCount == 0 && !workshop->workshopClosed) {
-			LOG("Skřítek", id, "Dávám přednost sobům, je jich onHoliday 0");
 			sem_wait(workshop->sobi.allReturned);	//Čeká dokud poslední sob nedá svolení pokračovat
 			sem_post(workshop->sobi.allReturned);
-			
 		}
-		while(workshop->skritci.getHelpCount != 0) {
-			sem_wait(workshop->skritci.countingEnabled);	//Čeká dokud jsou v dílně ještě skřítci, kterým santa pomáhá a pokud měl počitadlo před nimi, dává jim počitadlo
-			sem_post(workshop->skritci.countingEnabled);	// aby nedošlo, že v dílně to sníží na 2 a tento skřítek si to zvýší na 3 a znovu vzbudí santu
-		}
+
 		sem_wait(workshop->skritci.countingEnabled);	//Zaberu si počítadlo, abych měl jistotu, že než dojdu ke kontrole, zda jsem 3., aby jsme tam nedošli dva
 		workshop->skritci.waitingForHelpCount++;
 		if(workshop->workshopClosed) {
 			sem_post(workshop->skritci.countingEnabled);	// Uvolním počitadlo
-			LOG("Skřítek", id, "Dílna je zavřená");
+
 			sem_post(workshop->santa.santaAwake);//Já jsem zjistil, že santa už zavřel dílnu, dávám vědět ostatním
 			sem_post(workshop->skritci.queue);	// Uvolním i frontu, pokud někdo čeká před dílnou ať vědí, že můžou jít na dovolenou
-			LOG("Skřítek", id, "Čekám na zápis");
 			sem_wait(writing);
 			skritekTakeHolidays(outputFile, id);
 		}
 		else if(workshop->skritci.waitingForHelpCount == 3) {
-			sem_post(workshop->skritci.countingEnabled);	// Uvolním počitadlo
-			LOG("Skřítek", id, "čekám na semafor santaAwake, jsem třetí skřítek v dílně (chci říct, že santa je vzhůru)");
 			sem_wait(workshop->santa.santaAwake);	//Říkám ostatní, že nyní je santa vzhůru
-			LOG("Skřítek", id, "Jsem třetí skřítek před dílnou, budím santu");
-			sem_post(workshop->santa.santaWakeUp);//Budím santu
+			sem_post(workshop->santa.santaWakeUp); //Budím santu
+			sem_post(workshop->skritci.countingEnabled);	// Uvolním počitadlo
 		}
 		else {
 			sem_post(workshop->skritci.countingEnabled);	//Uvolním počitadlo
 		}
-		LOG("Skřítek", id, "Čekám ve skřítkovské frontě");
+
 		sem_wait(workshop->skritci.queue);
-		LOG("Skřítek", id, "Nyní jsem vstoupil do dílny");
 		if(workshop->workshopClosed) {
-			LOG("Skřítek", id, "Ale dílna je zavřená");
 			sem_post(workshop->santa.santaAwake);//Já jsem zjistil, že santa už zavřel dílnu, dávám vědět ostatním
 			sem_post(workshop->skritci.queue);	// Uvolním i frontu, pokud někdo čeká před dílnou ať vědí, že můžou jít na dovolenou
-			LOG("Skřítek", id, "Čekám na zápis");
 			sem_wait(writing);
 			skritekTakeHolidays(outputFile, id);
 		}
-		LOG("Skřítek", id, "Čekám na zápis");
 		sem_wait(writing);
 		writeToFile(outputFile, "%d: Elf %d: get help\n", (int []){*actionNum, id}, 2);
 		sem_post(writing);
 
 		sem_wait(workshop->skritci.countingEnabled);
-		workshop->skritci.waitingForHelpCount--;
 		workshop->skritci.getHelpCount++;
-		LOGINFO("Skřítek", id, "Dostává se mi pomoc", "Kolikátý jsem dostal pomoc:", workshop->skritci.getHelpCount);
 		if(workshop->skritci.getHelpCount == 3) {
-			LOG("Skřítek", id, "Jsem poslední skřítek, kterému santa pomohl, díky santo");
 			sem_post(workshop->santa.santaWakeUp); //Díky santo za pomoc
 		}
 		sem_post(workshop->skritci.countingEnabled);
@@ -418,45 +395,45 @@ void Skritek(FILE *outputFile, int id, int minSleep, int maxSleep) {
  */ 
 void Sob(FILE *outputFile, int id, int minSleep, int maxSleep) {
 	sem_wait(writing);
-	LOG("Sob", id, "Začal jsem nyní, jsem na dovolené");
+
 	writeToFile(outputFile, "%d: RD %d: rstarted\n", (int []) {*actionNum, id}, 2);
 	sem_post(writing);
 	usleep(randomInt(minSleep, maxSleep));//Nyní je na dovolené
 	sem_wait(writing);
-	LOG("Sob", id, "Vrátil jsem se z dovolené");
+
 	writeToFile(outputFile, "%d: RD %d: return home\n", (int []) {*actionNum, id}, 2);
 	sem_post(writing);
 
 	sem_wait(workshop->sobi.countingEnabled);	//Zablokuju si počitadlo, abychom nemohli přijít dva sobi jako "poslední"
 	workshop->sobi.onHolidayCount--;
-	LOGINFO("Sob", id, "Snížil jsem naše počitadlo onHolidayCount", "a to na hodnotu:", workshop->sobi.onHolidayCount);
+
 	if(workshop->sobi.onHolidayCount == 0) {
 		sem_post(workshop->sobi.countingEnabled);
-		LOG("Sob", id, "Jsem poslední sob, který se vrátil z dovolené, čekám na santu dokud je vzhůru");
+
 		sem_wait(workshop->santa.santaAwake);	//Dokud je santa vzhůru, tak čeká
 		sem_post(workshop->sobi.allReturned);	//Sám pro sebe si uvolní semafor
 		sem_wait(workshop->sobi.allReturned);	//Zablokuje znovu tento semafor skřítkům
-		LOG("Sob", id, "Jdu vzbudit santu");
+
 		sem_post(workshop->santa.santaWakeUp);	//Santo vstávej
 	}
 	else {
 		sem_post(workshop->sobi.countingEnabled);
 	}
-	LOG("Sob", id, "Čekám v sobí frontě");
+
 	sem_wait(workshop->sobi.queue);
 
 	sem_wait(writing);
-	LOG("Sob", id, "Byl jsem hitchnut");
+
 	writeToFile(outputFile, "%d: RD %d: get hitched\n", (int []) {*actionNum, id}, 2);
 	sem_post(writing);
 	workshop->sobi.totalCount--;
-	LOGINFO("Sob", id, "Snížil jsem naše počitadlo totalCount", "a to na hodnotu:", workshop->sobi.totalCount);
+
 	sem_post(workshop->sobi.queue); //Další sob může!
 	if(workshop->sobi.totalCount == 0) {
-		LOG("Sob", id, "Jsem poslední hitchnutý sob");
+
 		sem_post(workshop->santa.santaWakeUp);	//Santo, můžeš dát nápis christmas started
 	}
-	LOG("Sob", id, "KONEC");
+
 	exit(0);
 }
 
@@ -562,8 +539,6 @@ int main(int argc, char **argv)
 		return EXIT_FAILURE;
 	}
 	
-	logFile = fopen("log.txt", "w");
-	setbuf(logFile, NULL);	//TODO po debbugingu smazat
 	setbuf(outputFile, NULL);	//Spravny vystup do souboru, zamezeni cekani na naplneni bufferu
 
 	int idWorkshop = -1, idActionNum = -1;
@@ -605,3 +580,5 @@ int main(int argc, char **argv)
 	releaseResources(&outputFile, idWorkshop, idActionNum);
 	return EXIT_SUCCESS;
 }
+
+/***************** Konec souboru proj2.c ***************/

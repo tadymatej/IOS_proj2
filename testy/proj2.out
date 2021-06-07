@@ -1,118 +1,2191 @@
 1: Santa: going to sleep
-2: Elf 1: started
-3: Elf 2: started
-4: Elf 3: started
-5: Elf 4: started
-6: Elf 5: started
-7: Elf 6: started
-8: Elf 7: started
-9: Elf 8: started
-10: Elf 1: need help
-11: Elf 9: started
-12: Elf 10: started
-13: Elf 2: need help
-14: Elf 11: started
-15: Elf 12: started
-16: Elf 13: started
-17: Elf 3: need help
-18: Elf 14: started
-19: Elf 15: started
-20: Elf 4: need help
-21: Elf 16: started
-22: Elf 17: started
-23: Elf 5: need help
-24: Elf 18: started
-25: Elf 19: started
-26: Elf 20: started
+2: Elf 2: started
+3: Elf 3: started
+4: Elf 4: started
+5: Elf 1: started
+6: Elf 3: need help
+7: Elf 5: started
+8: Elf 6: started
+9: Elf 7: started
+10: Elf 2: need help
+11: Elf 10: started
+12: Elf 11: started
+13: Elf 8: started
+14: Elf 9: started
+15: Elf 14: started
+16: Elf 4: need help
+17: Elf 9: need help
+18: Santa: helping elves
+19: Elf 12: started
+20: Elf 7: need help
+21: Elf 14: need help
+22: Elf 10: need help
+23: Elf 11: need help
+24: Elf 17: started
+25: Elf 12: need help
+26: Elf 15: started
 27: Elf 6: need help
-28: Elf 62: started
-29: Elf 22: started
-30: Elf 7: need help
-31: Elf 23: started
-32: Elf 24: started
-33: Elf 8: need help
-34: Elf 25: started
-35: Elf 26: started
-36: Elf 27: started
-37: Elf 28: started
-38: Elf 29: started
-39: Elf 9: need help
-40: Elf 30: started
-41: Elf 31: started
-42: Elf 10: need help
-43: Elf 32: started
-44: Elf 33: started
-45: Elf 34: started
-46: Elf 35: started
-47: Elf 105: started
-48: Elf 11: need help
-49: Elf 37: started
-50: Elf 38: started
-51: Elf 12: need help
-52: Elf 39: started
-53: Elf 40: started
-54: Elf 41: started
-55: Elf 13: need help
-56: Elf 126: started
-57: Elf 43: started
-58: Elf 44: started
-59: Elf 45: started
-60: Elf 14: need help
-61: Santa: helping elves
-62: Elf 46: started
-63: Elf 142: started
-64: Elf 15: need help
-65: Elf 48: started
-66: Elf 49: started
-67: Elf 50: started
-68: Elf 51: started
-69: Elf 155: started
-70: Elf 52: started
-71: Elf 53: started
-72: Elf 54: started
-73: Elf 164: started
-74: Elf 55: started
-75: Elf 56: started
-76: Elf 57: started
-77: Elf 58: started
-78: Elf 18: need help
-79: Elf 59: started
-80: Elf 60: started
-81: Elf 19: need help
-82: Elf 61: started
-83: Elf 21: started
-84: Elf 20: need help
-85: Elf 63: started
-86: Elf 64: started
-87: Elf 65: started
-88: Elf 66: started
-89: Elf 67: started
-90: Elf 62: need help
-91: Elf 68: started
-92: Elf 69: started
-93: Elf 22: need help
-94: Elf 70: started
-95: Elf 71: started
-96: Elf 217: started
-97: Elf 73: started
-98: Elf 23: need help
-99: Elf 74: started
-100: Elf 226: started
-101: Elf 24: need help
-102: Elf 76: started
-103: Elf 77: started
-104: Elf 78: started
-105: Elf 79: started
-106: Elf 80: started
-107: Elf 25: need help
-108: Elf 81: started
-109: Elf 247: started
-110: Elf 26: need help
-111: Elf 83: started
-112: Elf 84: started
-113: Elf 27: need help
-114: Elf 85: started
-115: Elf 261: started
-116: Elf 87: started
-117: Elf 28: need help
-118: Elf 88: started
+28: Elf 19: started
+29: Elf 17: need help
+30: Elf 4: get help
+31: Elf 16: started
+32: Elf 3: get help
+33: Elf 13: started
+34: Elf 5: need help
+35: Elf 22: started
+36: Elf 23: started
+37: Elf 13: need help
+38: Elf 24: started
+39: Elf 20: started
+40: Elf 21: started
+41: Elf 23: need help
+42: Elf 27: started
+43: Elf 20: need help
+44: Elf 19: need help
+45: Elf 28: started
+46: Elf 16: need help
+47: Elf 3: need help
+48: Elf 1: need help
+49: Elf 27: need help
+50: Elf 2: get help
+51: Elf 22: need help
+52: Elf 30: started
+53: Elf 28: need help
+54: Elf 15: need help
+55: Elf 8: need help
+56: Elf 31: started
+57: Elf 2: need help
+58: Elf 32: started
+59: Elf 29: started
+60: Elf 25: started
+61: Elf 31: need help
+62: Santa: going to sleep
+63: Elf 26: started
+64: Santa: helping elves
+65: Elf 29: need help
+66: Elf 7: get help
+67: Elf 21: need help
+68: Elf 36: started
+69: Elf 34: started
+70: Elf 24: need help
+71: Elf 32: need help
+72: Elf 38: started
+73: Elf 4: need help
+74: Elf 18: started
+75: Elf 40: started
+76: Elf 14: get help
+77: Elf 33: started
+78: Elf 42: started
+79: Elf 25: need help
+80: Elf 43: started
+81: Elf 26: need help
+82: Elf 44: started
+83: Elf 33: need help
+84: Elf 35: started
+85: Elf 39: started
+86: Elf 34: need help
+87: Elf 9: get help
+88: Elf 38: need help
+89: Santa: going to sleep
+90: Elf 44: need help
+91: Elf 18: need help
+92: Elf 30: need help
+93: Elf 37: started
+94: Elf 14: need help
+95: Elf 7: need help
+96: Elf 39: need help
+97: Elf 49: started
+98: Elf 42: need help
+99: Elf 43: need help
+100: Elf 46: started
+101: Elf 41: started
+102: Elf 47: started
+103: Elf 40: need help
+104: Santa: helping elves
+105: Elf 54: started
+106: Elf 48: started
+107: Elf 36: need help
+108: Elf 56: started
+109: Elf 45: started
+110: Elf 50: started
+111: Elf 37: need help
+112: Elf 51: started
+113: Elf 60: started
+114: Elf 49: need help
+115: Elf 53: started
+116: Elf 62: started
+117: Elf 11: get help
+118: Elf 44: get help
+119: Elf 46: need help
+120: Elf 18: get help
+121: Elf 41: need help
+122: Elf 60: need help
+123: Elf 64: started
+124: Elf 53: need help
+125: Elf 57: started
+126: Elf 44: need help
+127: Elf 54: need help
+128: Elf 58: started
+129: Elf 67: started
+130: Elf 56: need help
+131: Elf 52: started
+132: Elf 69: started
+133: Elf 61: started
+134: Elf 67: need help
+135: Elf 35: need help
+136: Elf 51: need help
+137: Elf 63: started
+138: Santa: going to sleep
+139: Elf 55: started
+140: Elf 9: need help
+141: Elf 47: need help
+142: Elf 65: started
+143: Elf 62: need help
+144: Elf 11: need help
+145: Elf 66: started
+146: Elf 18: need help
+147: Elf 48: need help
+148: Elf 59: started
+149: Elf 77: started
+150: Elf 68: started
+151: Elf 57: need help
+152: Elf 45: need help
+153: Elf 58: need help
+154: Elf 79: started
+155: Elf 80: started
+156: Elf 71: started
+157: Elf 52: need help
+158: Elf 72: started
+159: Elf 69: need help
+160: Santa: helping elves
+161: Elf 73: started
+162: Elf 84: started
+163: Elf 74: started
+164: Elf 63: need help
+165: Elf 86: started
+166: Elf 55: need help
+167: Elf 76: started
+168: Elf 64: need help
+169: Elf 65: need help
+170: Elf 74: need help
+171: Elf 66: need help
+172: Elf 70: started
+173: Elf 59: need help
+174: Elf 90: started
+175: Elf 76: need help
+176: Elf 77: need help
+177: Elf 68: need help
+178: Elf 81: started
+179: Elf 79: need help
+180: Elf 92: started
+181: Elf 12: get help
+182: Elf 6: get help
+183: Elf 90: need help
+184: Elf 80: need help
+185: Elf 61: need help
+186: Elf 71: need help
+187: Elf 85: started
+188: Elf 72: need help
+189: Elf 75: started
+190: Elf 73: need help
+191: Elf 87: started
+192: Elf 84: need help
+193: Elf 85: need help
+194: Elf 88: started
+195: Elf 89: started
+196: Elf 99: started
+197: Elf 50: need help
+198: Elf 91: started
+199: Elf 82: started
+200: Elf 83: started
+201: Elf 103: started
+202: Elf 93: started
+203: Elf 82: need help
+204: Elf 94: started
+205: Elf 81: need help
+206: Elf 106: started
+207: Elf 95: started
+208: Elf 92: need help
+209: Elf 108: started
+210: Elf 96: started
+211: Elf 106: need help
+212: Elf 97: started
+213: Elf 98: started
+214: Elf 75: need help
+215: Elf 86: need help
+216: Elf 87: need help
+217: Elf 96: need help
+218: Elf 88: need help
+219: Elf 101: started
+220: Elf 97: need help
+221: Elf 102: started
+222: Elf 99: need help
+223: Elf 70: need help
+224: Elf 91: need help
+225: Elf 104: started
+226: Elf 101: need help
+227: Elf 105: started
+228: Elf 102: need help
+229: Elf 83: need help
+230: Elf 6: need help
+231: Elf 103: need help
+232: Elf 107: started
+233: Elf 104: need help
+234: Elf 94: need help
+235: Elf 109: started
+236: Elf 78: started
+237: Elf 110: started
+238: Elf 95: need help
+239: Elf 111: started
+240: Elf 109: need help
+241: Elf 122: started
+242: Elf 112: started
+243: Elf 113: started
+244: Elf 111: need help
+245: Elf 98: need help
+246: Elf 114: started
+247: Elf 115: started
+248: Elf 23: get help
+249: Elf 116: started
+250: Elf 128: started
+251: Elf 93: need help
+252: Elf 118: started
+253: Elf 12: need help
+254: Elf 130: started
+255: Elf 105: need help
+256: Elf 131: started
+257: Elf 107: need help
+258: Elf 121: started
+259: Elf 108: need help
+260: Elf 100: started
+261: Elf 78: need help
+262: Elf 134: started
+263: Elf 110: need help
+264: Elf 135: started
+265: Elf 89: need help
+266: Elf 136: started
+267: Elf 122: need help
+268: Elf 126: started
+269: Elf 112: need help
+270: Elf 127: started
+271: Santa: going to sleep
+272: Elf 139: started
+273: Elf 113: need help
+274: Santa: helping elves
+275: Elf 140: started
+276: Elf 115: need help
+277: Elf 141: started
+278: Elf 119: started
+279: Elf 116: need help
+280: Elf 120: started
+281: Elf 128: need help
+282: Elf 144: started
+283: Elf 118: need help
+284: Elf 133: started
+285: Elf 130: need help
+286: Elf 123: started
+287: Elf 131: need help
+288: Elf 147: started
+289: Elf 121: need help
+290: Elf 148: started
+291: Elf 100: need help
+292: Elf 134: need help
+293: Elf 137: started
+294: Elf 138: started
+295: Elf 135: need help
+296: Elf 136: need help
+297: Elf 114: need help
+298: Elf 148: need help
+299: Elf 126: need help
+300: Elf 129: started
+301: Elf 137: need help
+302: Elf 19: get help
+303: Elf 16: get help
+304: Elf 23: need help
+305: Elf 127: need help
+306: Elf 139: need help
+307: Elf 154: started
+308: Elf 143: started
+309: Elf 16: need help
+310: Elf 132: started
+311: Elf 141: need help
+312: Elf 145: started
+313: Elf 119: need help
+314: Elf 146: started
+315: Elf 120: need help
+316: Elf 124: started
+317: Elf 144: need help
+318: Elf 125: started
+319: Elf 133: need help
+320: Elf 146: need help
+321: Elf 161: started
+322: Elf 162: started
+323: Elf 147: need help
+324: Elf 163: started
+325: Elf 152: started
+326: Elf 161: need help
+327: Elf 153: started
+328: Elf 166: started
+329: Elf 138: need help
+330: Elf 152: need help
+331: Elf 155: started
+332: Elf 129: need help
+333: Elf 168: started
+334: Elf 140: need help
+335: Elf 169: started
+336: Elf 154: need help
+337: Elf 170: started
+338: Elf 143: need help
+339: Elf 158: started
+340: Elf 132: need help
+341: Elf 159: started
+342: Elf 173: started
+343: Elf 160: started
+344: Elf 158: need help
+345: Elf 149: started
+346: Elf 150: started
+347: Elf 173: need help
+348: Elf 124: need help
+349: Elf 125: need help
+350: Elf 164: started
+351: Elf 165: started
+352: Elf 162: need help
+353: Elf 163: need help
+354: Elf 150: need help
+355: Elf 3: get help
+356: Santa: going to sleep
+357: Elf 142: started
+358: Santa: helping elves
+359: Elf 19: need help
+360: Elf 181: started
+361: Elf 166: need help
+362: Elf 182: started
+363: Elf 155: need help
+364: Elf 171: started
+365: Elf 168: need help
+366: Elf 172: started
+367: Elf 169: need help
+368: Elf 145: need help
+369: Elf 182: need help
+370: Elf 174: started
+371: Elf 186: started
+372: Elf 187: started
+373: Elf 159: need help
+374: Elf 188: started
+375: Elf 174: need help
+376: Elf 151: started
+377: Elf 160: need help
+378: Elf 190: started
+379: Elf 149: need help
+380: Elf 179: started
+381: Elf 192: started
+382: Elf 117: started
+383: Elf 167: started
+384: Elf 180: started
+385: Elf 192: need help
+386: Elf 153: need help
+387: Elf 156: started
+388: Elf 28: get help
+389: Elf 27: get help
+390: Elf 197: started
+391: Elf 165: need help
+392: Elf 180: need help
+393: Elf 142: need help
+394: Elf 183: started
+395: Elf 184: started
+396: Elf 181: need help
+397: Elf 197: need help
+398: Elf 170: need help
+399: Elf 123: need help
+400: Elf 201: started
+401: Elf 175: started
+402: Elf 172: need help
+403: Elf 176: started
+404: Elf 204: started
+405: Elf 189: started
+406: Elf 175: need help
+407: Elf 186: need help
+408: Elf 178: started
+409: Elf 191: started
+410: Elf 188: need help
+411: Elf 164: need help
+412: Elf 151: need help
+413: Elf 189: need help
+414: Elf 193: started
+415: Elf 194: started
+416: Elf 179: need help
+417: Elf 195: started
+418: Elf 211: started
+419: Elf 196: started
+420: Elf 117: need help
+421: Elf 3: need help
+422: Elf 167: need help
+423: Elf 195: need help
+424: Elf 28: need help
+425: Elf 193: need help
+426: Elf 199: started
+427: Elf 196: need help
+428: Elf 27: need help
+429: Elf 200: started
+430: Elf 185: started
+431: Elf 171: need help
+432: Elf 199: need help
+433: Elf 202: started
+434: Elf 218: started
+435: Elf 203: started
+436: Elf 177: started
+437: Elf 220: started
+438: Elf 218: need help
+439: Elf 206: started
+440: Elf 187: need help
+441: Elf 176: need help
+442: Elf 207: started
+443: Elf 204: need help
+444: Elf 208: started
+445: Elf 190: need help
+446: Elf 209: started
+447: Elf 178: need help
+448: Elf 191: need help
+449: Elf 210: started
+450: Elf 212: started
+451: Elf 194: need help
+452: Elf 22: get help
+453: Elf 213: started
+454: Elf 210: need help
+455: Elf 198: started
+456: Elf 228: started
+457: Elf 156: need help
+458: Elf 229: started
+459: Elf 215: started
+460: Elf 216: started
+461: Elf 231: started
+462: Elf 183: need help
+463: Elf 184: need help
+464: Elf 232: started
+465: Elf 200: need help
+466: Elf 202: need help
+467: Elf 216: need help
+468: Elf 201: need help
+469: Elf 205: started
+470: Elf 203: need help
+471: Elf 222: started
+472: Elf 177: need help
+473: Elf 232: need help
+474: Elf 223: started
+475: Elf 206: need help
+476: Elf 207: need help
+477: Elf 205: need help
+478: Elf 225: started
+479: Elf 208: need help
+480: Elf 226: started
+481: Elf 209: need help
+482: Elf 223: need help
+483: Santa: going to sleep
+484: Elf 157: started
+485: Elf 211: need help
+486: Elf 212: need help
+487: Elf 239: started
+488: Elf 214: started
+489: Elf 157: need help
+490: Elf 230: started
+491: Elf 198: need help
+492: Elf 228: need help
+493: Elf 239: need help
+494: Elf 229: need help
+495: Elf 185: need help
+496: Elf 215: need help
+497: Elf 233: started
+498: Elf 243: started
+499: Elf 244: started
+500: Elf 234: started
+501: Elf 220: need help
+502: Elf 235: started
+503: Elf 224: started
+504: Elf 236: started
+505: Elf 222: need help
+506: Elf 237: started
+507: Elf 225: need help
+508: Elf 224: need help
+509: Elf 238: started
+510: Elf 22: need help
+511: Santa: helping elves
+512: Elf 252: started
+513: Elf 240: started
+514: Elf 213: need help
+515: Elf 254: started
+516: Elf 217: started
+517: Elf 242: started
+518: Elf 257: started
+519: Elf 221: started
+520: Elf 230: need help
+521: Elf 259: started
+522: Elf 245: started
+523: Elf 246: started
+524: Elf 243: need help
+525: Elf 244: need help
+526: Elf 247: started
+527: Elf 234: need help
+528: Elf 248: started
+529: Elf 249: started
+530: Elf 235: need help
+531: Elf 247: need help
+532: Elf 250: started
+533: Elf 251: started
+534: Elf 236: need help
+535: Elf 219: started
+536: Elf 211: get help
+537: Elf 8: get help
+538: Elf 237: need help
+539: Elf 269: started
+540: Elf 238: need help
+541: Elf 31: get help
+542: Elf 241: started
+543: Elf 255: started
+544: Elf 252: need help
+545: Elf 256: started
+546: Elf 240: need help
+547: Elf 214: need help
+548: Elf 274: started
+549: Elf 258: started
+550: Elf 217: need help
+551: Elf 256: need help
+552: Elf 233: need help
+553: Elf 231: need help
+554: Elf 257: need help
+555: Elf 260: started
+556: Elf 261: started
+557: Elf 221: need help
+558: Elf 259: need help
+559: Elf 262: started
+560: Elf 263: started
+561: Elf 281: started
+562: Elf 246: need help
+563: Elf 282: started
+564: Elf 283: started
+565: Elf 263: need help
+566: Elf 266: started
+567: Elf 265: started
+568: Elf 282: need help
+569: Elf 267: started
+570: Elf 226: need help
+571: Elf 287: started
+572: Elf 250: need help
+573: Elf 251: need help
+574: Elf 253: started
+575: Elf 267: need help
+576: Elf 270: started
+577: Elf 290: started
+578: Elf 8: need help
+579: Elf 253: need help
+580: Elf 271: started
+581: Elf 272: started
+582: Elf 269: need help
+583: Elf 293: started
+584: Elf 273: started
+585: Elf 241: need help
+586: Elf 295: started
+587: Elf 255: need help
+588: Elf 275: started
+589: Elf 297: started
+590: Elf 295: need help
+591: Elf 274: need help
+592: Elf 278: started
+593: Elf 258: need help
+594: Elf 275: need help
+595: Elf 279: started
+596: Elf 260: need help
+597: Elf 245: need help
+598: Elf 262: need help
+599: Elf 261: need help
+600: Elf 301: started
+601: Elf 302: started
+602: Elf 303: started
+603: Elf 304: started
+604: Elf 305: started
+605: Elf 302: need help
+606: Elf 285: started
+607: Elf 286: started
+608: Elf 278: need help
+609: Elf 283: need help
+610: Elf 266: need help
+611: Elf 288: started
+612: Elf 285: need help
+613: Elf 289: started
+614: Elf 219: need help
+615: Elf 287: need help
+616: Elf 310: started
+617: Elf 291: started
+618: Santa: going to sleep
+619: Elf 312: started
+620: Santa: helping elves
+621: Elf 313: started
+622: Elf 290: need help
+623: Elf 294: started
+624: Elf 254: need help
+625: Elf 312: need help
+626: Elf 271: need help
+627: Elf 272: need help
+628: Elf 273: need help
+629: Elf 276: started
+630: Elf 317: started
+631: Elf 298: started
+632: Elf 319: started
+633: Elf 276: need help
+634: Elf 320: started
+635: Elf 299: started
+636: Elf 322: started
+637: Elf 300: started
+638: Elf 324: started
+639: Elf 325: started
+640: Elf 322: need help
+641: Elf 248: need help
+642: Elf 284: started
+643: Elf 281: need help
+644: Elf 249: need help
+645: Elf 303: need help
+646: Elf 306: started
+647: Elf 329: started
+648: Elf 307: started
+649: Elf 331: started
+650: Elf 306: need help
+651: Elf 308: started
+652: Elf 305: need help
+653: Elf 309: started
+654: Elf 334: started
+655: Elf 211: need help
+656: Elf 288: need help
+657: Elf 311: started
+658: Elf 289: need help
+659: Elf 292: started
+660: Elf 270: need help
+661: Elf 338: started
+662: Elf 339: started
+663: Elf 212: get help
+664: Elf 24: get help
+665: Elf 292: need help
+666: Elf 314: started
+667: Elf 338: need help
+668: Elf 342: started
+669: Elf 296: started
+670: Elf 316: started
+671: Elf 313: need help
+672: Elf 345: started
+673: Elf 294: need help
+674: Elf 318: started
+675: Elf 280: started
+676: Elf 242: need help
+677: Elf 297: need help
+678: Elf 317: need help
+679: Elf 321: started
+680: Elf 350: started
+681: Elf 264: started
+682: Elf 352: started
+683: Elf 323: started
+684: Elf 320: need help
+685: Elf 227: started
+686: Elf 299: need help
+687: Elf 279: need help
+688: Elf 326: started
+689: Elf 301: need help
+690: Elf 300: need help
+691: Elf 327: started
+692: Elf 324: need help
+693: Elf 328: started
+694: Elf 325: need help
+695: Elf 304: need help
+696: Elf 360: started
+697: Elf 330: started
+698: Elf 268: started
+699: Elf 265: need help
+700: Elf 332: started
+701: Elf 329: need help
+702: Elf 364: started
+703: Elf 307: need help
+704: Elf 365: started
+705: Elf 366: started
+706: Elf 335: started
+707: Elf 364: need help
+708: Elf 336: started
+709: Elf 365: need help
+710: Elf 337: started
+711: Elf 334: need help
+712: Elf 31: need help
+713: Elf 335: need help
+714: Elf 21: get help
+715: Elf 340: started
+716: Elf 336: need help
+717: Elf 310: need help
+718: Elf 291: need help
+719: Elf 315: started
+720: Elf 24: need help
+721: Elf 21: need help
+722: Elf 339: need help
+723: Elf 343: started
+724: Elf 344: started
+725: Elf 314: need help
+726: Elf 293: need help
+727: Elf 376: started
+728: Elf 346: started
+729: Elf 277: started
+730: Elf 316: need help
+731: Elf 348: started
+732: Elf 343: need help
+733: Elf 345: need help
+734: Elf 349: started
+735: Elf 318: need help
+736: Elf 298: need help
+737: Elf 280: need help
+738: Elf 351: started
+739: Elf 319: need help
+740: Elf 321: need help
+741: Elf 383: started
+742: Elf 350: need help
+743: Elf 264: need help
+744: Elf 354: started
+745: Elf 352: need help
+746: Elf 355: started
+747: Elf 383: need help
+748: Elf 356: started
+749: Elf 357: started
+750: Elf 227: need help
+751: Elf 358: started
+752: Elf 326: need help
+753: Elf 359: started
+754: Elf 284: need help
+755: Elf 327: need help
+756: Elf 392: started
+757: Elf 362: started
+758: Elf 328: need help
+759: Elf 363: started
+760: Elf 360: need help
+761: Elf 333: started
+762: Elf 330: need help
+763: Elf 362: need help
+764: Elf 268: need help
+765: Elf 331: need help
+766: Elf 397: started
+767: Elf 398: started
+768: Elf 309: need help
+769: Elf 399: started
+770: Elf 400: started
+771: Elf 397: need help
+772: Elf 308: need help
+773: Elf 370: started
+774: Elf 311: need help
+775: Santa: going to sleep
+776: Elf 399: need help
+777: Elf 371: started
+778: Elf 404: started
+779: Elf 405: started
+780: Elf 373: started
+781: Elf 212: need help
+782: Elf 340: need help
+783: Elf 374: started
+784: Elf 375: started
+785: Elf 315: need help
+786: Elf 342: need help
+787: Elf 344: need help
+788: Elf 377: started
+789: Elf 296: need help
+790: Elf 378: started
+791: Elf 379: started
+792: Elf 347: started
+793: Elf 346: need help
+794: Elf 414: started
+795: Elf 378: need help
+796: Elf 277: need help
+797: Elf 381: started
+798: Elf 348: need help
+799: Elf 382: started
+800: Elf 353: started
+801: Elf 418: started
+802: Elf 384: started
+803: Elf 385: started
+804: Elf 351: need help
+805: Elf 386: started
+806: Elf 422: started
+807: Elf 387: started
+808: Elf 388: started
+809: Elf 386: need help
+810: Elf 354: need help
+811: Elf 385: need help
+812: Elf 355: need help
+813: Elf 356: need help
+814: Elf 424: started
+815: Elf 426: started
+816: Elf 361: started
+817: Elf 424: need help
+818: Elf 358: need help
+819: Elf 359: need help
+820: Elf 394: started
+821: Elf 395: started
+822: Elf 392: need help
+823: Elf 361: need help
+824: Elf 431: started
+825: Elf 332: need help
+826: Elf 432: started
+827: Elf 367: started
+828: Elf 333: need help
+829: Elf 368: started
+830: Elf 435: started
+831: Elf 401: started
+832: Elf 366: need help
+833: Elf 437: started
+834: Elf 368: need help
+835: Elf 402: started
+836: Elf 341: started
+837: Santa: helping elves
+838: Elf 400: need help
+839: Elf 4: get help
+840: Elf 372: started
+841: Elf 337: need help
+842: Elf 406: started
+843: Elf 371: need help
+844: Elf 407: started
+845: Elf 404: need help
+846: Elf 408: started
+847: Elf 405: need help
+848: Elf 406: need help
+849: Elf 409: started
+850: Elf 410: started
+851: Elf 411: started
+852: Elf 374: need help
+853: Elf 448: started
+854: Elf 375: need help
+855: Elf 449: started
+856: Elf 377: need help
+857: Elf 450: started
+858: Elf 415: started
+859: Elf 376: need help
+860: Elf 379: need help
+861: Elf 452: started
+862: Elf 450: need help
+863: Elf 453: started
+864: Elf 415: need help
+865: Elf 417: started
+866: Elf 381: need help
+867: Elf 419: started
+868: Elf 382: need help
+869: Elf 420: started
+870: Elf 353: need help
+871: Elf 417: need help
+872: Elf 418: need help
+873: Elf 323: need help
+874: Elf 384: need help
+875: Elf 423: started
+876: Elf 389: started
+877: Elf 422: need help
+878: Elf 390: started
+879: Elf 425: started
+880: Elf 391: started
+881: Elf 387: need help
+882: Elf 357: need help
+883: Elf 427: started
+884: Elf 388: need help
+885: Elf 428: started
+886: Elf 466: started
+887: Elf 429: started
+888: Elf 426: need help
+889: Elf 430: started
+890: Elf 396: started
+891: Elf 429: need help
+892: Elf 363: need help
+893: Elf 394: need help
+894: Elf 433: started
+895: Elf 395: need help
+896: Elf 434: started
+897: Elf 431: need help
+898: Elf 473: started
+899: Elf 432: need help
+900: Elf 474: started
+901: Elf 367: need help
+902: Elf 398: need help
+903: Elf 434: need help
+904: Elf 438: started
+905: Elf 435: need help
+906: Elf 474: need help
+907: Elf 477: started
+908: Elf 25: get help
+909: Elf 399: get help
+910: Elf 437: need help
+911: Elf 440: started
+912: Elf 479: started
+913: Elf 441: started
+914: Elf 402: need help
+915: Elf 481: started
+916: Elf 440: need help
+917: Elf 4: need help
+918: Elf 482: started
+919: Elf 483: started
+920: Elf 444: started
+921: Elf 373: need help
+922: Elf 445: started
+923: Elf 486: started
+924: Elf 446: started
+925: Elf 447: started
+926: Elf 408: need help
+927: Elf 412: started
+928: Elf 409: need help
+929: Elf 446: need help
+930: Elf 410: need help
+931: Elf 447: need help
+932: Elf 411: need help
+933: Elf 445: need help
+934: Elf 451: started
+935: Elf 449: need help
+936: Elf 347: need help
+937: Elf 416: started
+938: Elf 414: need help
+939: Elf 454: started
+940: Elf 451: need help
+941: Elf 349: need help
+942: Elf 495: started
+943: Elf 456: started
+944: Elf 453: need help
+945: Elf 457: started
+946: Elf 421: started
+947: Elf 458: started
+948: Elf 459: started
+949: Elf 419: need help
+950: Elf 460: started
+951: Elf 420: need help
+952: Elf 502: started
+953: Elf 423: need help
+954: Elf 462: started
+955: Elf 504: started
+956: Elf 463: started
+957: Elf 464: started
+958: Elf 390: need help
+959: Elf 462: need help
+960: Elf 465: started
+961: Elf 393: started
+962: Elf 391: need help
+963: Elf 509: started
+964: Elf 427: need help
+965: Elf 428: need help
+966: Elf 465: need help
+967: Elf 466: need help
+968: Elf 469: started
+969: Elf 286: need help
+970: Elf 512: started
+971: Elf 513: started
+972: Elf 430: need help
+973: Elf 472: started
+974: Elf 515: started
+975: Elf 369: started
+976: Elf 436: started
+977: Elf 433: need help
+978: Elf 475: started
+979: Elf 519: started
+980: Elf 476: started
+981: Elf 436: need help
+982: Elf 473: need help
+983: Elf 439: started
+984: Elf 478: started
+985: Santa: going to sleep
+986: Elf 438: need help
+987: Elf 476: need help
+988: Elf 370: need help
+989: Elf 480: started
+990: Elf 477: need help
+991: Elf 399: need help
+992: Elf 341: need help
+993: Elf 442: started
+994: Elf 526: started
+995: Elf 480: need help
+996: Elf 527: started
+997: Elf 441: need help
+998: Elf 528: started
+999: Elf 481: need help
+1000: Elf 485: started
+1001: Elf 527: need help
+1002: Elf 407: need help
+1003: Elf 483: need help
+1004: Elf 487: started
+1005: Elf 444: need help
+1006: Elf 488: started
+1007: Elf 486: need help
+1008: Elf 489: started
+1009: Elf 490: started
+1010: Elf 413: started
+1011: Elf 380: started
+1012: Elf 491: started
+1013: Elf 448: need help
+1014: Elf 492: started
+1015: Elf 538: started
+1016: Elf 493: started
+1017: Elf 492: need help
+1018: Elf 455: started
+1019: Elf 538: need help
+1020: Elf 416: need help
+1021: Elf 541: started
+1022: Elf 497: started
+1023: Elf 455: need help
+1024: Elf 498: started
+1025: Elf 495: need help
+1026: Elf 499: started
+1027: Elf 545: started
+1028: Elf 500: started
+1029: Elf 457: need help
+1030: Elf 501: started
+1031: Elf 421: need help
+1032: Elf 461: started
+1033: Elf 549: started
+1034: Elf 503: started
+1035: Elf 459: need help
+1036: Elf 389: need help
+1037: Elf 551: started
+1038: Elf 505: started
+1039: Elf 502: need help
+1040: Elf 506: started
+1041: Elf 425: need help
+1042: Elf 554: started
+1043: Elf 504: need help
+1044: Elf 505: need help
+1045: Elf 463: need help
+1046: Elf 464: need help
+1047: Elf 467: started
+1048: Elf 510: started
+1049: Elf 468: started
+1050: Elf 511: started
+1051: Elf 393: need help
+1052: Elf 470: started
+1053: Elf 468: need help
+1054: Elf 471: started
+1055: Elf 562: started
+1056: Elf 469: need help
+1057: Elf 563: started
+1058: Elf 512: need help
+1059: Elf 471: need help
+1060: Elf 516: started
+1061: Elf 517: started
+1062: Elf 472: need help
+1063: Elf 518: started
+1064: Elf 567: started
+1065: Elf 403: started
+1066: Elf 369: need help
+1067: Elf 569: started
+1068: Elf 521: started
+1069: Elf 401: need help
+1070: Elf 475: need help
+1071: Elf 403: need help
+1072: Elf 522: started
+1073: Elf 523: started
+1074: Elf 573: started
+1075: Elf 25: need help
+1076: Elf 574: started
+1077: Elf 439: need help
+1078: Elf 478: need help
+1079: Elf 525: started
+1080: Elf 573: need help
+1081: Elf 443: started
+1082: Elf 372: need help
+1083: Elf 484: started
+1084: Elf 578: started
+1085: Elf 443: need help
+1086: Elf 529: started
+1087: Elf 482: need help
+1088: Elf 530: started
+1089: Elf 528: need help
+1090: Elf 581: started
+1091: Elf 582: started
+1092: Elf 532: started
+1093: Elf 487: need help
+1094: Elf 584: started
+1095: Elf 534: started
+1096: Elf 488: need help
+1097: Elf 586: started
+1098: Elf 489: need help
+1099: Elf 587: started
+1100: Elf 490: need help
+1101: Elf 537: started
+1102: Elf 589: started
+1103: Elf 412: need help
+1104: Elf 590: started
+1105: Elf 591: started
+1106: Elf 589: need help
+1107: Elf 494: started
+1108: Elf 540: started
+1109: Elf 594: started
+1110: Elf 496: started
+1111: Elf 493: need help
+1112: Elf 542: started
+1113: Elf 454: need help
+1114: Elf 543: started
+1115: Elf 544: started
+1116: Elf 541: need help
+1117: Elf 542: need help
+1118: Elf 456: need help
+1119: Elf 546: started
+1120: Elf 543: need help
+1121: Elf 498: need help
+1122: Elf 547: started
+1123: Elf 548: started
+1124: Elf 545: need help
+1125: Elf 602: started
+1126: Elf 603: started
+1127: Elf 550: started
+1128: Elf 501: need help
+1129: Elf 460: need help
+1130: Elf 461: need help
+1131: Elf 602: need help
+1132: Elf 552: started
+1133: Elf 553: started
+1134: Elf 550: need help
+1135: Elf 503: need help
+1136: Elf 507: started
+1137: Elf 555: started
+1138: Elf 508: started
+1139: Elf 556: started
+1140: Elf 506: need help
+1141: Elf 557: started
+1142: Elf 613: started
+1143: Elf 558: started
+1144: Elf 559: started
+1145: Elf 467: need help
+1146: Elf 510: need help
+1147: Elf 616: started
+1148: Elf 509: need help
+1149: Elf 561: started
+1150: Elf 559: need help
+1151: Elf 511: need help
+1152: Elf 514: started
+1153: Elf 619: started
+1154: Elf 564: started
+1155: Elf 513: need help
+1156: Elf 565: started
+1157: Elf 562: need help
+1158: Elf 566: started
+1159: Elf 563: need help
+1160: Elf 515: need help
+1161: Elf 565: need help
+1162: Elf 624: started
+1163: Elf 517: need help
+1164: Elf 625: started
+1165: Elf 566: need help
+1166: Elf 570: started
+1167: Elf 567: need help
+1168: Elf 624: need help
+1169: Elf 571: started
+1170: Elf 572: started
+1171: Elf 570: need help
+1172: Santa: helping elves
+1173: Elf 522: need help
+1174: Elf 521: need help
+1175: Elf 26: get help
+1176: Elf 5: get help
+1177: Elf 575: started
+1178: Elf 576: started
+1179: Elf 479: need help
+1180: Elf 574: need help
+1181: Elf 577: started
+1182: Elf 525: need help
+1183: Elf 442: need help
+1184: Elf 526: need help
+1185: Elf 633: started
+1186: Elf 484: need help
+1187: Elf 580: started
+1188: Elf 635: started
+1189: Elf 531: started
+1190: Elf 529: need help
+1191: Elf 485: need help
+1192: Elf 637: started
+1193: Elf 530: need help
+1194: Elf 638: started
+1195: Elf 581: need help
+1196: Elf 585: started
+1197: Elf 582: need help
+1198: Elf 532: need help
+1199: Elf 535: started
+1200: Elf 536: started
+1201: Elf 585: need help
+1202: Elf 584: need help
+1203: Elf 588: started
+1204: Elf 586: need help
+1205: Elf 413: need help
+1206: Elf 380: need help
+1207: Elf 587: need help
+1208: Elf 491: need help
+1209: Elf 645: started
+1210: Elf 539: started
+1211: Elf 592: started
+1212: Elf 593: started
+1213: Elf 590: need help
+1214: Elf 452: need help
+1215: Elf 649: started
+1216: Elf 595: started
+1217: Elf 593: need help
+1218: Elf 494: need help
+1219: Elf 540: need help
+1220: Elf 596: started
+1221: Elf 652: started
+1222: Elf 496: need help
+1223: Elf 598: started
+1224: Elf 596: need help
+1225: Elf 599: started
+1226: Elf 499: need help
+1227: Elf 600: started
+1228: Elf 544: need help
+1229: Elf 657: started
+1230: Elf 458: need help
+1231: Elf 658: started
+1232: Elf 659: started
+1233: Elf 547: need help
+1234: Elf 657: need help
+1235: Elf 548: need help
+1236: Elf 605: started
+1237: Elf 549: need help
+1238: Elf 661: started
+1239: Elf 603: need help
+1240: Elf 663: started
+1241: Elf 551: need help
+1242: Elf 664: started
+1243: Elf 552: need help
+1244: Elf 609: started
+1245: Elf 610: started
+1246: Elf 553: need help
+1247: Elf 611: started
+1248: Elf 609: need help
+1249: Elf 675: started
+1250: Elf 555: need help
+1251: Elf 612: started
+1252: Elf 508: need help
+1253: Elf 614: started
+1254: Elf 556: need help
+1255: Elf 615: started
+1256: Elf 557: need help
+1257: Elf 613: need help
+1258: Elf 560: started
+1259: Elf 617: started
+1260: Elf 681: started
+1261: Elf 618: started
+1262: Elf 682: started
+1263: Elf 470: need help
+1264: Elf 616: need help
+1265: Elf 681: need help
+1266: Elf 561: need help
+1267: Elf 683: started
+1268: Elf 514: need help
+1269: Elf 685: started
+1270: Elf 622: started
+1271: Elf 685: need help
+1272: Elf 687: started
+1273: Elf 516: need help
+1274: Elf 568: started
+1275: Elf 520: started
+1276: Elf 518: need help
+1277: Elf 687: need help
+1278: Elf 627: started
+1279: Elf 625: need help
+1280: Elf 519: need help
+1281: Elf 568: need help
+1282: Elf 628: started
+1283: RD 2: rstarted
+1284: RD 3: rstarted
+1285: RD 4: rstarted
+1286: Elf 523: need help
+1287: RD 5: rstarted
+1288: RD 6: rstarted
+1289: Elf 572: need help
+1290: RD 7: rstarted
+1291: RD 8: rstarted
+1292: Elf 5: need help
+1293: RD 9: rstarted
+1294: Elf 575: need help
+1295: Elf 576: need help
+1296: Elf 579: started
+1297: Elf 634: started
+1298: Elf 577: need help
+1299: Elf 578: need help
+1300: Elf 636: started
+1301: Elf 633: need help
+1302: Elf 583: started
+1303: Elf 580: need help
+1304: Elf 635: need help
+1305: Elf 533: started
+1306: Elf 639: started
+1307: Elf 531: need help
+1308: Elf 640: started
+1309: Elf 637: need help
+1310: Elf 641: started
+1311: Elf 638: need help
+1312: Elf 642: started
+1313: Elf 534: need help
+1314: Elf 643: started
+1315: Elf 535: need help
+1316: Elf 644: started
+1317: Elf 536: need help
+1318: Elf 642: need help
+1319: Elf 537: need help
+1320: Elf 588: need help
+1321: Elf 646: started
+1322: Elf 645: need help
+1323: Elf 648: started
+1324: Elf 591: need help
+1325: Elf 539: need help
+1326: RD 2: return home
+1327: Elf 646: need help
+1328: Elf 650: started
+1329: Elf 594: need help
+1330: Elf 649: need help
+1331: Elf 597: started
+1332: Elf 595: need help
+1333: Elf 654: started
+1334: RD 8: return home
+1335: Elf 655: started
+1336: Elf 597: need help
+1337: Elf 598: need help
+1338: Elf 601: started
+1339: Elf 654: need help
+1340: Elf 656: started
+1341: Elf 600: need help
+1342: Elf 500: need help
+1343: Elf 599: need help
+1344: Elf 659: need help
+1345: Elf 606: started
+1346: Elf 607: started
+1347: Elf 605: need help
+1348: Elf 662: started
+1349: Elf 608: started
+1350: Elf 660: started
+1351: Elf 661: need help
+1352: Elf 663: need help
+1353: Elf 665: started
+1354: Elf 608: need help
+1355: Elf 667: started
+1356: Elf 664: need help
+1357: Elf 668: started
+1358: Elf 507: need help
+1359: Elf 665: need help
+1360: Elf 669: started
+1361: Elf 611: need help
+1362: Elf 670: started
+1363: Elf 671: started
+1364: Elf 672: started
+1365: Elf 673: started
+1366: Elf 674: started
+1367: Elf 554: need help
+1368: Elf 676: started
+1369: Elf 677: started
+1370: Elf 675: need help
+1371: Elf 678: started
+1372: Elf 676: need help
+1373: Elf 679: started
+1374: Elf 614: need help
+1375: Elf 680: started
+1376: Elf 615: need help
+1377: Elf 679: need help
+1378: Elf 560: need help
+1379: Elf 396: need help
+1380: Elf 617: need help
+1381: Elf 620: started
+1382: Elf 680: need help
+1383: Elf 621: started
+1384: Elf 618: need help
+1385: Elf 619: need help
+1386: Elf 682: need help
+1387: Elf 686: started
+1388: Elf 683: need help
+1389: Elf 623: started
+1390: Elf 564: need help
+1391: Elf 688: started
+1392: Elf 686: need help
+1393: Elf 689: started
+1394: Elf 690: started
+1395: Elf 626: started
+1396: Elf 691: started
+1397: RD 1: rstarted
+1398: Elf 569: need help
+1399: Elf 520: need help
+1400: Elf 626: need help
+1401: Elf 38: get help
+1402: Elf 627: need help
+1403: Santa: going to sleep
+1404: Elf 524: started
+1405: Elf 571: need help
+1406: Elf 630: started
+1407: Elf 631: started
+1408: Elf 26: need help
+1409: Elf 632: started
+1410: Elf 653: started
+1411: Elf 604: started
+1412: Elf 658: need help
+1413: Elf 632: need help
+1414: Elf 579: need help
+1415: Elf 636: need help
+1416: Elf 583: need help
+1417: Elf 533: need help
+1418: Elf 639: need help
+1419: Elf 653: need help
+1420: Elf 641: need help
+1421: Elf 647: started
+1422: Elf 604: need help
+1423: Elf 643: need help
+1424: Elf 651: started
+1425: RD 3: return home
+1426: Elf 648: need help
+1427: RD 4: return home
+1428: Elf 650: need help
+1429: Elf 647: need help
+1430: RD 5: return home
+1431: RD 7: return home
+1432: Elf 652: need help
+1433: RD 9: return home
+1434: Elf 497: need help
+1435: Elf 546: need help
+1436: Elf 651: need help
+1437: Elf 601: need help
+1438: Elf 656: need help
+1439: Elf 606: need help
+1440: Elf 607: need help
+1441: Elf 662: need help
+1442: Elf 666: started
+1443: Elf 660: need help
+1444: Elf 610: need help
+1445: Elf 667: need help
+1446: Elf 668: need help
+1447: Elf 669: need help
+1448: Elf 670: need help
+1449: Elf 671: need help
+1450: Elf 672: need help
+1451: Elf 673: need help
+1452: Elf 674: need help
+1453: Elf 612: need help
+1454: Elf 677: need help
+1455: Elf 678: need help
+1456: Elf 558: need help
+1457: Elf 684: started
+1458: Elf 592: need help
+1459: Elf 620: need help
+1460: Elf 621: need help
+1461: Elf 622: need help
+1462: Elf 623: need help
+1463: Elf 688: need help
+1464: Elf 689: need help
+1465: Elf 690: need help
+1466: Elf 629: started
+1467: Elf 691: need help
+1468: Elf 628: need help
+1469: Santa: helping elves
+1470: Elf 38: need help
+1471: Elf 13: get help
+1472: Elf 524: need help
+1473: Elf 630: need help
+1474: Elf 631: need help
+1475: Elf 634: need help
+1476: Elf 640: need help
+1477: Elf 644: need help
+1478: Elf 655: need help
+1479: Elf 666: need help
+1480: Elf 684: need help
+1481: RD 1: return home
+1482: Elf 438: get help
+1483: Elf 14: get help
+1484: RD 6: return home
+1485: Elf 629: need help
+1486: Santa: going to sleep
+1487: Elf 13: need help
+1488: Elf 14: need help
+1489: Elf 438: need help
+1490: Santa: closing workshop
+1491: Elf 14: taking holidays
+1492: Elf 629: taking holidays
+1493: Elf 462: taking holidays
+1494: Elf 40: taking holidays
+1495: Elf 36: taking holidays
+1496: Elf 49: taking holidays
+1497: Elf 37: taking holidays
+1498: Elf 43: taking holidays
+1499: Elf 42: taking holidays
+1500: RD 2: get hitched
+1501: RD 8: get hitched
+1502: RD 3: get hitched
+1503: RD 4: get hitched
+1504: Elf 46: taking holidays
+1505: RD 5: get hitched
+1506: RD 7: get hitched
+1507: RD 9: get hitched
+1508: Elf 60: taking holidays
+1509: RD 1: get hitched
+1510: Elf 53: taking holidays
+1511: Elf 41: taking holidays
+1512: Elf 54: taking holidays
+1513: Elf 44: taking holidays
+1514: RD 6: get hitched
+1515: Santa: Christmas started
+1516: Elf 438: taking holidays
+1517: Elf 56: taking holidays
+1518: Elf 67: taking holidays
+1519: Elf 35: taking holidays
+1520: Elf 51: taking holidays
+1521: Elf 20: taking holidays
+1522: Elf 9: taking holidays
+1523: Elf 47: taking holidays
+1524: Elf 62: taking holidays
+1525: Elf 18: taking holidays
+1526: Elf 48: taking holidays
+1527: Elf 57: taking holidays
+1528: Elf 45: taking holidays
+1529: Elf 58: taking holidays
+1530: Elf 69: taking holidays
+1531: Elf 52: taking holidays
+1532: Elf 63: taking holidays
+1533: Elf 64: taking holidays
+1534: Elf 55: taking holidays
+1535: Elf 74: taking holidays
+1536: Elf 65: taking holidays
+1537: Elf 59: taking holidays
+1538: Elf 66: taking holidays
+1539: Elf 76: taking holidays
+1540: Elf 77: taking holidays
+1541: Elf 11: taking holidays
+1542: Elf 68: taking holidays
+1543: Elf 79: taking holidays
+1544: Elf 90: taking holidays
+1545: Elf 80: taking holidays
+1546: Elf 61: taking holidays
+1547: Elf 71: taking holidays
+1548: Elf 73: taking holidays
+1549: Elf 84: taking holidays
+1550: Elf 72: taking holidays
+1551: Elf 85: taking holidays
+1552: Elf 50: taking holidays
+1553: Elf 81: taking holidays
+1554: Elf 82: taking holidays
+1555: Elf 92: taking holidays
+1556: Elf 106: taking holidays
+1557: Elf 75: taking holidays
+1558: Elf 86: taking holidays
+1559: Elf 87: taking holidays
+1560: Elf 96: taking holidays
+1561: Elf 88: taking holidays
+1562: Elf 97: taking holidays
+1563: Elf 99: taking holidays
+1564: Elf 91: taking holidays
+1565: Elf 101: taking holidays
+1566: Elf 70: taking holidays
+1567: Elf 102: taking holidays
+1568: Elf 83: taking holidays
+1569: Elf 103: taking holidays
+1570: Elf 6: taking holidays
+1571: Elf 104: taking holidays
+1572: Elf 94: taking holidays
+1573: Elf 111: taking holidays
+1574: Elf 95: taking holidays
+1575: Elf 109: taking holidays
+1576: Elf 93: taking holidays
+1577: Elf 12: taking holidays
+1578: Elf 98: taking holidays
+1579: Elf 105: taking holidays
+1580: Elf 107: taking holidays
+1581: Elf 108: taking holidays
+1582: Elf 78: taking holidays
+1583: Elf 110: taking holidays
+1584: Elf 89: taking holidays
+1585: Elf 112: taking holidays
+1586: Elf 122: taking holidays
+1587: Elf 1: taking holidays
+1588: Elf 113: taking holidays
+1589: Elf 115: taking holidays
+1590: Elf 116: taking holidays
+1591: Elf 128: taking holidays
+1592: Elf 118: taking holidays
+1593: Elf 130: taking holidays
+1594: Elf 131: taking holidays
+1595: Elf 121: taking holidays
+1596: Elf 134: taking holidays
+1597: Elf 135: taking holidays
+1598: Elf 136: taking holidays
+1599: Elf 100: taking holidays
+1600: Elf 148: taking holidays
+1601: Elf 114: taking holidays
+1602: Elf 126: taking holidays
+1603: Elf 137: taking holidays
+1604: Elf 23: taking holidays
+1605: Elf 127: taking holidays
+1606: Elf 139: taking holidays
+1607: Elf 16: taking holidays
+1608: Elf 141: taking holidays
+1609: Elf 119: taking holidays
+1610: Elf 120: taking holidays
+1611: Elf 133: taking holidays
+1612: Elf 146: taking holidays
+1613: Elf 144: taking holidays
+1614: Elf 147: taking holidays
+1615: Elf 161: taking holidays
+1616: Elf 138: taking holidays
+1617: Elf 152: taking holidays
+1618: Elf 129: taking holidays
+1619: Elf 140: taking holidays
+1620: Elf 143: taking holidays
+1621: Elf 132: taking holidays
+1622: Elf 154: taking holidays
+1623: Elf 158: taking holidays
+1624: Elf 173: taking holidays
+1625: Elf 124: taking holidays
+1626: Elf 125: taking holidays
+1627: Elf 162: taking holidays
+1628: Elf 163: taking holidays
+1629: Elf 150: taking holidays
+1630: Elf 15: taking holidays
+1631: Elf 19: taking holidays
+1632: Elf 166: taking holidays
+1633: Elf 155: taking holidays
+1634: Elf 168: taking holidays
+1635: Elf 169: taking holidays
+1636: Elf 145: taking holidays
+1637: Elf 182: taking holidays
+1638: Elf 159: taking holidays
+1639: Elf 174: taking holidays
+1640: Elf 149: taking holidays
+1641: Elf 160: taking holidays
+1642: Elf 192: taking holidays
+1643: Elf 165: taking holidays
+1644: Elf 153: taking holidays
+1645: Elf 180: taking holidays
+1646: Elf 142: taking holidays
+1647: Elf 181: taking holidays
+1648: Elf 197: taking holidays
+1649: Elf 170: taking holidays
+1650: Elf 172: taking holidays
+1651: Elf 175: taking holidays
+1652: Elf 123: taking holidays
+1653: Elf 188: taking holidays
+1654: Elf 164: taking holidays
+1655: Elf 186: taking holidays
+1656: Elf 151: taking holidays
+1657: Elf 189: taking holidays
+1658: Elf 179: taking holidays
+1659: Elf 117: taking holidays
+1660: Elf 167: taking holidays
+1661: Elf 3: taking holidays
+1662: Elf 195: taking holidays
+1663: Elf 28: taking holidays
+1664: Elf 193: taking holidays
+1665: Elf 196: taking holidays
+1666: Elf 27: taking holidays
+1667: Elf 171: taking holidays
+1668: Elf 187: taking holidays
+1669: Elf 218: taking holidays
+1670: Elf 199: taking holidays
+1671: Elf 204: taking holidays
+1672: Elf 190: taking holidays
+1673: Elf 178: taking holidays
+1674: Elf 176: taking holidays
+1675: Elf 191: taking holidays
+1676: Elf 194: taking holidays
+1677: Elf 210: taking holidays
+1678: Elf 156: taking holidays
+1679: Elf 183: taking holidays
+1680: Elf 184: taking holidays
+1681: Elf 202: taking holidays
+1682: Elf 216: taking holidays
+1683: Elf 200: taking holidays
+1684: Elf 201: taking holidays
+1685: Elf 177: taking holidays
+1686: Elf 232: taking holidays
+1687: Elf 206: taking holidays
+1688: Elf 205: taking holidays
+1689: Elf 207: taking holidays
+1690: Elf 203: taking holidays
+1691: Elf 209: taking holidays
+1692: Elf 208: taking holidays
+1693: Elf 223: taking holidays
+1694: Elf 10: taking holidays
+1695: Elf 29: taking holidays
+1696: Elf 157: taking holidays
+1697: Elf 198: taking holidays
+1698: Elf 228: taking holidays
+1699: Elf 239: taking holidays
+1700: Elf 229: taking holidays
+1701: Elf 185: taking holidays
+1702: Elf 215: taking holidays
+1703: Elf 220: taking holidays
+1704: Elf 222: taking holidays
+1705: Elf 225: taking holidays
+1706: Elf 2: taking holidays
+1707: Elf 22: taking holidays
+1708: Elf 213: taking holidays
+1709: Elf 244: taking holidays
+1710: Elf 230: taking holidays
+1711: Elf 235: taking holidays
+1712: Elf 234: taking holidays
+1713: Elf 243: taking holidays
+1714: Elf 236: taking holidays
+1715: Elf 247: taking holidays
+1716: Elf 224: taking holidays
+1717: Elf 237: taking holidays
+1718: Elf 238: taking holidays
+1719: Elf 252: taking holidays
+1720: Elf 240: taking holidays
+1721: Elf 217: taking holidays
+1722: Elf 214: taking holidays
+1723: Elf 256: taking holidays
+1724: Elf 233: taking holidays
+1725: Elf 231: taking holidays
+1726: Elf 257: taking holidays
+1727: Elf 221: taking holidays
+1728: Elf 259: taking holidays
+1729: Elf 263: taking holidays
+1730: Elf 282: taking holidays
+1731: Elf 246: taking holidays
+1732: Elf 226: taking holidays
+1733: Elf 250: taking holidays
+1734: Elf 267: taking holidays
+1735: Elf 251: taking holidays
+1736: Elf 8: taking holidays
+1737: Elf 269: taking holidays
+1738: Elf 253: taking holidays
+1739: Elf 241: taking holidays
+1740: Elf 255: taking holidays
+1741: Elf 295: taking holidays
+1742: Elf 274: taking holidays
+1743: Elf 258: taking holidays
+1744: Elf 260: taking holidays
+1745: Elf 245: taking holidays
+1746: Elf 275: taking holidays
+1747: Elf 262: taking holidays
+1748: Elf 261: taking holidays
+1749: Elf 302: taking holidays
+1750: Elf 278: taking holidays
+1751: Elf 283: taking holidays
+1752: Elf 285: taking holidays
+1753: Elf 219: taking holidays
+1754: Elf 287: taking holidays
+1755: Elf 32: taking holidays
+1756: Elf 266: taking holidays
+1757: Elf 290: taking holidays
+1758: Elf 312: taking holidays
+1759: Elf 271: taking holidays
+1760: Elf 272: taking holidays
+1761: Elf 254: taking holidays
+1762: Elf 273: taking holidays
+1763: Elf 276: taking holidays
+1764: Elf 322: taking holidays
+1765: Elf 248: taking holidays
+1766: Elf 281: taking holidays
+1767: Elf 303: taking holidays
+1768: Elf 306: taking holidays
+1769: Elf 305: taking holidays
+1770: Elf 249: taking holidays
+1771: Elf 211: taking holidays
+1772: Elf 288: taking holidays
+1773: Elf 289: taking holidays
+1774: Elf 270: taking holidays
+1775: Elf 292: taking holidays
+1776: Elf 338: taking holidays
+1777: Elf 313: taking holidays
+1778: Elf 242: taking holidays
+1779: Elf 294: taking holidays
+1780: Elf 297: taking holidays
+1781: Elf 320: taking holidays
+1782: Elf 299: taking holidays
+1783: Elf 279: taking holidays
+1784: Elf 301: taking holidays
+1785: Elf 317: taking holidays
+1786: Elf 300: taking holidays
+1787: Elf 324: taking holidays
+1788: Elf 325: taking holidays
+1789: Elf 304: taking holidays
+1790: Elf 265: taking holidays
+1791: Elf 329: taking holidays
+1792: Elf 307: taking holidays
+1793: Elf 365: taking holidays
+1794: Elf 364: taking holidays
+1795: Elf 334: taking holidays
+1796: Elf 31: taking holidays
+1797: Elf 335: taking holidays
+1798: Elf 336: taking holidays
+1799: Elf 310: taking holidays
+1800: Elf 24: taking holidays
+1801: Elf 291: taking holidays
+1802: Elf 21: taking holidays
+1803: Elf 339: taking holidays
+1804: Elf 293: taking holidays
+1805: Elf 316: taking holidays
+1806: Elf 343: taking holidays
+1807: Elf 345: taking holidays
+1808: Elf 298: taking holidays
+1809: Elf 314: taking holidays
+1810: Elf 280: taking holidays
+1811: Elf 318: taking holidays
+1812: Elf 321: taking holidays
+1813: Elf 319: taking holidays
+1814: Elf 350: taking holidays
+1815: Elf 264: taking holidays
+1816: Elf 352: taking holidays
+1817: Elf 383: taking holidays
+1818: Elf 326: taking holidays
+1819: Elf 227: taking holidays
+1820: Elf 327: taking holidays
+1821: Elf 328: taking holidays
+1822: Elf 284: taking holidays
+1823: Elf 330: taking holidays
+1824: Elf 360: taking holidays
+1825: Elf 331: taking holidays
+1826: Elf 362: taking holidays
+1827: Elf 268: taking holidays
+1828: Elf 309: taking holidays
+1829: Elf 397: taking holidays
+1830: Elf 308: taking holidays
+1831: Elf 311: taking holidays
+1832: Elf 34: taking holidays
+1833: Elf 33: taking holidays
+1834: Elf 212: taking holidays
+1835: Elf 315: taking holidays
+1836: Elf 342: taking holidays
+1837: Elf 344: taking holidays
+1838: Elf 340: taking holidays
+1839: Elf 296: taking holidays
+1840: Elf 378: taking holidays
+1841: Elf 277: taking holidays
+1842: Elf 348: taking holidays
+1843: Elf 346: taking holidays
+1844: Elf 351: taking holidays
+1845: Elf 386: taking holidays
+1846: Elf 354: taking holidays
+1847: Elf 385: taking holidays
+1848: Elf 355: taking holidays
+1849: Elf 356: taking holidays
+1850: Elf 424: taking holidays
+1851: Elf 358: taking holidays
+1852: Elf 359: taking holidays
+1853: Elf 392: taking holidays
+1854: Elf 361: taking holidays
+1855: Elf 332: taking holidays
+1856: Elf 333: taking holidays
+1857: Elf 366: taking holidays
+1858: Elf 368: taking holidays
+1859: Elf 400: taking holidays
+1860: Elf 371: taking holidays
+1861: Elf 337: taking holidays
+1862: Elf 404: taking holidays
+1863: Elf 405: taking holidays
+1864: Elf 406: taking holidays
+1865: Elf 374: taking holidays
+1866: Elf 375: taking holidays
+1867: Elf 377: taking holidays
+1868: Elf 376: taking holidays
+1869: Elf 450: taking holidays
+1870: Elf 379: taking holidays
+1871: Elf 415: taking holidays
+1872: Elf 381: taking holidays
+1873: Elf 382: taking holidays
+1874: Elf 353: taking holidays
+1875: Elf 417: taking holidays
+1876: Elf 418: taking holidays
+1877: Elf 323: taking holidays
+1878: Elf 384: taking holidays
+1879: Elf 422: taking holidays
+1880: Elf 387: taking holidays
+1881: Elf 388: taking holidays
+1882: Elf 357: taking holidays
+1883: Elf 426: taking holidays
+1884: Elf 363: taking holidays
+1885: Elf 429: taking holidays
+1886: Elf 394: taking holidays
+1887: Elf 395: taking holidays
+1888: Elf 431: taking holidays
+1889: Elf 367: taking holidays
+1890: Elf 398: taking holidays
+1891: Elf 432: taking holidays
+1892: Elf 434: taking holidays
+1893: Elf 435: taking holidays
+1894: Elf 474: taking holidays
+1895: Elf 402: taking holidays
+1896: Elf 437: taking holidays
+1897: Elf 4: taking holidays
+1898: Elf 440: taking holidays
+1899: Elf 373: taking holidays
+1900: Elf 408: taking holidays
+1901: Elf 446: taking holidays
+1902: Elf 409: taking holidays
+1903: Elf 410: taking holidays
+1904: Elf 447: taking holidays
+1905: Elf 411: taking holidays
+1906: Elf 449: taking holidays
+1907: Elf 445: taking holidays
+1908: Elf 347: taking holidays
+1909: Elf 451: taking holidays
+1910: Elf 414: taking holidays
+1911: Elf 349: taking holidays
+1912: Elf 419: taking holidays
+1913: Elf 453: taking holidays
+1914: Elf 423: taking holidays
+1915: Elf 420: taking holidays
+1916: Elf 390: taking holidays
+1917: Elf 391: taking holidays
+1918: Elf 427: taking holidays
+1919: Elf 428: taking holidays
+1920: Elf 465: taking holidays
+1921: Elf 466: taking holidays
+1922: Elf 286: taking holidays
+1923: Elf 430: taking holidays
+1924: Elf 433: taking holidays
+1925: Elf 436: taking holidays
+1926: Elf 473: taking holidays
+1927: Elf 30: taking holidays
+1928: Elf 370: taking holidays
+1929: Elf 476: taking holidays
+1930: Elf 17: taking holidays
+1931: Elf 477: taking holidays
+1932: Elf 399: taking holidays
+1933: Elf 341: taking holidays
+1934: Elf 480: taking holidays
+1935: Elf 441: taking holidays
+1936: Elf 481: taking holidays
+1937: Elf 527: taking holidays
+1938: Elf 407: taking holidays
+1939: Elf 483: taking holidays
+1940: Elf 444: taking holidays
+1941: Elf 486: taking holidays
+1942: Elf 448: taking holidays
+1943: Elf 492: taking holidays
+1944: Elf 538: taking holidays
+1945: Elf 416: taking holidays
+1946: Elf 455: taking holidays
+1947: Elf 495: taking holidays
+1948: Elf 457: taking holidays
+1949: Elf 421: taking holidays
+1950: Elf 459: taking holidays
+1951: Elf 389: taking holidays
+1952: Elf 502: taking holidays
+1953: Elf 425: taking holidays
+1954: Elf 504: taking holidays
+1955: Elf 505: taking holidays
+1956: Elf 463: taking holidays
+1957: Elf 464: taking holidays
+1958: Elf 393: taking holidays
+1959: Elf 468: taking holidays
+1960: Elf 512: taking holidays
+1961: Elf 469: taking holidays
+1962: Elf 471: taking holidays
+1963: Elf 472: taking holidays
+1964: Elf 369: taking holidays
+1965: Elf 401: taking holidays
+1966: Elf 475: taking holidays
+1967: Elf 403: taking holidays
+1968: Elf 25: taking holidays
+1969: Elf 439: taking holidays
+1970: Elf 478: taking holidays
+1971: Elf 573: taking holidays
+1972: Elf 372: taking holidays
+1973: Elf 443: taking holidays
+1974: Elf 482: taking holidays
+1975: Elf 528: taking holidays
+1976: Elf 487: taking holidays
+1977: Elf 488: taking holidays
+1978: Elf 489: taking holidays
+1979: Elf 490: taking holidays
+1980: Elf 412: taking holidays
+1981: Elf 493: taking holidays
+1982: Elf 589: taking holidays
+1983: Elf 454: taking holidays
+1984: Elf 541: taking holidays
+1985: Elf 542: taking holidays
+1986: Elf 456: taking holidays
+1987: Elf 543: taking holidays
+1988: Elf 498: taking holidays
+1989: Elf 545: taking holidays
+1990: Elf 501: taking holidays
+1991: Elf 460: taking holidays
+1992: Elf 461: taking holidays
+1993: Elf 602: taking holidays
+1994: Elf 550: taking holidays
+1995: Elf 503: taking holidays
+1996: Elf 506: taking holidays
+1997: Elf 467: taking holidays
+1998: Elf 510: taking holidays
+1999: Elf 509: taking holidays
+2000: Elf 559: taking holidays
+2001: Elf 511: taking holidays
+2002: Elf 513: taking holidays
+2003: Elf 562: taking holidays
+2004: Elf 563: taking holidays
+2005: Elf 515: taking holidays
+2006: Elf 565: taking holidays
+2007: Elf 517: taking holidays
+2008: Elf 566: taking holidays
+2009: Elf 567: taking holidays
+2010: Elf 624: taking holidays
+2011: Elf 570: taking holidays
+2012: Elf 522: taking holidays
+2013: Elf 521: taking holidays
+2014: Elf 479: taking holidays
+2015: Elf 574: taking holidays
+2016: Elf 525: taking holidays
+2017: Elf 442: taking holidays
+2018: Elf 526: taking holidays
+2019: Elf 484: taking holidays
+2020: Elf 529: taking holidays
+2021: Elf 485: taking holidays
+2022: Elf 530: taking holidays
+2023: Elf 581: taking holidays
+2024: Elf 582: taking holidays
+2025: Elf 532: taking holidays
+2026: Elf 585: taking holidays
+2027: Elf 584: taking holidays
+2028: Elf 586: taking holidays
+2029: Elf 413: taking holidays
+2030: Elf 380: taking holidays
+2031: Elf 587: taking holidays
+2032: Elf 491: taking holidays
+2033: Elf 590: taking holidays
+2034: Elf 452: taking holidays
+2035: Elf 593: taking holidays
+2036: Elf 494: taking holidays
+2037: Elf 540: taking holidays
+2038: Elf 496: taking holidays
+2039: Elf 596: taking holidays
+2040: Elf 499: taking holidays
+2041: Elf 544: taking holidays
+2042: Elf 458: taking holidays
+2043: Elf 547: taking holidays
+2044: Elf 657: taking holidays
+2045: Elf 548: taking holidays
+2046: Elf 549: taking holidays
+2047: Elf 603: taking holidays
+2048: Elf 551: taking holidays
+2049: Elf 552: taking holidays
+2050: Elf 553: taking holidays
+2051: Elf 609: taking holidays
+2052: Elf 555: taking holidays
+2053: Elf 508: taking holidays
+2054: Elf 556: taking holidays
+2055: Elf 557: taking holidays
+2056: Elf 613: taking holidays
+2057: Elf 470: taking holidays
+2058: Elf 616: taking holidays
+2059: Elf 681: taking holidays
+2060: Elf 561: taking holidays
+2061: Elf 514: taking holidays
+2062: Elf 685: taking holidays
+2063: Elf 516: taking holidays
+2064: Elf 518: taking holidays
+2065: Elf 687: taking holidays
+2066: Elf 625: taking holidays
+2067: Elf 519: taking holidays
+2068: Elf 568: taking holidays
+2069: Elf 523: taking holidays
+2070: Elf 572: taking holidays
+2071: Elf 5: taking holidays
+2072: Elf 575: taking holidays
+2073: Elf 576: taking holidays
+2074: Elf 577: taking holidays
+2075: Elf 578: taking holidays
+2076: Elf 633: taking holidays
+2077: Elf 580: taking holidays
+2078: Elf 635: taking holidays
+2079: Elf 531: taking holidays
+2080: Elf 637: taking holidays
+2081: Elf 638: taking holidays
+2082: Elf 534: taking holidays
+2083: Elf 535: taking holidays
+2084: Elf 536: taking holidays
+2085: Elf 642: taking holidays
+2086: Elf 537: taking holidays
+2087: Elf 588: taking holidays
+2088: Elf 645: taking holidays
+2089: Elf 591: taking holidays
+2090: Elf 646: taking holidays
+2091: Elf 539: taking holidays
+2092: Elf 594: taking holidays
+2093: Elf 649: taking holidays
+2094: Elf 595: taking holidays
+2095: Elf 597: taking holidays
+2096: Elf 598: taking holidays
+2097: Elf 654: taking holidays
+2098: Elf 600: taking holidays
+2099: Elf 500: taking holidays
+2100: Elf 599: taking holidays
+2101: Elf 659: taking holidays
+2102: Elf 605: taking holidays
+2103: Elf 661: taking holidays
+2104: Elf 663: taking holidays
+2105: Elf 608: taking holidays
+2106: Elf 507: taking holidays
+2107: Elf 665: taking holidays
+2108: Elf 664: taking holidays
+2109: Elf 611: taking holidays
+2110: Elf 554: taking holidays
+2111: Elf 675: taking holidays
+2112: Elf 676: taking holidays
+2113: Elf 614: taking holidays
+2114: Elf 615: taking holidays
+2115: Elf 679: taking holidays
+2116: Elf 560: taking holidays
+2117: Elf 396: taking holidays
+2118: Elf 617: taking holidays
+2119: Elf 680: taking holidays
+2120: Elf 618: taking holidays
+2121: Elf 619: taking holidays
+2122: Elf 682: taking holidays
+2123: Elf 683: taking holidays
+2124: Elf 564: taking holidays
+2125: Elf 686: taking holidays
+2126: Elf 569: taking holidays
+2127: Elf 520: taking holidays
+2128: Elf 626: taking holidays
+2129: Elf 627: taking holidays
+2130: Elf 7: taking holidays
+2131: Elf 571: taking holidays
+2132: Elf 26: taking holidays
+2133: Elf 658: taking holidays
+2134: Elf 632: taking holidays
+2135: Elf 579: taking holidays
+2136: Elf 636: taking holidays
+2137: Elf 583: taking holidays
+2138: Elf 533: taking holidays
+2139: Elf 639: taking holidays
+2140: Elf 653: taking holidays
+2141: Elf 641: taking holidays
+2142: Elf 604: taking holidays
+2143: Elf 648: taking holidays
+2144: Elf 643: taking holidays
+2145: Elf 650: taking holidays
+2146: Elf 647: taking holidays
+2147: Elf 652: taking holidays
+2148: Elf 497: taking holidays
+2149: Elf 546: taking holidays
+2150: Elf 651: taking holidays
+2151: Elf 601: taking holidays
+2152: Elf 656: taking holidays
+2153: Elf 606: taking holidays
+2154: Elf 607: taking holidays
+2155: Elf 662: taking holidays
+2156: Elf 660: taking holidays
+2157: Elf 610: taking holidays
+2158: Elf 667: taking holidays
+2159: Elf 668: taking holidays
+2160: Elf 669: taking holidays
+2161: Elf 670: taking holidays
+2162: Elf 671: taking holidays
+2163: Elf 672: taking holidays
+2164: Elf 673: taking holidays
+2165: Elf 674: taking holidays
+2166: Elf 612: taking holidays
+2167: Elf 677: taking holidays
+2168: Elf 678: taking holidays
+2169: Elf 558: taking holidays
+2170: Elf 592: taking holidays
+2171: Elf 620: taking holidays
+2172: Elf 621: taking holidays
+2173: Elf 622: taking holidays
+2174: Elf 623: taking holidays
+2175: Elf 689: taking holidays
+2176: Elf 688: taking holidays
+2177: Elf 690: taking holidays
+2178: Elf 691: taking holidays
+2179: Elf 628: taking holidays
+2180: Elf 38: taking holidays
+2181: Elf 524: taking holidays
+2182: Elf 630: taking holidays
+2183: Elf 631: taking holidays
+2184: Elf 634: taking holidays
+2185: Elf 640: taking holidays
+2186: Elf 644: taking holidays
+2187: Elf 655: taking holidays
+2188: Elf 666: taking holidays
+2189: Elf 684: taking holidays
+2190: Elf 13: taking holidays
+2191: Elf 39: taking holidays
